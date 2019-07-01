@@ -1,0 +1,2629 @@
+delete ./data/h5_patch
+init spend time 5.7324748039245605
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_4096_autoencoder_cnn.pth
+训练PCA模型参数......
+训练PCA共耗时:4307.059020042419
+读取的图像:i_duda
+读取的图片张数:1
+start compute the 1 pairs matches
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+the detect valid keypoints number 361
+the detect valid keypoints number 361
+融合后描述符维度:(361, 4224)
+The Average Precision of a pair images:0.9435727797776082
+start compute the 2 pairs matches
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+the detect valid keypoints number 364
+the detect valid keypoints number 364
+融合后描述符维度:(364, 4224)
+The Average Precision of a pair images:0.9034107883021459
+start compute the 3 pairs matches
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+the detect valid keypoints number 370
+the detect valid keypoints number 370
+融合后描述符维度:(370, 4224)
+The Average Precision of a pair images:0.903396963307216
+start compute the 4 pairs matches
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+the detect valid keypoints number 376
+the detect valid keypoints number 376
+融合后描述符维度:(376, 4224)
+The Average Precision of a pair images:0.872863905057968
+start compute the 5 pairs matches
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+the detect valid keypoints number 397
+the detect valid keypoints number 397
+融合后描述符维度:(397, 4224)
+The Average Precision of a pair images:0.8688834064987567
+提取描述符平均耗时:22.367114877700807
+计算描述符距离平均耗时:0.11599760055541992
+
+
+读取的图像:i_greenhouse
+读取的图片张数:2
+start compute the 1 pairs matches
+the detect valid keypoints number 323
+the detect valid keypoints number 323
+融合后描述符维度:(323, 4224)
+the detect valid keypoints number 321
+the detect valid keypoints number 321
+融合后描述符维度:(321, 4224)
+The Average Precision of a pair images:0.8419139779056006
+start compute the 2 pairs matches
+the detect valid keypoints number 323
+the detect valid keypoints number 323
+融合后描述符维度:(323, 4224)
+the detect valid keypoints number 313
+the detect valid keypoints number 313
+融合后描述符维度:(313, 4224)
+The Average Precision of a pair images:0.8727252884448884
+start compute the 3 pairs matches
+the detect valid keypoints number 323
+the detect valid keypoints number 323
+融合后描述符维度:(323, 4224)
+the detect valid keypoints number 336
+the detect valid keypoints number 336
+融合后描述符维度:(336, 4224)
+The Average Precision of a pair images:0.8296902144994465
+start compute the 4 pairs matches
+the detect valid keypoints number 323
+the detect valid keypoints number 323
+融合后描述符维度:(323, 4224)
+the detect valid keypoints number 323
+the detect valid keypoints number 323
+融合后描述符维度:(323, 4224)
+The Average Precision of a pair images:0.8280920335079045
+start compute the 5 pairs matches
+the detect valid keypoints number 323
+the detect valid keypoints number 323
+融合后描述符维度:(323, 4224)
+the detect valid keypoints number 317
+the detect valid keypoints number 317
+融合后描述符维度:(317, 4224)
+The Average Precision of a pair images:0.7654519152923642
+提取描述符平均耗时:12.782056665420532
+计算描述符距离平均耗时:0.07739129066467285
+
+
+读取的图像:i_pinard
+读取的图片张数:3
+start compute the 1 pairs matches
+the detect valid keypoints number 366
+the detect valid keypoints number 366
+融合后描述符维度:(366, 4224)
+the detect valid keypoints number 389
+the detect valid keypoints number 389
+融合后描述符维度:(389, 4224)
+The Average Precision of a pair images:0.8925049796665572
+start compute the 2 pairs matches
+the detect valid keypoints number 366
+the detect valid keypoints number 366
+融合后描述符维度:(366, 4224)
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+The Average Precision of a pair images:0.8902978856071572
+start compute the 3 pairs matches
+the detect valid keypoints number 366
+the detect valid keypoints number 366
+融合后描述符维度:(366, 4224)
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+The Average Precision of a pair images:0.9225578693064573
+start compute the 4 pairs matches
+the detect valid keypoints number 366
+the detect valid keypoints number 366
+融合后描述符维度:(366, 4224)
+the detect valid keypoints number 379
+the detect valid keypoints number 379
+融合后描述符维度:(379, 4224)
+The Average Precision of a pair images:0.9305474760421235
+start compute the 5 pairs matches
+the detect valid keypoints number 366
+the detect valid keypoints number 366
+融合后描述符维度:(366, 4224)
+the detect valid keypoints number 369
+the detect valid keypoints number 369
+融合后描述符维度:(369, 4224)
+The Average Precision of a pair images:0.9212493556300397
+提取描述符平均耗时:13.769912195205688
+计算描述符距离平均耗时:0.09747080802917481
+
+
+读取的图像:i_partyfood
+读取的图片张数:4
+start compute the 1 pairs matches
+the detect valid keypoints number 392
+the detect valid keypoints number 392
+融合后描述符维度:(392, 4224)
+the detect valid keypoints number 392
+the detect valid keypoints number 392
+融合后描述符维度:(392, 4224)
+The Average Precision of a pair images:0.9499676620328212
+start compute the 2 pairs matches
+the detect valid keypoints number 392
+the detect valid keypoints number 392
+融合后描述符维度:(392, 4224)
+the detect valid keypoints number 404
+the detect valid keypoints number 404
+融合后描述符维度:(404, 4224)
+The Average Precision of a pair images:0.9418081949027093
+start compute the 3 pairs matches
+the detect valid keypoints number 392
+the detect valid keypoints number 392
+融合后描述符维度:(392, 4224)
+the detect valid keypoints number 402
+the detect valid keypoints number 402
+融合后描述符维度:(402, 4224)
+The Average Precision of a pair images:0.9216182673480587
+start compute the 4 pairs matches
+the detect valid keypoints number 392
+the detect valid keypoints number 392
+融合后描述符维度:(392, 4224)
+the detect valid keypoints number 404
+the detect valid keypoints number 404
+融合后描述符维度:(404, 4224)
+The Average Precision of a pair images:0.9163504196281358
+start compute the 5 pairs matches
+the detect valid keypoints number 392
+the detect valid keypoints number 392
+融合后描述符维度:(392, 4224)
+the detect valid keypoints number 398
+the detect valid keypoints number 398
+融合后描述符维度:(398, 4224)
+The Average Precision of a pair images:0.9180543390491117
+提取描述符平均耗时:15.049430513381958
+计算描述符距离平均耗时:0.11351284980773926
+
+
+读取的图像:i_table
+读取的图片张数:5
+start compute the 1 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 343
+the detect valid keypoints number 343
+融合后描述符维度:(343, 4224)
+The Average Precision of a pair images:0.8585562568451686
+start compute the 2 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 332
+the detect valid keypoints number 332
+融合后描述符维度:(332, 4224)
+The Average Precision of a pair images:0.7778421866564782
+start compute the 3 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 367
+the detect valid keypoints number 367
+融合后描述符维度:(367, 4224)
+The Average Precision of a pair images:0.6997790825451832
+start compute the 4 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 328
+the detect valid keypoints number 328
+融合后描述符维度:(328, 4224)
+The Average Precision of a pair images:0.8628189327426988
+start compute the 5 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 369
+the detect valid keypoints number 369
+融合后描述符维度:(369, 4224)
+The Average Precision of a pair images:0.9625860962961124
+提取描述符平均耗时:15.930452489852906
+计算描述符距离平均耗时:0.09051122665405273
+
+
+读取的图像:i_leuven
+读取的图片张数:6
+start compute the 1 pairs matches
+the detect valid keypoints number 289
+the detect valid keypoints number 289
+融合后描述符维度:(289, 4224)
+the detect valid keypoints number 299
+the detect valid keypoints number 299
+融合后描述符维度:(299, 4224)
+The Average Precision of a pair images:0.9444662762198989
+start compute the 2 pairs matches
+the detect valid keypoints number 289
+the detect valid keypoints number 289
+融合后描述符维度:(289, 4224)
+the detect valid keypoints number 312
+the detect valid keypoints number 312
+融合后描述符维度:(312, 4224)
+The Average Precision of a pair images:0.9294088187731704
+start compute the 3 pairs matches
+the detect valid keypoints number 289
+the detect valid keypoints number 289
+融合后描述符维度:(289, 4224)
+the detect valid keypoints number 326
+the detect valid keypoints number 326
+融合后描述符维度:(326, 4224)
+The Average Precision of a pair images:0.8847998417624099
+start compute the 4 pairs matches
+the detect valid keypoints number 289
+the detect valid keypoints number 289
+融合后描述符维度:(289, 4224)
+the detect valid keypoints number 330
+the detect valid keypoints number 330
+融合后描述符维度:(330, 4224)
+The Average Precision of a pair images:0.8369845053349664
+start compute the 5 pairs matches
+the detect valid keypoints number 289
+the detect valid keypoints number 289
+融合后描述符维度:(289, 4224)
+the detect valid keypoints number 345
+the detect valid keypoints number 345
+融合后描述符维度:(345, 4224)
+The Average Precision of a pair images:0.461730835436365
+提取描述符平均耗时:14.007885503768922
+计算描述符距离平均耗时:0.07151122093200683
+
+
+读取的图像:i_pool
+读取的图片张数:7
+start compute the 1 pairs matches
+the detect valid keypoints number 342
+the detect valid keypoints number 342
+融合后描述符维度:(342, 4224)
+the detect valid keypoints number 196
+the detect valid keypoints number 196
+融合后描述符维度:(196, 4224)
+The Average Precision of a pair images:0.15698928056070915
+start compute the 2 pairs matches
+the detect valid keypoints number 342
+the detect valid keypoints number 342
+融合后描述符维度:(342, 4224)
+the detect valid keypoints number 145
+the detect valid keypoints number 145
+融合后描述符维度:(145, 4224)
+The Average Precision of a pair images:0.05257936507936507
+start compute the 3 pairs matches
+the detect valid keypoints number 342
+the detect valid keypoints number 342
+融合后描述符维度:(342, 4224)
+the detect valid keypoints number 193
+the detect valid keypoints number 193
+融合后描述符维度:(193, 4224)
+The Average Precision of a pair images:0.05674603174603175
+start compute the 4 pairs matches
+the detect valid keypoints number 342
+the detect valid keypoints number 342
+融合后描述符维度:(342, 4224)
+the detect valid keypoints number 162
+the detect valid keypoints number 162
+融合后描述符维度:(162, 4224)
+The Average Precision of a pair images:0.061363636363636356
+start compute the 5 pairs matches
+the detect valid keypoints number 342
+the detect valid keypoints number 342
+融合后描述符维度:(342, 4224)
+the detect valid keypoints number 149
+the detect valid keypoints number 149
+融合后描述符维度:(149, 4224)
+The Average Precision of a pair images:0.14916666666666667
+提取描述符平均耗时:12.697646951675415
+计算描述符距离平均耗时:0.04548964500427246
+
+
+读取的图像:i_yellowtent
+读取的图片张数:8
+start compute the 1 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 374
+the detect valid keypoints number 374
+融合后描述符维度:(374, 4224)
+The Average Precision of a pair images:0.9479965826687062
+start compute the 2 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 354
+the detect valid keypoints number 354
+融合后描述符维度:(354, 4224)
+The Average Precision of a pair images:0.8506883276241313
+start compute the 3 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 348
+the detect valid keypoints number 348
+融合后描述符维度:(348, 4224)
+The Average Precision of a pair images:0.5900091946026496
+start compute the 4 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 374
+the detect valid keypoints number 374
+融合后描述符维度:(374, 4224)
+The Average Precision of a pair images:0.8006942990640122
+start compute the 5 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+The Average Precision of a pair images:0.7130264369208081
+提取描述符平均耗时:15.767058753967286
+计算描述符距离平均耗时:0.09929275512695312
+
+
+读取的图像:i_fruits
+读取的图片张数:9
+start compute the 1 pairs matches
+the detect valid keypoints number 354
+the detect valid keypoints number 354
+融合后描述符维度:(354, 4224)
+the detect valid keypoints number 337
+the detect valid keypoints number 337
+融合后描述符维度:(337, 4224)
+The Average Precision of a pair images:0.9691420748844056
+start compute the 2 pairs matches
+the detect valid keypoints number 354
+the detect valid keypoints number 354
+融合后描述符维度:(354, 4224)
+the detect valid keypoints number 331
+the detect valid keypoints number 331
+融合后描述符维度:(331, 4224)
+The Average Precision of a pair images:0.9668170564492726
+start compute the 3 pairs matches
+the detect valid keypoints number 354
+the detect valid keypoints number 354
+融合后描述符维度:(354, 4224)
+the detect valid keypoints number 344
+the detect valid keypoints number 344
+融合后描述符维度:(344, 4224)
+The Average Precision of a pair images:0.9647882886810737
+start compute the 4 pairs matches
+the detect valid keypoints number 354
+the detect valid keypoints number 354
+融合后描述符维度:(354, 4224)
+the detect valid keypoints number 347
+the detect valid keypoints number 347
+融合后描述符维度:(347, 4224)
+The Average Precision of a pair images:0.9339222033339772
+start compute the 5 pairs matches
+the detect valid keypoints number 354
+the detect valid keypoints number 354
+融合后描述符维度:(354, 4224)
+the detect valid keypoints number 337
+the detect valid keypoints number 337
+融合后描述符维度:(337, 4224)
+The Average Precision of a pair images:0.9636345378642303
+提取描述符平均耗时:15.175049829483033
+计算描述符距离平均耗时:0.0906672477722168
+
+
+读取的图像:i_tools
+读取的图片张数:10
+start compute the 1 pairs matches
+the detect valid keypoints number 318
+the detect valid keypoints number 318
+融合后描述符维度:(318, 4224)
+the detect valid keypoints number 355
+the detect valid keypoints number 355
+融合后描述符维度:(355, 4224)
+The Average Precision of a pair images:0.5203288592434288
+start compute the 2 pairs matches
+the detect valid keypoints number 318
+the detect valid keypoints number 318
+融合后描述符维度:(318, 4224)
+the detect valid keypoints number 382
+the detect valid keypoints number 382
+融合后描述符维度:(382, 4224)
+The Average Precision of a pair images:0.3980871319544088
+start compute the 3 pairs matches
+the detect valid keypoints number 318
+the detect valid keypoints number 318
+融合后描述符维度:(318, 4224)
+the detect valid keypoints number 379
+the detect valid keypoints number 379
+融合后描述符维度:(379, 4224)
+The Average Precision of a pair images:0.1463645268287747
+start compute the 4 pairs matches
+the detect valid keypoints number 318
+the detect valid keypoints number 318
+融合后描述符维度:(318, 4224)
+the detect valid keypoints number 327
+the detect valid keypoints number 327
+融合后描述符维度:(327, 4224)
+The Average Precision of a pair images:0.19089659328642908
+start compute the 5 pairs matches
+the detect valid keypoints number 318
+the detect valid keypoints number 318
+融合后描述符维度:(318, 4224)
+the detect valid keypoints number 354
+the detect valid keypoints number 354
+融合后描述符维度:(354, 4224)
+The Average Precision of a pair images:0.028466640569667995
+提取描述符平均耗时:16.945868492126465
+计算描述符距离平均耗时:0.08546562194824218
+
+
+读取的图像:i_chestnuts
+读取的图片张数:11
+start compute the 1 pairs matches
+the detect valid keypoints number 356
+the detect valid keypoints number 356
+融合后描述符维度:(356, 4224)
+the detect valid keypoints number 339
+the detect valid keypoints number 339
+融合后描述符维度:(339, 4224)
+The Average Precision of a pair images:0.8541605339833888
+start compute the 2 pairs matches
+the detect valid keypoints number 356
+the detect valid keypoints number 356
+融合后描述符维度:(356, 4224)
+the detect valid keypoints number 325
+the detect valid keypoints number 325
+融合后描述符维度:(325, 4224)
+The Average Precision of a pair images:0.8496645408447913
+start compute the 3 pairs matches
+the detect valid keypoints number 356
+the detect valid keypoints number 356
+融合后描述符维度:(356, 4224)
+the detect valid keypoints number 336
+the detect valid keypoints number 336
+融合后描述符维度:(336, 4224)
+The Average Precision of a pair images:0.8584934353940029
+start compute the 4 pairs matches
+the detect valid keypoints number 356
+the detect valid keypoints number 356
+融合后描述符维度:(356, 4224)
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+The Average Precision of a pair images:0.811907818066045
+start compute the 5 pairs matches
+the detect valid keypoints number 356
+the detect valid keypoints number 356
+融合后描述符维度:(356, 4224)
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+The Average Precision of a pair images:0.7606722441205775
+提取描述符平均耗时:15.558513593673705
+计算描述符距离平均耗时:0.09014577865600586
+
+
+读取的图像:i_melon
+读取的图片张数:12
+start compute the 1 pairs matches
+the detect valid keypoints number 389
+the detect valid keypoints number 389
+融合后描述符维度:(389, 4224)
+the detect valid keypoints number 386
+the detect valid keypoints number 386
+融合后描述符维度:(386, 4224)
+The Average Precision of a pair images:0.8994910816976456
+start compute the 2 pairs matches
+the detect valid keypoints number 389
+the detect valid keypoints number 389
+融合后描述符维度:(389, 4224)
+the detect valid keypoints number 393
+the detect valid keypoints number 393
+融合后描述符维度:(393, 4224)
+The Average Precision of a pair images:0.852197104842994
+start compute the 3 pairs matches
+the detect valid keypoints number 389
+the detect valid keypoints number 389
+融合后描述符维度:(389, 4224)
+the detect valid keypoints number 397
+the detect valid keypoints number 397
+融合后描述符维度:(397, 4224)
+The Average Precision of a pair images:0.5434570982221487
+start compute the 4 pairs matches
+the detect valid keypoints number 389
+the detect valid keypoints number 389
+融合后描述符维度:(389, 4224)
+the detect valid keypoints number 380
+the detect valid keypoints number 380
+融合后描述符维度:(380, 4224)
+The Average Precision of a pair images:0.8665456146529071
+start compute the 5 pairs matches
+the detect valid keypoints number 389
+the detect valid keypoints number 389
+融合后描述符维度:(389, 4224)
+the detect valid keypoints number 380
+the detect valid keypoints number 380
+融合后描述符维度:(380, 4224)
+The Average Precision of a pair images:0.7838404739706393
+提取描述符平均耗时:16.80479702949524
+计算描述符距离平均耗时:0.11097931861877441
+
+
+读取的图像:i_crownday
+读取的图片张数:13
+start compute the 1 pairs matches
+the detect valid keypoints number 369
+the detect valid keypoints number 369
+融合后描述符维度:(369, 4224)
+the detect valid keypoints number 380
+the detect valid keypoints number 380
+融合后描述符维度:(380, 4224)
+The Average Precision of a pair images:0.8001207340876484
+start compute the 2 pairs matches
+the detect valid keypoints number 369
+the detect valid keypoints number 369
+融合后描述符维度:(369, 4224)
+the detect valid keypoints number 383
+the detect valid keypoints number 383
+融合后描述符维度:(383, 4224)
+The Average Precision of a pair images:0.8488545593936888
+start compute the 3 pairs matches
+the detect valid keypoints number 369
+the detect valid keypoints number 369
+融合后描述符维度:(369, 4224)
+the detect valid keypoints number 389
+the detect valid keypoints number 389
+融合后描述符维度:(389, 4224)
+The Average Precision of a pair images:0.9111577577655986
+start compute the 4 pairs matches
+the detect valid keypoints number 369
+the detect valid keypoints number 369
+融合后描述符维度:(369, 4224)
+the detect valid keypoints number 373
+the detect valid keypoints number 373
+融合后描述符维度:(373, 4224)
+The Average Precision of a pair images:0.8872640959980571
+start compute the 5 pairs matches
+the detect valid keypoints number 369
+the detect valid keypoints number 369
+融合后描述符维度:(369, 4224)
+the detect valid keypoints number 385
+the detect valid keypoints number 385
+融合后描述符维度:(385, 4224)
+The Average Precision of a pair images:0.846457099142735
+提取描述符平均耗时:17.817999649047852
+计算描述符距离平均耗时:0.10484495162963867
+
+
+读取的图像:i_troulos
+读取的图片张数:14
+start compute the 1 pairs matches
+the detect valid keypoints number 422
+the detect valid keypoints number 422
+融合后描述符维度:(422, 4224)
+the detect valid keypoints number 289
+the detect valid keypoints number 289
+融合后描述符维度:(289, 4224)
+The Average Precision of a pair images:0.7508667237904149
+start compute the 2 pairs matches
+the detect valid keypoints number 422
+the detect valid keypoints number 422
+融合后描述符维度:(422, 4224)
+the detect valid keypoints number 394
+the detect valid keypoints number 394
+融合后描述符维度:(394, 4224)
+The Average Precision of a pair images:0.013073217926150911
+start compute the 3 pairs matches
+the detect valid keypoints number 422
+the detect valid keypoints number 422
+融合后描述符维度:(422, 4224)
+the detect valid keypoints number 404
+the detect valid keypoints number 404
+融合后描述符维度:(404, 4224)
+The Average Precision of a pair images:0.8213487448314596
+start compute the 4 pairs matches
+the detect valid keypoints number 422
+the detect valid keypoints number 422
+融合后描述符维度:(422, 4224)
+the detect valid keypoints number 358
+the detect valid keypoints number 358
+融合后描述符维度:(358, 4224)
+The Average Precision of a pair images:0.47940514979259286
+start compute the 5 pairs matches
+the detect valid keypoints number 422
+the detect valid keypoints number 422
+融合后描述符维度:(422, 4224)
+the detect valid keypoints number 427
+the detect valid keypoints number 427
+融合后描述符维度:(427, 4224)
+The Average Precision of a pair images:0.6012603280012515
+提取描述符平均耗时:17.058404541015626
+计算描述符距离平均耗时:0.11521010398864746
+
+
+读取的图像:i_lionnight
+读取的图片张数:15
+start compute the 1 pairs matches
+the detect valid keypoints number 253
+the detect valid keypoints number 253
+融合后描述符维度:(253, 4224)
+the detect valid keypoints number 245
+the detect valid keypoints number 245
+融合后描述符维度:(245, 4224)
+The Average Precision of a pair images:0.1932152678282676
+start compute the 2 pairs matches
+the detect valid keypoints number 253
+the detect valid keypoints number 253
+融合后描述符维度:(253, 4224)
+the detect valid keypoints number 268
+the detect valid keypoints number 268
+融合后描述符维度:(268, 4224)
+The Average Precision of a pair images:0.25137832319331216
+start compute the 3 pairs matches
+the detect valid keypoints number 253
+the detect valid keypoints number 253
+融合后描述符维度:(253, 4224)
+the detect valid keypoints number 265
+the detect valid keypoints number 265
+融合后描述符维度:(265, 4224)
+The Average Precision of a pair images:0.3325301332136627
+start compute the 4 pairs matches
+the detect valid keypoints number 253
+the detect valid keypoints number 253
+融合后描述符维度:(253, 4224)
+the detect valid keypoints number 255
+the detect valid keypoints number 255
+融合后描述符维度:(255, 4224)
+The Average Precision of a pair images:0.2689726930225967
+start compute the 5 pairs matches
+the detect valid keypoints number 253
+the detect valid keypoints number 253
+融合后描述符维度:(253, 4224)
+the detect valid keypoints number 259
+the detect valid keypoints number 259
+融合后描述符维度:(259, 4224)
+The Average Precision of a pair images:0.3077255465869919
+提取描述符平均耗时:12.290869569778442
+计算描述符距离平均耗时:0.050661563873291016
+
+
+读取的图像:i_dome
+读取的图片张数:16
+start compute the 1 pairs matches
+the detect valid keypoints number 343
+the detect valid keypoints number 343
+融合后描述符维度:(343, 4224)
+the detect valid keypoints number 343
+the detect valid keypoints number 343
+融合后描述符维度:(343, 4224)
+The Average Precision of a pair images:0.902701670233302
+start compute the 2 pairs matches
+the detect valid keypoints number 343
+the detect valid keypoints number 343
+融合后描述符维度:(343, 4224)
+the detect valid keypoints number 320
+the detect valid keypoints number 320
+融合后描述符维度:(320, 4224)
+The Average Precision of a pair images:0.5222357326609373
+start compute the 3 pairs matches
+the detect valid keypoints number 343
+the detect valid keypoints number 343
+融合后描述符维度:(343, 4224)
+the detect valid keypoints number 323
+the detect valid keypoints number 323
+融合后描述符维度:(323, 4224)
+The Average Precision of a pair images:0.6017986816941352
+start compute the 4 pairs matches
+the detect valid keypoints number 343
+the detect valid keypoints number 343
+融合后描述符维度:(343, 4224)
+the detect valid keypoints number 335
+the detect valid keypoints number 335
+融合后描述符维度:(335, 4224)
+The Average Precision of a pair images:0.5841456248477475
+start compute the 5 pairs matches
+the detect valid keypoints number 343
+the detect valid keypoints number 343
+融合后描述符维度:(343, 4224)
+the detect valid keypoints number 320
+the detect valid keypoints number 320
+融合后描述符维度:(320, 4224)
+The Average Precision of a pair images:0.6987741347363171
+提取描述符平均耗时:17.40312271118164
+计算描述符距离平均耗时:0.08332743644714355
+
+
+读取的图像:i_nuts
+读取的图片张数:17
+start compute the 1 pairs matches
+the detect valid keypoints number 370
+the detect valid keypoints number 370
+融合后描述符维度:(370, 4224)
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+The Average Precision of a pair images:0.8421232596188268
+start compute the 2 pairs matches
+the detect valid keypoints number 370
+the detect valid keypoints number 370
+融合后描述符维度:(370, 4224)
+the detect valid keypoints number 396
+the detect valid keypoints number 396
+融合后描述符维度:(396, 4224)
+The Average Precision of a pair images:0.7167494445590787
+start compute the 3 pairs matches
+the detect valid keypoints number 370
+the detect valid keypoints number 370
+融合后描述符维度:(370, 4224)
+the detect valid keypoints number 415
+the detect valid keypoints number 415
+融合后描述符维度:(415, 4224)
+The Average Precision of a pair images:0.5663752794917719
+start compute the 4 pairs matches
+the detect valid keypoints number 370
+the detect valid keypoints number 370
+融合后描述符维度:(370, 4224)
+the detect valid keypoints number 405
+the detect valid keypoints number 405
+融合后描述符维度:(405, 4224)
+The Average Precision of a pair images:0.43278404633687184
+start compute the 5 pairs matches
+the detect valid keypoints number 370
+the detect valid keypoints number 370
+融合后描述符维度:(370, 4224)
+the detect valid keypoints number 385
+the detect valid keypoints number 385
+融合后描述符维度:(385, 4224)
+The Average Precision of a pair images:0.328322892223212
+提取描述符平均耗时:16.046477699279784
+计算描述符距离平均耗时:0.1074681282043457
+
+
+读取的图像:i_contruction
+读取的图片张数:18
+start compute the 1 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 367
+the detect valid keypoints number 367
+融合后描述符维度:(367, 4224)
+The Average Precision of a pair images:0.9649254540803789
+start compute the 2 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 361
+the detect valid keypoints number 361
+融合后描述符维度:(361, 4224)
+The Average Precision of a pair images:0.9571160573835462
+start compute the 3 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 379
+the detect valid keypoints number 379
+融合后描述符维度:(379, 4224)
+The Average Precision of a pair images:0.9455453973267793
+start compute the 4 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 375
+the detect valid keypoints number 375
+融合后描述符维度:(375, 4224)
+The Average Precision of a pair images:0.781248090267173
+start compute the 5 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 379
+the detect valid keypoints number 379
+融合后描述符维度:(379, 4224)
+The Average Precision of a pair images:0.6963574778829038
+提取描述符平均耗时:22.684877109527587
+计算描述符距离平均耗时:0.10343570709228515
+
+
+读取的图像:i_lionday
+读取的图片张数:19
+start compute the 1 pairs matches
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+the detect valid keypoints number 367
+the detect valid keypoints number 367
+融合后描述符维度:(367, 4224)
+The Average Precision of a pair images:0.2863285098373768
+start compute the 2 pairs matches
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+the detect valid keypoints number 396
+the detect valid keypoints number 396
+融合后描述符维度:(396, 4224)
+The Average Precision of a pair images:0.588372660490227
+start compute the 3 pairs matches
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+the detect valid keypoints number 373
+the detect valid keypoints number 373
+融合后描述符维度:(373, 4224)
+The Average Precision of a pair images:0.16176031532707394
+start compute the 4 pairs matches
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+the detect valid keypoints number 352
+the detect valid keypoints number 352
+融合后描述符维度:(352, 4224)
+The Average Precision of a pair images:0.35666187374718444
+start compute the 5 pairs matches
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+the detect valid keypoints number 385
+the detect valid keypoints number 385
+融合后描述符维度:(385, 4224)
+The Average Precision of a pair images:0.5260707746096772
+提取描述符平均耗时:15.753789329528809
+计算描述符距离平均耗时:0.09844741821289063
+
+
+读取的图像:i_greentea
+读取的图片张数:20
+start compute the 1 pairs matches
+the detect valid keypoints number 329
+the detect valid keypoints number 329
+融合后描述符维度:(329, 4224)
+the detect valid keypoints number 333
+the detect valid keypoints number 333
+融合后描述符维度:(333, 4224)
+The Average Precision of a pair images:0.9510394263500953
+start compute the 2 pairs matches
+the detect valid keypoints number 329
+the detect valid keypoints number 329
+融合后描述符维度:(329, 4224)
+the detect valid keypoints number 345
+the detect valid keypoints number 345
+融合后描述符维度:(345, 4224)
+The Average Precision of a pair images:0.9329606035929823
+start compute the 3 pairs matches
+the detect valid keypoints number 329
+the detect valid keypoints number 329
+融合后描述符维度:(329, 4224)
+the detect valid keypoints number 332
+the detect valid keypoints number 332
+融合后描述符维度:(332, 4224)
+The Average Precision of a pair images:0.9446058319170204
+start compute the 4 pairs matches
+the detect valid keypoints number 329
+the detect valid keypoints number 329
+融合后描述符维度:(329, 4224)
+the detect valid keypoints number 354
+the detect valid keypoints number 354
+融合后描述符维度:(354, 4224)
+The Average Precision of a pair images:0.9499498205655397
+start compute the 5 pairs matches
+the detect valid keypoints number 329
+the detect valid keypoints number 329
+融合后描述符维度:(329, 4224)
+the detect valid keypoints number 376
+the detect valid keypoints number 376
+融合后描述符维度:(376, 4224)
+The Average Precision of a pair images:0.8933780914585425
+提取描述符平均耗时:15.113023614883422
+计算描述符距离平均耗时:0.08519110679626465
+
+
+读取的图像:i_ajuntament
+读取的图片张数:21
+start compute the 1 pairs matches
+the detect valid keypoints number 330
+the detect valid keypoints number 330
+融合后描述符维度:(330, 4224)
+the detect valid keypoints number 346
+the detect valid keypoints number 346
+融合后描述符维度:(346, 4224)
+The Average Precision of a pair images:0.9132588426946728
+start compute the 2 pairs matches
+the detect valid keypoints number 330
+the detect valid keypoints number 330
+融合后描述符维度:(330, 4224)
+the detect valid keypoints number 266
+the detect valid keypoints number 266
+融合后描述符维度:(266, 4224)
+The Average Precision of a pair images:0.5911367023725069
+start compute the 3 pairs matches
+the detect valid keypoints number 330
+the detect valid keypoints number 330
+融合后描述符维度:(330, 4224)
+the detect valid keypoints number 205
+the detect valid keypoints number 205
+融合后描述符维度:(205, 4224)
+The Average Precision of a pair images:0.27152680580174315
+start compute the 4 pairs matches
+the detect valid keypoints number 330
+the detect valid keypoints number 330
+融合后描述符维度:(330, 4224)
+the detect valid keypoints number 161
+the detect valid keypoints number 161
+融合后描述符维度:(161, 4224)
+The Average Precision of a pair images:0.34540211024854695
+start compute the 5 pairs matches
+the detect valid keypoints number 330
+the detect valid keypoints number 330
+融合后描述符维度:(330, 4224)
+the detect valid keypoints number 196
+the detect valid keypoints number 196
+融合后描述符维度:(196, 4224)
+The Average Precision of a pair images:0.4455879912096058
+提取描述符平均耗时:12.838972568511963
+计算描述符距离平均耗时:0.060071468353271484
+
+
+读取的图像:i_londonbridge
+读取的图片张数:22
+start compute the 1 pairs matches
+the detect valid keypoints number 278
+the detect valid keypoints number 278
+融合后描述符维度:(278, 4224)
+the detect valid keypoints number 319
+the detect valid keypoints number 319
+融合后描述符维度:(319, 4224)
+The Average Precision of a pair images:0.028179018435730677
+start compute the 2 pairs matches
+the detect valid keypoints number 278
+the detect valid keypoints number 278
+融合后描述符维度:(278, 4224)
+the detect valid keypoints number 320
+the detect valid keypoints number 320
+融合后描述符维度:(320, 4224)
+The Average Precision of a pair images:0.5073199317634485
+start compute the 3 pairs matches
+the detect valid keypoints number 278
+the detect valid keypoints number 278
+融合后描述符维度:(278, 4224)
+the detect valid keypoints number 328
+the detect valid keypoints number 328
+融合后描述符维度:(328, 4224)
+The Average Precision of a pair images:0.19763154214177767
+start compute the 4 pairs matches
+the detect valid keypoints number 278
+the detect valid keypoints number 278
+融合后描述符维度:(278, 4224)
+the detect valid keypoints number 335
+the detect valid keypoints number 335
+融合后描述符维度:(335, 4224)
+The Average Precision of a pair images:0.002243589743589744
+start compute the 5 pairs matches
+the detect valid keypoints number 278
+the detect valid keypoints number 278
+融合后描述符维度:(278, 4224)
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+The Average Precision of a pair images:0.6329427497004584
+提取描述符平均耗时:16.109706687927247
+计算描述符距离平均耗时:0.06985363960266114
+
+
+读取的图像:i_parking
+读取的图片张数:23
+start compute the 1 pairs matches
+the detect valid keypoints number 345
+the detect valid keypoints number 345
+融合后描述符维度:(345, 4224)
+the detect valid keypoints number 348
+the detect valid keypoints number 348
+融合后描述符维度:(348, 4224)
+The Average Precision of a pair images:0.906604026184632
+start compute the 2 pairs matches
+the detect valid keypoints number 345
+the detect valid keypoints number 345
+融合后描述符维度:(345, 4224)
+the detect valid keypoints number 355
+the detect valid keypoints number 355
+融合后描述符维度:(355, 4224)
+The Average Precision of a pair images:0.8094670694774242
+start compute the 3 pairs matches
+the detect valid keypoints number 345
+the detect valid keypoints number 345
+融合后描述符维度:(345, 4224)
+the detect valid keypoints number 324
+the detect valid keypoints number 324
+融合后描述符维度:(324, 4224)
+The Average Precision of a pair images:0.669488690804926
+start compute the 4 pairs matches
+the detect valid keypoints number 345
+the detect valid keypoints number 345
+融合后描述符维度:(345, 4224)
+the detect valid keypoints number 327
+the detect valid keypoints number 327
+融合后描述符维度:(327, 4224)
+The Average Precision of a pair images:0.6452712221342516
+start compute the 5 pairs matches
+the detect valid keypoints number 345
+the detect valid keypoints number 345
+融合后描述符维度:(345, 4224)
+the detect valid keypoints number 333
+the detect valid keypoints number 333
+融合后描述符维度:(333, 4224)
+The Average Precision of a pair images:0.7416890186120848
+提取描述符平均耗时:14.408032512664795
+计算描述符距离平均耗时:0.08703646659851075
+
+
+读取的图像:i_pencils
+读取的图片张数:24
+start compute the 1 pairs matches
+the detect valid keypoints number 355
+the detect valid keypoints number 355
+融合后描述符维度:(355, 4224)
+the detect valid keypoints number 341
+the detect valid keypoints number 341
+融合后描述符维度:(341, 4224)
+The Average Precision of a pair images:0.6341041512438388
+start compute the 2 pairs matches
+the detect valid keypoints number 355
+the detect valid keypoints number 355
+融合后描述符维度:(355, 4224)
+the detect valid keypoints number 348
+the detect valid keypoints number 348
+融合后描述符维度:(348, 4224)
+The Average Precision of a pair images:0.0
+start compute the 3 pairs matches
+the detect valid keypoints number 355
+the detect valid keypoints number 355
+融合后描述符维度:(355, 4224)
+the detect valid keypoints number 364
+the detect valid keypoints number 364
+融合后描述符维度:(364, 4224)
+The Average Precision of a pair images:0.004807692307692308
+start compute the 4 pairs matches
+the detect valid keypoints number 355
+the detect valid keypoints number 355
+融合后描述符维度:(355, 4224)
+the detect valid keypoints number 341
+the detect valid keypoints number 341
+融合后描述符维度:(341, 4224)
+The Average Precision of a pair images:0.3338151178039028
+start compute the 5 pairs matches
+the detect valid keypoints number 355
+the detect valid keypoints number 355
+融合后描述符维度:(355, 4224)
+the detect valid keypoints number 332
+the detect valid keypoints number 332
+融合后描述符维度:(332, 4224)
+The Average Precision of a pair images:0.2771867515706156
+提取描述符平均耗时:19.346104860305786
+计算描述符距离平均耗时:0.09153194427490234
+
+
+读取的图像:i_school
+读取的图片张数:25
+start compute the 1 pairs matches
+the detect valid keypoints number 329
+the detect valid keypoints number 329
+融合后描述符维度:(329, 4224)
+the detect valid keypoints number 312
+the detect valid keypoints number 312
+融合后描述符维度:(312, 4224)
+The Average Precision of a pair images:0.8165417093904923
+start compute the 2 pairs matches
+the detect valid keypoints number 329
+the detect valid keypoints number 329
+融合后描述符维度:(329, 4224)
+the detect valid keypoints number 314
+the detect valid keypoints number 314
+融合后描述符维度:(314, 4224)
+The Average Precision of a pair images:0.8586466351119824
+start compute the 3 pairs matches
+the detect valid keypoints number 329
+the detect valid keypoints number 329
+融合后描述符维度:(329, 4224)
+the detect valid keypoints number 326
+the detect valid keypoints number 326
+融合后描述符维度:(326, 4224)
+The Average Precision of a pair images:0.6224894040326718
+start compute the 4 pairs matches
+the detect valid keypoints number 329
+the detect valid keypoints number 329
+融合后描述符维度:(329, 4224)
+the detect valid keypoints number 311
+the detect valid keypoints number 311
+融合后描述符维度:(311, 4224)
+The Average Precision of a pair images:0.7868905692611078
+start compute the 5 pairs matches
+the detect valid keypoints number 329
+the detect valid keypoints number 329
+融合后描述符维度:(329, 4224)
+the detect valid keypoints number 320
+the detect valid keypoints number 320
+融合后描述符维度:(320, 4224)
+The Average Precision of a pair images:0.5172729454229856
+提取描述符平均耗时:14.17996096611023
+计算描述符距离平均耗时:0.0787515640258789
+
+
+读取的图像:i_zion
+读取的图片张数:26
+start compute the 1 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 368
+the detect valid keypoints number 368
+融合后描述符维度:(368, 4224)
+The Average Precision of a pair images:0.9347585868828168
+start compute the 2 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 338
+the detect valid keypoints number 338
+融合后描述符维度:(338, 4224)
+The Average Precision of a pair images:0.8004617192622202
+start compute the 3 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 355
+the detect valid keypoints number 355
+融合后描述符维度:(355, 4224)
+The Average Precision of a pair images:0.7886504723065517
+start compute the 4 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 366
+the detect valid keypoints number 366
+融合后描述符维度:(366, 4224)
+The Average Precision of a pair images:0.7001599733047744
+start compute the 5 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 404
+the detect valid keypoints number 404
+融合后描述符维度:(404, 4224)
+The Average Precision of a pair images:0.3877841780593442
+提取描述符平均耗时:16.782872247695924
+计算描述符距离平均耗时:0.09606027603149414
+
+
+读取的图像:i_veggies
+读取的图片张数:27
+start compute the 1 pairs matches
+the detect valid keypoints number 391
+the detect valid keypoints number 391
+融合后描述符维度:(391, 4224)
+the detect valid keypoints number 399
+the detect valid keypoints number 399
+融合后描述符维度:(399, 4224)
+The Average Precision of a pair images:0.9233726577501522
+start compute the 2 pairs matches
+the detect valid keypoints number 391
+the detect valid keypoints number 391
+融合后描述符维度:(391, 4224)
+the detect valid keypoints number 409
+the detect valid keypoints number 409
+融合后描述符维度:(409, 4224)
+The Average Precision of a pair images:0.7342426828530104
+start compute the 3 pairs matches
+the detect valid keypoints number 391
+the detect valid keypoints number 391
+融合后描述符维度:(391, 4224)
+the detect valid keypoints number 420
+the detect valid keypoints number 420
+融合后描述符维度:(420, 4224)
+The Average Precision of a pair images:0.8159013395900047
+start compute the 4 pairs matches
+the detect valid keypoints number 391
+the detect valid keypoints number 391
+融合后描述符维度:(391, 4224)
+the detect valid keypoints number 422
+the detect valid keypoints number 422
+融合后描述符维度:(422, 4224)
+The Average Precision of a pair images:0.43580718879484903
+start compute the 5 pairs matches
+the detect valid keypoints number 391
+the detect valid keypoints number 391
+融合后描述符维度:(391, 4224)
+the detect valid keypoints number 421
+the detect valid keypoints number 421
+融合后描述符维度:(421, 4224)
+The Average Precision of a pair images:0.444258883176586
+提取描述符平均耗时:17.177514171600343
+计算描述符距离平均耗时:0.11865825653076172
+
+
+读取的图像:i_ktirio
+读取的图片张数:28
+start compute the 1 pairs matches
+the detect valid keypoints number 347
+the detect valid keypoints number 347
+融合后描述符维度:(347, 4224)
+the detect valid keypoints number 358
+the detect valid keypoints number 358
+融合后描述符维度:(358, 4224)
+The Average Precision of a pair images:0.9520988187043016
+start compute the 2 pairs matches
+the detect valid keypoints number 347
+the detect valid keypoints number 347
+融合后描述符维度:(347, 4224)
+the detect valid keypoints number 338
+the detect valid keypoints number 338
+融合后描述符维度:(338, 4224)
+The Average Precision of a pair images:0.6073520281213385
+start compute the 3 pairs matches
+the detect valid keypoints number 347
+the detect valid keypoints number 347
+融合后描述符维度:(347, 4224)
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+The Average Precision of a pair images:0.6129732854462129
+start compute the 4 pairs matches
+the detect valid keypoints number 347
+the detect valid keypoints number 347
+融合后描述符维度:(347, 4224)
+the detect valid keypoints number 333
+the detect valid keypoints number 333
+融合后描述符维度:(333, 4224)
+The Average Precision of a pair images:0.47940403645651947
+start compute the 5 pairs matches
+the detect valid keypoints number 347
+the detect valid keypoints number 347
+融合后描述符维度:(347, 4224)
+the detect valid keypoints number 359
+the detect valid keypoints number 359
+融合后描述符维度:(359, 4224)
+The Average Precision of a pair images:0.38058242980888274
+提取描述符平均耗时:15.04444432258606
+计算描述符距离平均耗时:0.0906649112701416
+
+
+读取的图像:i_bridger
+读取的图片张数:29
+start compute the 1 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 328
+the detect valid keypoints number 328
+融合后描述符维度:(328, 4224)
+The Average Precision of a pair images:0.8934824434186468
+start compute the 2 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 330
+the detect valid keypoints number 330
+融合后描述符维度:(330, 4224)
+The Average Precision of a pair images:0.9194592846127325
+start compute the 3 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 308
+the detect valid keypoints number 308
+融合后描述符维度:(308, 4224)
+The Average Precision of a pair images:0.852325491242345
+start compute the 4 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 296
+the detect valid keypoints number 296
+融合后描述符维度:(296, 4224)
+The Average Precision of a pair images:0.6663311565978874
+start compute the 5 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 123
+the detect valid keypoints number 123
+融合后描述符维度:(123, 4224)
+The Average Precision of a pair images:0.13680555555555557
+提取描述符平均耗时:15.824610805511474
+计算描述符距离平均耗时:0.07421350479125977
+
+
+读取的图像:i_indiana
+读取的图片张数:30
+start compute the 1 pairs matches
+the detect valid keypoints number 357
+the detect valid keypoints number 357
+融合后描述符维度:(357, 4224)
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+The Average Precision of a pair images:0.9166939348945184
+start compute the 2 pairs matches
+the detect valid keypoints number 357
+the detect valid keypoints number 357
+融合后描述符维度:(357, 4224)
+the detect valid keypoints number 363
+the detect valid keypoints number 363
+融合后描述符维度:(363, 4224)
+The Average Precision of a pair images:0.8377089891107887
+start compute the 3 pairs matches
+the detect valid keypoints number 357
+the detect valid keypoints number 357
+融合后描述符维度:(357, 4224)
+the detect valid keypoints number 363
+the detect valid keypoints number 363
+融合后描述符维度:(363, 4224)
+The Average Precision of a pair images:0.8439279848965882
+start compute the 4 pairs matches
+the detect valid keypoints number 357
+the detect valid keypoints number 357
+融合后描述符维度:(357, 4224)
+the detect valid keypoints number 357
+the detect valid keypoints number 357
+融合后描述符维度:(357, 4224)
+The Average Precision of a pair images:0.8157222772332433
+start compute the 5 pairs matches
+the detect valid keypoints number 357
+the detect valid keypoints number 357
+融合后描述符维度:(357, 4224)
+the detect valid keypoints number 349
+the detect valid keypoints number 349
+融合后描述符维度:(349, 4224)
+The Average Precision of a pair images:0.7970150440689183
+提取描述符平均耗时:17.447289848327635
+计算描述符距离平均耗时:0.0958707332611084
+
+
+读取的图像:i_toy
+读取的图片张数:31
+start compute the 1 pairs matches
+the detect valid keypoints number 326
+the detect valid keypoints number 326
+融合后描述符维度:(326, 4224)
+the detect valid keypoints number 334
+the detect valid keypoints number 334
+融合后描述符维度:(334, 4224)
+The Average Precision of a pair images:0.931904751608843
+start compute the 2 pairs matches
+the detect valid keypoints number 326
+the detect valid keypoints number 326
+融合后描述符维度:(326, 4224)
+the detect valid keypoints number 317
+the detect valid keypoints number 317
+融合后描述符维度:(317, 4224)
+The Average Precision of a pair images:0.9269459054171596
+start compute the 3 pairs matches
+the detect valid keypoints number 326
+the detect valid keypoints number 326
+融合后描述符维度:(326, 4224)
+the detect valid keypoints number 318
+the detect valid keypoints number 318
+融合后描述符维度:(318, 4224)
+The Average Precision of a pair images:0.9496187232953777
+start compute the 4 pairs matches
+the detect valid keypoints number 326
+the detect valid keypoints number 326
+融合后描述符维度:(326, 4224)
+the detect valid keypoints number 306
+the detect valid keypoints number 306
+融合后描述符维度:(306, 4224)
+The Average Precision of a pair images:0.914047494806138
+start compute the 5 pairs matches
+the detect valid keypoints number 326
+the detect valid keypoints number 326
+融合后描述符维度:(326, 4224)
+the detect valid keypoints number 315
+the detect valid keypoints number 315
+融合后描述符维度:(315, 4224)
+The Average Precision of a pair images:0.880921359926476
+提取描述符平均耗时:13.928011989593506
+计算描述符距离平均耗时:0.077842378616333
+
+
+读取的图像:i_books
+读取的图片张数:32
+start compute the 1 pairs matches
+the detect valid keypoints number 362
+the detect valid keypoints number 362
+融合后描述符维度:(362, 4224)
+the detect valid keypoints number 399
+the detect valid keypoints number 399
+融合后描述符维度:(399, 4224)
+The Average Precision of a pair images:0.8984501426668412
+start compute the 2 pairs matches
+the detect valid keypoints number 362
+the detect valid keypoints number 362
+融合后描述符维度:(362, 4224)
+the detect valid keypoints number 324
+the detect valid keypoints number 324
+融合后描述符维度:(324, 4224)
+The Average Precision of a pair images:0.9045422096323611
+start compute the 3 pairs matches
+the detect valid keypoints number 362
+the detect valid keypoints number 362
+融合后描述符维度:(362, 4224)
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+The Average Precision of a pair images:0.9155157057539663
+start compute the 4 pairs matches
+the detect valid keypoints number 362
+the detect valid keypoints number 362
+融合后描述符维度:(362, 4224)
+the detect valid keypoints number 358
+the detect valid keypoints number 358
+融合后描述符维度:(358, 4224)
+The Average Precision of a pair images:0.9174692880892257
+start compute the 5 pairs matches
+the detect valid keypoints number 362
+the detect valid keypoints number 362
+融合后描述符维度:(362, 4224)
+the detect valid keypoints number 372
+the detect valid keypoints number 372
+融合后描述符维度:(372, 4224)
+The Average Precision of a pair images:0.9391416337745836
+提取描述符平均耗时:16.041508817672728
+计算描述符距离平均耗时:0.09687218666076661
+
+
+读取的图像:i_resort
+读取的图片张数:33
+start compute the 1 pairs matches
+the detect valid keypoints number 342
+the detect valid keypoints number 342
+融合后描述符维度:(342, 4224)
+the detect valid keypoints number 331
+the detect valid keypoints number 331
+融合后描述符维度:(331, 4224)
+The Average Precision of a pair images:0.9162349209991667
+start compute the 2 pairs matches
+the detect valid keypoints number 342
+the detect valid keypoints number 342
+融合后描述符维度:(342, 4224)
+the detect valid keypoints number 337
+the detect valid keypoints number 337
+融合后描述符维度:(337, 4224)
+The Average Precision of a pair images:0.9562022704981857
+start compute the 3 pairs matches
+the detect valid keypoints number 342
+the detect valid keypoints number 342
+融合后描述符维度:(342, 4224)
+the detect valid keypoints number 305
+the detect valid keypoints number 305
+融合后描述符维度:(305, 4224)
+The Average Precision of a pair images:0.9495797488469039
+start compute the 4 pairs matches
+the detect valid keypoints number 342
+the detect valid keypoints number 342
+融合后描述符维度:(342, 4224)
+the detect valid keypoints number 358
+the detect valid keypoints number 358
+融合后描述符维度:(358, 4224)
+The Average Precision of a pair images:0.8208016624466894
+start compute the 5 pairs matches
+the detect valid keypoints number 342
+the detect valid keypoints number 342
+融合后描述符维度:(342, 4224)
+the detect valid keypoints number 337
+the detect valid keypoints number 337
+融合后描述符维度:(337, 4224)
+The Average Precision of a pair images:0.8631994603424555
+提取描述符平均耗时:16.202721452713014
+计算描述符距离平均耗时:0.08585424423217773
+
+
+读取的图像:i_objects
+读取的图片张数:34
+start compute the 1 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 343
+the detect valid keypoints number 343
+融合后描述符维度:(343, 4224)
+The Average Precision of a pair images:0.8585562568451686
+start compute the 2 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 332
+the detect valid keypoints number 332
+融合后描述符维度:(332, 4224)
+The Average Precision of a pair images:0.7778421866564782
+start compute the 3 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 367
+the detect valid keypoints number 367
+融合后描述符维度:(367, 4224)
+The Average Precision of a pair images:0.6997790825451832
+start compute the 4 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 328
+the detect valid keypoints number 328
+融合后描述符维度:(328, 4224)
+The Average Precision of a pair images:0.8628189327426988
+start compute the 5 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 369
+the detect valid keypoints number 369
+融合后描述符维度:(369, 4224)
+The Average Precision of a pair images:0.9625860962961124
+提取描述符平均耗时:16.631991386413574
+计算描述符距离平均耗时:0.0919179916381836
+
+
+读取的图像:i_village
+读取的图片张数:35
+start compute the 1 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+The Average Precision of a pair images:0.6374986046195275
+start compute the 2 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+The Average Precision of a pair images:0.750488253832325
+start compute the 3 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+The Average Precision of a pair images:0.7985650918137379
+start compute the 4 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+The Average Precision of a pair images:0.8782586408019596
+start compute the 5 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 352
+the detect valid keypoints number 352
+融合后描述符维度:(352, 4224)
+The Average Precision of a pair images:0.6785159674266197
+提取描述符平均耗时:14.78019676208496
+计算描述符距离平均耗时:0.09763078689575196
+
+
+读取的图像:i_kions
+读取的图片张数:36
+start compute the 1 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 346
+the detect valid keypoints number 346
+融合后描述符维度:(346, 4224)
+The Average Precision of a pair images:0.49778127776188474
+start compute the 2 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 379
+the detect valid keypoints number 379
+融合后描述符维度:(379, 4224)
+The Average Precision of a pair images:0.5985154156824972
+start compute the 3 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 403
+the detect valid keypoints number 403
+融合后描述符维度:(403, 4224)
+The Average Precision of a pair images:0.542689403638145
+start compute the 4 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 401
+the detect valid keypoints number 401
+融合后描述符维度:(401, 4224)
+The Average Precision of a pair images:0.5125933600592129
+start compute the 5 pairs matches
+the detect valid keypoints number 371
+the detect valid keypoints number 371
+融合后描述符维度:(371, 4224)
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+The Average Precision of a pair images:0.6634927285596639
+提取描述符平均耗时:15.383641624450684
+计算描述符距离平均耗时:0.10277833938598632
+
+
+读取的图像:i_kurhaus
+读取的图片张数:37
+start compute the 1 pairs matches
+the detect valid keypoints number 349
+the detect valid keypoints number 349
+融合后描述符维度:(349, 4224)
+the detect valid keypoints number 334
+the detect valid keypoints number 334
+融合后描述符维度:(334, 4224)
+The Average Precision of a pair images:0.9282314535815581
+start compute the 2 pairs matches
+the detect valid keypoints number 349
+the detect valid keypoints number 349
+融合后描述符维度:(349, 4224)
+the detect valid keypoints number 336
+the detect valid keypoints number 336
+融合后描述符维度:(336, 4224)
+The Average Precision of a pair images:0.9183533900010985
+start compute the 3 pairs matches
+the detect valid keypoints number 349
+the detect valid keypoints number 349
+融合后描述符维度:(349, 4224)
+the detect valid keypoints number 327
+the detect valid keypoints number 327
+融合后描述符维度:(327, 4224)
+The Average Precision of a pair images:0.9243790841317251
+start compute the 4 pairs matches
+the detect valid keypoints number 349
+the detect valid keypoints number 349
+融合后描述符维度:(349, 4224)
+the detect valid keypoints number 342
+the detect valid keypoints number 342
+融合后描述符维度:(342, 4224)
+The Average Precision of a pair images:0.9205754203009687
+start compute the 5 pairs matches
+the detect valid keypoints number 349
+the detect valid keypoints number 349
+融合后描述符维度:(349, 4224)
+the detect valid keypoints number 335
+the detect valid keypoints number 335
+融合后描述符维度:(335, 4224)
+The Average Precision of a pair images:0.8919596039241113
+提取描述符平均耗时:17.43503713607788
+计算描述符距离平均耗时:0.08764104843139649
+
+
+读取的图像:i_fog
+读取的图片张数:38
+start compute the 1 pairs matches
+the detect valid keypoints number 254
+the detect valid keypoints number 254
+融合后描述符维度:(254, 4224)
+the detect valid keypoints number 256
+the detect valid keypoints number 256
+融合后描述符维度:(256, 4224)
+The Average Precision of a pair images:0.8572147116838235
+start compute the 2 pairs matches
+the detect valid keypoints number 254
+the detect valid keypoints number 254
+融合后描述符维度:(254, 4224)
+the detect valid keypoints number 247
+the detect valid keypoints number 247
+融合后描述符维度:(247, 4224)
+The Average Precision of a pair images:0.7542314133999987
+start compute the 3 pairs matches
+the detect valid keypoints number 254
+the detect valid keypoints number 254
+融合后描述符维度:(254, 4224)
+the detect valid keypoints number 269
+the detect valid keypoints number 269
+融合后描述符维度:(269, 4224)
+The Average Precision of a pair images:0.6039975537923054
+start compute the 4 pairs matches
+the detect valid keypoints number 254
+the detect valid keypoints number 254
+融合后描述符维度:(254, 4224)
+the detect valid keypoints number 219
+the detect valid keypoints number 219
+融合后描述符维度:(219, 4224)
+The Average Precision of a pair images:0.618247236975541
+start compute the 5 pairs matches
+the detect valid keypoints number 254
+the detect valid keypoints number 254
+融合后描述符维度:(254, 4224)
+the detect valid keypoints number 184
+the detect valid keypoints number 184
+融合后描述符维度:(184, 4224)
+The Average Precision of a pair images:0.6130511257035648
+提取描述符平均耗时:11.49515700340271
+计算描述符距离平均耗时:0.045841217041015625
+
+
+读取的图像:i_autannes
+读取的图片张数:39
+start compute the 1 pairs matches
+the detect valid keypoints number 387
+the detect valid keypoints number 387
+融合后描述符维度:(387, 4224)
+the detect valid keypoints number 397
+the detect valid keypoints number 397
+融合后描述符维度:(397, 4224)
+The Average Precision of a pair images:0.6603621910385196
+start compute the 2 pairs matches
+the detect valid keypoints number 387
+the detect valid keypoints number 387
+融合后描述符维度:(387, 4224)
+the detect valid keypoints number 387
+the detect valid keypoints number 387
+融合后描述符维度:(387, 4224)
+The Average Precision of a pair images:0.3889850635214298
+start compute the 3 pairs matches
+the detect valid keypoints number 387
+the detect valid keypoints number 387
+融合后描述符维度:(387, 4224)
+the detect valid keypoints number 339
+the detect valid keypoints number 339
+融合后描述符维度:(339, 4224)
+The Average Precision of a pair images:0.2472067521605828
+start compute the 4 pairs matches
+the detect valid keypoints number 387
+the detect valid keypoints number 387
+融合后描述符维度:(387, 4224)
+the detect valid keypoints number 339
+the detect valid keypoints number 339
+融合后描述符维度:(339, 4224)
+The Average Precision of a pair images:0.5612088231415862
+start compute the 5 pairs matches
+the detect valid keypoints number 387
+the detect valid keypoints number 387
+融合后描述符维度:(387, 4224)
+the detect valid keypoints number 379
+the detect valid keypoints number 379
+融合后描述符维度:(379, 4224)
+The Average Precision of a pair images:0.6284228908061407
+提取描述符平均耗时:17.157012939453125
+计算描述符距离平均耗时:0.10497517585754394
+
+
+读取的图像:i_bologna
+读取的图片张数:40
+start compute the 1 pairs matches
+the detect valid keypoints number 186
+the detect valid keypoints number 186
+融合后描述符维度:(186, 4224)
+the detect valid keypoints number 373
+the detect valid keypoints number 373
+融合后描述符维度:(373, 4224)
+The Average Precision of a pair images:0.8803484765932253
+start compute the 2 pairs matches
+the detect valid keypoints number 186
+the detect valid keypoints number 186
+融合后描述符维度:(186, 4224)
+the detect valid keypoints number 363
+the detect valid keypoints number 363
+融合后描述符维度:(363, 4224)
+The Average Precision of a pair images:0.8367830783953929
+start compute the 3 pairs matches
+the detect valid keypoints number 186
+the detect valid keypoints number 186
+融合后描述符维度:(186, 4224)
+the detect valid keypoints number 363
+the detect valid keypoints number 363
+融合后描述符维度:(363, 4224)
+The Average Precision of a pair images:0.8304507304707563
+start compute the 4 pairs matches
+the detect valid keypoints number 186
+the detect valid keypoints number 186
+融合后描述符维度:(186, 4224)
+the detect valid keypoints number 374
+the detect valid keypoints number 374
+融合后描述符维度:(374, 4224)
+The Average Precision of a pair images:0.837048460286703
+start compute the 5 pairs matches
+the detect valid keypoints number 186
+the detect valid keypoints number 186
+融合后描述符维度:(186, 4224)
+the detect valid keypoints number 338
+the detect valid keypoints number 338
+融合后描述符维度:(338, 4224)
+The Average Precision of a pair images:0.8194484892421835
+提取描述符平均耗时:13.04711627960205
+计算描述符距离平均耗时:0.053653287887573245
+
+
+读取的图像:i_porta
+读取的图片张数:41
+start compute the 1 pairs matches
+the detect valid keypoints number 335
+the detect valid keypoints number 335
+融合后描述符维度:(335, 4224)
+the detect valid keypoints number 326
+the detect valid keypoints number 326
+融合后描述符维度:(326, 4224)
+The Average Precision of a pair images:0.7458965316117874
+start compute the 2 pairs matches
+the detect valid keypoints number 335
+the detect valid keypoints number 335
+融合后描述符维度:(335, 4224)
+the detect valid keypoints number 306
+the detect valid keypoints number 306
+融合后描述符维度:(306, 4224)
+The Average Precision of a pair images:0.7884155348815086
+start compute the 3 pairs matches
+the detect valid keypoints number 335
+the detect valid keypoints number 335
+融合后描述符维度:(335, 4224)
+the detect valid keypoints number 339
+the detect valid keypoints number 339
+融合后描述符维度:(339, 4224)
+The Average Precision of a pair images:0.5316272364153737
+start compute the 4 pairs matches
+the detect valid keypoints number 335
+the detect valid keypoints number 335
+融合后描述符维度:(335, 4224)
+the detect valid keypoints number 356
+the detect valid keypoints number 356
+融合后描述符维度:(356, 4224)
+The Average Precision of a pair images:0.612893015847582
+start compute the 5 pairs matches
+the detect valid keypoints number 335
+the detect valid keypoints number 335
+融合后描述符维度:(335, 4224)
+the detect valid keypoints number 404
+the detect valid keypoints number 404
+融合后描述符维度:(404, 4224)
+The Average Precision of a pair images:0.4555305220377191
+提取描述符平均耗时:14.232244300842286
+计算描述符距离平均耗时:0.08553948402404785
+
+
+读取的图像:i_nescafe
+读取的图片张数:42
+start compute the 1 pairs matches
+the detect valid keypoints number 370
+the detect valid keypoints number 370
+融合后描述符维度:(370, 4224)
+the detect valid keypoints number 358
+the detect valid keypoints number 358
+融合后描述符维度:(358, 4224)
+The Average Precision of a pair images:0.8802264253706148
+start compute the 2 pairs matches
+the detect valid keypoints number 370
+the detect valid keypoints number 370
+融合后描述符维度:(370, 4224)
+the detect valid keypoints number 359
+the detect valid keypoints number 359
+融合后描述符维度:(359, 4224)
+The Average Precision of a pair images:0.9210220009400372
+start compute the 3 pairs matches
+the detect valid keypoints number 370
+the detect valid keypoints number 370
+融合后描述符维度:(370, 4224)
+the detect valid keypoints number 356
+the detect valid keypoints number 356
+融合后描述符维度:(356, 4224)
+The Average Precision of a pair images:0.9199930993293177
+start compute the 4 pairs matches
+the detect valid keypoints number 370
+the detect valid keypoints number 370
+融合后描述符维度:(370, 4224)
+the detect valid keypoints number 376
+the detect valid keypoints number 376
+融合后描述符维度:(376, 4224)
+The Average Precision of a pair images:0.9288540136047787
+start compute the 5 pairs matches
+the detect valid keypoints number 370
+the detect valid keypoints number 370
+融合后描述符维度:(370, 4224)
+the detect valid keypoints number 312
+the detect valid keypoints number 312
+融合后描述符维度:(312, 4224)
+The Average Precision of a pair images:0.8750120004489037
+提取描述符平均耗时:15.41030740737915
+计算描述符距离平均耗时:0.09615597724914551
+
+
+读取的图像:i_santuario
+读取的图片张数:43
+start compute the 1 pairs matches
+the detect valid keypoints number 374
+the detect valid keypoints number 374
+融合后描述符维度:(374, 4224)
+the detect valid keypoints number 359
+the detect valid keypoints number 359
+融合后描述符维度:(359, 4224)
+The Average Precision of a pair images:0.5559101545890035
+start compute the 2 pairs matches
+the detect valid keypoints number 374
+the detect valid keypoints number 374
+融合后描述符维度:(374, 4224)
+the detect valid keypoints number 360
+the detect valid keypoints number 360
+融合后描述符维度:(360, 4224)
+The Average Precision of a pair images:0.5385611368724108
+start compute the 3 pairs matches
+the detect valid keypoints number 374
+the detect valid keypoints number 374
+融合后描述符维度:(374, 4224)
+the detect valid keypoints number 359
+the detect valid keypoints number 359
+融合后描述符维度:(359, 4224)
+The Average Precision of a pair images:0.14930601188266424
+start compute the 4 pairs matches
+the detect valid keypoints number 374
+the detect valid keypoints number 374
+融合后描述符维度:(374, 4224)
+the detect valid keypoints number 358
+the detect valid keypoints number 358
+融合后描述符维度:(358, 4224)
+The Average Precision of a pair images:0.8227645708034117
+start compute the 5 pairs matches
+the detect valid keypoints number 374
+the detect valid keypoints number 374
+融合后描述符维度:(374, 4224)
+the detect valid keypoints number 376
+the detect valid keypoints number 376
+融合后描述符维度:(376, 4224)
+The Average Precision of a pair images:0.653931832066775
+提取描述符平均耗时:16.179027032852172
+计算描述符距离平均耗时:0.09945363998413086
+
+
+读取的图像:i_crownnight
+读取的图片张数:44
+start compute the 1 pairs matches
+the detect valid keypoints number 366
+the detect valid keypoints number 366
+融合后描述符维度:(366, 4224)
+the detect valid keypoints number 368
+the detect valid keypoints number 368
+融合后描述符维度:(368, 4224)
+The Average Precision of a pair images:0.815100837452208
+start compute the 2 pairs matches
+the detect valid keypoints number 366
+the detect valid keypoints number 366
+融合后描述符维度:(366, 4224)
+the detect valid keypoints number 364
+the detect valid keypoints number 364
+融合后描述符维度:(364, 4224)
+The Average Precision of a pair images:0.7725106982117966
+start compute the 3 pairs matches
+the detect valid keypoints number 366
+the detect valid keypoints number 366
+融合后描述符维度:(366, 4224)
+the detect valid keypoints number 380
+the detect valid keypoints number 380
+融合后描述符维度:(380, 4224)
+The Average Precision of a pair images:0.7217146110597128
+start compute the 4 pairs matches
+the detect valid keypoints number 366
+the detect valid keypoints number 366
+融合后描述符维度:(366, 4224)
+the detect valid keypoints number 366
+the detect valid keypoints number 366
+融合后描述符维度:(366, 4224)
+The Average Precision of a pair images:0.6839843229878475
+start compute the 5 pairs matches
+the detect valid keypoints number 366
+the detect valid keypoints number 366
+融合后描述符维度:(366, 4224)
+the detect valid keypoints number 438
+the detect valid keypoints number 438
+融合后描述符维度:(438, 4224)
+The Average Precision of a pair images:0.00980392156862745
+提取描述符平均耗时:20.11373362541199
+计算描述符距离平均耗时:0.10220298767089844
+
+
+读取的图像:i_salon
+读取的图片张数:45
+start compute the 1 pairs matches
+the detect valid keypoints number 359
+the detect valid keypoints number 359
+融合后描述符维度:(359, 4224)
+the detect valid keypoints number 364
+the detect valid keypoints number 364
+融合后描述符维度:(364, 4224)
+The Average Precision of a pair images:0.964232862872644
+start compute the 2 pairs matches
+the detect valid keypoints number 359
+the detect valid keypoints number 359
+融合后描述符维度:(359, 4224)
+the detect valid keypoints number 349
+the detect valid keypoints number 349
+融合后描述符维度:(349, 4224)
+The Average Precision of a pair images:0.9394427602938578
+start compute the 3 pairs matches
+the detect valid keypoints number 359
+the detect valid keypoints number 359
+融合后描述符维度:(359, 4224)
+the detect valid keypoints number 330
+the detect valid keypoints number 330
+融合后描述符维度:(330, 4224)
+The Average Precision of a pair images:0.7302887998283325
+start compute the 4 pairs matches
+the detect valid keypoints number 359
+the detect valid keypoints number 359
+融合后描述符维度:(359, 4224)
+the detect valid keypoints number 354
+the detect valid keypoints number 354
+融合后描述符维度:(354, 4224)
+The Average Precision of a pair images:0.9352708323063769
+start compute the 5 pairs matches
+the detect valid keypoints number 359
+the detect valid keypoints number 359
+融合后描述符维度:(359, 4224)
+the detect valid keypoints number 347
+the detect valid keypoints number 347
+融合后描述符维度:(347, 4224)
+The Average Precision of a pair images:0.9002704055872145
+提取描述符平均耗时:15.99766435623169
+计算描述符距离平均耗时:0.09299998283386231
+
+
+读取的图像:i_whitebuilding
+读取的图片张数:46
+start compute the 1 pairs matches
+the detect valid keypoints number 367
+the detect valid keypoints number 367
+融合后描述符维度:(367, 4224)
+the detect valid keypoints number 356
+the detect valid keypoints number 356
+融合后描述符维度:(356, 4224)
+The Average Precision of a pair images:0.8900629750121906
+start compute the 2 pairs matches
+the detect valid keypoints number 367
+the detect valid keypoints number 367
+融合后描述符维度:(367, 4224)
+the detect valid keypoints number 358
+the detect valid keypoints number 358
+融合后描述符维度:(358, 4224)
+The Average Precision of a pair images:0.852567779716418
+start compute the 3 pairs matches
+the detect valid keypoints number 367
+the detect valid keypoints number 367
+融合后描述符维度:(367, 4224)
+the detect valid keypoints number 349
+the detect valid keypoints number 349
+融合后描述符维度:(349, 4224)
+The Average Precision of a pair images:0.7176167938494276
+start compute the 4 pairs matches
+the detect valid keypoints number 367
+the detect valid keypoints number 367
+融合后描述符维度:(367, 4224)
+the detect valid keypoints number 378
+the detect valid keypoints number 378
+融合后描述符维度:(378, 4224)
+The Average Precision of a pair images:0.6994755735545441
+start compute the 5 pairs matches
+the detect valid keypoints number 367
+the detect valid keypoints number 367
+融合后描述符维度:(367, 4224)
+the detect valid keypoints number 380
+the detect valid keypoints number 380
+融合后描述符维度:(380, 4224)
+The Average Precision of a pair images:0.7975706003776084
+提取描述符平均耗时:21.568288612365723
+计算描述符距离平均耗时:0.09854130744934082
+
+
+读取的图像:i_gonnenberg
+读取的图片张数:47
+start compute the 1 pairs matches
+the detect valid keypoints number 348
+the detect valid keypoints number 348
+融合后描述符维度:(348, 4224)
+the detect valid keypoints number 358
+the detect valid keypoints number 358
+融合后描述符维度:(358, 4224)
+The Average Precision of a pair images:0.8929931831602622
+start compute the 2 pairs matches
+the detect valid keypoints number 348
+the detect valid keypoints number 348
+融合后描述符维度:(348, 4224)
+the detect valid keypoints number 347
+the detect valid keypoints number 347
+融合后描述符维度:(347, 4224)
+The Average Precision of a pair images:0.907903460116847
+start compute the 3 pairs matches
+the detect valid keypoints number 348
+the detect valid keypoints number 348
+融合后描述符维度:(348, 4224)
+the detect valid keypoints number 336
+the detect valid keypoints number 336
+融合后描述符维度:(336, 4224)
+The Average Precision of a pair images:0.9146876410995223
+start compute the 4 pairs matches
+the detect valid keypoints number 348
+the detect valid keypoints number 348
+融合后描述符维度:(348, 4224)
+the detect valid keypoints number 355
+the detect valid keypoints number 355
+融合后描述符维度:(355, 4224)
+The Average Precision of a pair images:0.8557595539526263
+start compute the 5 pairs matches
+the detect valid keypoints number 348
+the detect valid keypoints number 348
+融合后描述符维度:(348, 4224)
+the detect valid keypoints number 355
+the detect valid keypoints number 355
+融合后描述符维度:(355, 4224)
+The Average Precision of a pair images:0.8845676930154023
+提取描述符平均耗时:15.241863536834718
+计算描述符距离平均耗时:0.09055032730102539
+
+
+读取的图像:i_castle
+读取的图片张数:48
+start compute the 1 pairs matches
+the detect valid keypoints number 301
+the detect valid keypoints number 301
+融合后描述符维度:(301, 4224)
+the detect valid keypoints number 328
+the detect valid keypoints number 328
+融合后描述符维度:(328, 4224)
+The Average Precision of a pair images:0.7117057351027308
+start compute the 2 pairs matches
+the detect valid keypoints number 301
+the detect valid keypoints number 301
+融合后描述符维度:(301, 4224)
+the detect valid keypoints number 321
+the detect valid keypoints number 321
+融合后描述符维度:(321, 4224)
+The Average Precision of a pair images:0.8831512181852201
+start compute the 3 pairs matches
+the detect valid keypoints number 301
+the detect valid keypoints number 301
+融合后描述符维度:(301, 4224)
+the detect valid keypoints number 297
+the detect valid keypoints number 297
+融合后描述符维度:(297, 4224)
+The Average Precision of a pair images:0.7611772981438988
+start compute the 4 pairs matches
+the detect valid keypoints number 301
+the detect valid keypoints number 301
+融合后描述符维度:(301, 4224)
+the detect valid keypoints number 356
+the detect valid keypoints number 356
+融合后描述符维度:(356, 4224)
+The Average Precision of a pair images:0.6620331307974119
+start compute the 5 pairs matches
+the detect valid keypoints number 301
+the detect valid keypoints number 301
+融合后描述符维度:(301, 4224)
+the detect valid keypoints number 373
+the detect valid keypoints number 373
+融合后描述符维度:(373, 4224)
+The Average Precision of a pair images:0.7955942887082805
+提取描述符平均耗时:14.41854486465454
+计算描述符距离平均耗时:0.0758392333984375
+
+
+读取的图像:i_steps
+读取的图片张数:49
+start compute the 1 pairs matches
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+the detect valid keypoints number 373
+the detect valid keypoints number 373
+融合后描述符维度:(373, 4224)
+The Average Precision of a pair images:0.8497777263114095
+start compute the 2 pairs matches
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+the detect valid keypoints number 362
+the detect valid keypoints number 362
+融合后描述符维度:(362, 4224)
+The Average Precision of a pair images:0.8968406328893905
+start compute the 3 pairs matches
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+The Average Precision of a pair images:0.8902843634557234
+start compute the 4 pairs matches
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+the detect valid keypoints number 330
+the detect valid keypoints number 330
+融合后描述符维度:(330, 4224)
+The Average Precision of a pair images:0.5875999334686988
+start compute the 5 pairs matches
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+the detect valid keypoints number 347
+the detect valid keypoints number 347
+融合后描述符维度:(347, 4224)
+The Average Precision of a pair images:0.7592175207865677
+提取描述符平均耗时:15.79879117012024
+计算描述符距离平均耗时:0.09130625724792481
+
+
+读取的图像:i_dc
+读取的图片张数:50
+start compute the 1 pairs matches
+the detect valid keypoints number 349
+the detect valid keypoints number 349
+融合后描述符维度:(349, 4224)
+the detect valid keypoints number 341
+the detect valid keypoints number 341
+融合后描述符维度:(341, 4224)
+The Average Precision of a pair images:0.6936650922555063
+start compute the 2 pairs matches
+the detect valid keypoints number 349
+the detect valid keypoints number 349
+融合后描述符维度:(349, 4224)
+the detect valid keypoints number 334
+the detect valid keypoints number 334
+融合后描述符维度:(334, 4224)
+The Average Precision of a pair images:0.5972898748611699
+start compute the 3 pairs matches
+the detect valid keypoints number 349
+the detect valid keypoints number 349
+融合后描述符维度:(349, 4224)
+the detect valid keypoints number 334
+the detect valid keypoints number 334
+融合后描述符维度:(334, 4224)
+The Average Precision of a pair images:0.517157573720563
+start compute the 4 pairs matches
+the detect valid keypoints number 349
+the detect valid keypoints number 349
+融合后描述符维度:(349, 4224)
+the detect valid keypoints number 334
+the detect valid keypoints number 334
+融合后描述符维度:(334, 4224)
+The Average Precision of a pair images:0.5216171183174289
+start compute the 5 pairs matches
+the detect valid keypoints number 349
+the detect valid keypoints number 349
+融合后描述符维度:(349, 4224)
+the detect valid keypoints number 335
+the detect valid keypoints number 335
+融合后描述符维度:(335, 4224)
+The Average Precision of a pair images:0.6025170732425207
+提取描述符平均耗时:28.332465839385986
+计算描述符距离平均耗时:0.08805198669433593
+
+
+读取的图像:i_fenis
+读取的图片张数:51
+start compute the 1 pairs matches
+the detect valid keypoints number 291
+the detect valid keypoints number 291
+融合后描述符维度:(291, 4224)
+the detect valid keypoints number 284
+the detect valid keypoints number 284
+融合后描述符维度:(284, 4224)
+The Average Precision of a pair images:0.8720282530764345
+start compute the 2 pairs matches
+the detect valid keypoints number 291
+the detect valid keypoints number 291
+融合后描述符维度:(291, 4224)
+the detect valid keypoints number 288
+the detect valid keypoints number 288
+融合后描述符维度:(288, 4224)
+The Average Precision of a pair images:0.7021761961298338
+start compute the 3 pairs matches
+the detect valid keypoints number 291
+the detect valid keypoints number 291
+融合后描述符维度:(291, 4224)
+the detect valid keypoints number 269
+the detect valid keypoints number 269
+融合后描述符维度:(269, 4224)
+The Average Precision of a pair images:0.2092711103193423
+start compute the 4 pairs matches
+the detect valid keypoints number 291
+the detect valid keypoints number 291
+融合后描述符维度:(291, 4224)
+the detect valid keypoints number 275
+the detect valid keypoints number 275
+融合后描述符维度:(275, 4224)
+The Average Precision of a pair images:0.21729024943310657
+start compute the 5 pairs matches
+the detect valid keypoints number 291
+the detect valid keypoints number 291
+融合后描述符维度:(291, 4224)
+the detect valid keypoints number 256
+the detect valid keypoints number 256
+融合后描述符维度:(256, 4224)
+The Average Precision of a pair images:0.3698612207894357
+提取描述符平均耗时:12.69353814125061
+计算描述符距离平均耗时:0.06085634231567383
+
+
+读取的图像:i_brooklyn
+读取的图片张数:52
+start compute the 1 pairs matches
+the detect valid keypoints number 326
+the detect valid keypoints number 326
+融合后描述符维度:(326, 4224)
+the detect valid keypoints number 304
+the detect valid keypoints number 304
+融合后描述符维度:(304, 4224)
+The Average Precision of a pair images:0.8441035540818564
+start compute the 2 pairs matches
+the detect valid keypoints number 326
+the detect valid keypoints number 326
+融合后描述符维度:(326, 4224)
+the detect valid keypoints number 320
+the detect valid keypoints number 320
+融合后描述符维度:(320, 4224)
+The Average Precision of a pair images:0.04007197278658975
+start compute the 3 pairs matches
+the detect valid keypoints number 326
+the detect valid keypoints number 326
+融合后描述符维度:(326, 4224)
+the detect valid keypoints number 301
+the detect valid keypoints number 301
+融合后描述符维度:(301, 4224)
+The Average Precision of a pair images:0.3947892416698721
+start compute the 4 pairs matches
+the detect valid keypoints number 326
+the detect valid keypoints number 326
+融合后描述符维度:(326, 4224)
+the detect valid keypoints number 306
+the detect valid keypoints number 306
+融合后描述符维度:(306, 4224)
+The Average Precision of a pair images:0.016200212703121816
+start compute the 5 pairs matches
+the detect valid keypoints number 326
+the detect valid keypoints number 326
+融合后描述符维度:(326, 4224)
+the detect valid keypoints number 317
+the detect valid keypoints number 317
+融合后描述符维度:(317, 4224)
+The Average Precision of a pair images:0.002524437412230479
+提取描述符平均耗时:16.048899602890014
+计算描述符距离平均耗时:0.07622852325439453
+
+
+读取的图像:i_smurf
+读取的图片张数:53
+start compute the 1 pairs matches
+the detect valid keypoints number 306
+the detect valid keypoints number 306
+融合后描述符维度:(306, 4224)
+the detect valid keypoints number 290
+the detect valid keypoints number 290
+融合后描述符维度:(290, 4224)
+The Average Precision of a pair images:0.9668443206996641
+start compute the 2 pairs matches
+the detect valid keypoints number 306
+the detect valid keypoints number 306
+融合后描述符维度:(306, 4224)
+the detect valid keypoints number 279
+the detect valid keypoints number 279
+融合后描述符维度:(279, 4224)
+The Average Precision of a pair images:0.9373320511070464
+start compute the 3 pairs matches
+the detect valid keypoints number 306
+the detect valid keypoints number 306
+融合后描述符维度:(306, 4224)
+the detect valid keypoints number 275
+the detect valid keypoints number 275
+融合后描述符维度:(275, 4224)
+The Average Precision of a pair images:0.9092735908568801
+start compute the 4 pairs matches
+the detect valid keypoints number 306
+the detect valid keypoints number 306
+融合后描述符维度:(306, 4224)
+the detect valid keypoints number 270
+the detect valid keypoints number 270
+融合后描述符维度:(270, 4224)
+The Average Precision of a pair images:0.9442710904747793
+start compute the 5 pairs matches
+the detect valid keypoints number 306
+the detect valid keypoints number 306
+融合后描述符维度:(306, 4224)
+the detect valid keypoints number 299
+the detect valid keypoints number 299
+融合后描述符维度:(299, 4224)
+The Average Precision of a pair images:0.9075015818248138
+提取描述符平均耗时:14.120091247558594
+计算描述符距离平均耗时:0.06537284851074218
+
+
+读取的图像:i_ski
+读取的图片张数:54
+start compute the 1 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 347
+the detect valid keypoints number 347
+融合后描述符维度:(347, 4224)
+The Average Precision of a pair images:0.8810629492501227
+start compute the 2 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+The Average Precision of a pair images:0.7969807001865681
+start compute the 3 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 361
+the detect valid keypoints number 361
+融合后描述符维度:(361, 4224)
+The Average Precision of a pair images:0.7904990788800522
+start compute the 4 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 346
+the detect valid keypoints number 346
+融合后描述符维度:(346, 4224)
+The Average Precision of a pair images:0.7852324388546249
+start compute the 5 pairs matches
+the detect valid keypoints number 353
+the detect valid keypoints number 353
+融合后描述符维度:(353, 4224)
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+The Average Precision of a pair images:0.7509440246958534
+提取描述符平均耗时:15.498642730712891
+计算描述符距离平均耗时:0.09178547859191895
+
+
+读取的图像:i_miniature
+读取的图片张数:55
+start compute the 1 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 378
+the detect valid keypoints number 378
+融合后描述符维度:(378, 4224)
+The Average Precision of a pair images:0.9530340003259135
+start compute the 2 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 363
+the detect valid keypoints number 363
+融合后描述符维度:(363, 4224)
+The Average Precision of a pair images:0.8649830594833754
+start compute the 3 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 362
+the detect valid keypoints number 362
+融合后描述符维度:(362, 4224)
+The Average Precision of a pair images:0.6714458557981691
+start compute the 4 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 376
+the detect valid keypoints number 376
+融合后描述符维度:(376, 4224)
+The Average Precision of a pair images:0.23043178448196366
+start compute the 5 pairs matches
+the detect valid keypoints number 351
+the detect valid keypoints number 351
+融合后描述符维度:(351, 4224)
+the detect valid keypoints number 343
+the detect valid keypoints number 343
+融合后描述符维度:(343, 4224)
+The Average Precision of a pair images:0.8691258438052949
+提取描述符平均耗时:15.470544004440308
+计算描述符距离平均耗时:0.09427495002746582
+
+
+读取的图像:i_nijmegen
+读取的图片张数:56
+start compute the 1 pairs matches
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+the detect valid keypoints number 335
+the detect valid keypoints number 335
+融合后描述符维度:(335, 4224)
+The Average Precision of a pair images:0.7144981266837469
+start compute the 2 pairs matches
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+the detect valid keypoints number 347
+the detect valid keypoints number 347
+融合后描述符维度:(347, 4224)
+The Average Precision of a pair images:0.8036035575996963
+start compute the 3 pairs matches
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+the detect valid keypoints number 328
+the detect valid keypoints number 328
+融合后描述符维度:(328, 4224)
+The Average Precision of a pair images:0.5287290124251334
+start compute the 4 pairs matches
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+the detect valid keypoints number 334
+the detect valid keypoints number 334
+融合后描述符维度:(334, 4224)
+The Average Precision of a pair images:0.7551017051397597
+start compute the 5 pairs matches
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+the detect valid keypoints number 350
+the detect valid keypoints number 350
+融合后描述符维度:(350, 4224)
+The Average Precision of a pair images:0.7956142003455209
+提取描述符平均耗时:16.759379053115843
+计算描述符距离平均耗时:0.08751907348632812
+
+
+读取的图像:i_boutique
+读取的图片张数:57
+start compute the 1 pairs matches
+the detect valid keypoints number 281
+the detect valid keypoints number 281
+融合后描述符维度:(281, 4224)
+the detect valid keypoints number 273
+the detect valid keypoints number 273
+融合后描述符维度:(273, 4224)
+The Average Precision of a pair images:0.9291248001276563
+start compute the 2 pairs matches
+the detect valid keypoints number 281
+the detect valid keypoints number 281
+融合后描述符维度:(281, 4224)
+the detect valid keypoints number 290
+the detect valid keypoints number 290
+融合后描述符维度:(290, 4224)
+The Average Precision of a pair images:0.8883777326316374
+start compute the 3 pairs matches
+the detect valid keypoints number 281
+the detect valid keypoints number 281
+融合后描述符维度:(281, 4224)
+the detect valid keypoints number 281
+the detect valid keypoints number 281
+融合后描述符维度:(281, 4224)
+The Average Precision of a pair images:0.8755987191937604
+start compute the 4 pairs matches
+the detect valid keypoints number 281
+the detect valid keypoints number 281
+融合后描述符维度:(281, 4224)
+the detect valid keypoints number 316
+the detect valid keypoints number 316
+融合后描述符维度:(316, 4224)
+The Average Precision of a pair images:0.5294286927161596
+start compute the 5 pairs matches
+the detect valid keypoints number 281
+the detect valid keypoints number 281
+融合后描述符维度:(281, 4224)
+the detect valid keypoints number 299
+the detect valid keypoints number 299
+融合后描述符维度:(299, 4224)
+The Average Precision of a pair images:0.46756666281886206
+提取描述符平均耗时:13.17368049621582
+计算描述符距离平均耗时:0.06240682601928711
+
+
+所有数据的平均精度为:0.7004006912924815
+总共耗时:8968.38425540924

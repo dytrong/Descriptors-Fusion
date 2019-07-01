@@ -1,0 +1,2057 @@
+delete ./data/h5_patch
+delete ./data/results
+init spend time 3.968982696533203
+读取的图像:i_duda
+读取的图片张数:1
+start compute the 1 pairs matches
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 361
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.939835977752026
+start compute the 2 pairs matches
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 364
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9305770126479843
+start compute the 3 pairs matches
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 370
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8880871019188021
+start compute the 4 pairs matches
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 376
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8035018567170553
+start compute the 5 pairs matches
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 397
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7440930360310303
+提取描述符平均耗时:27.81786255836487
+计算描述符距离平均耗时:0.11193642616271973
+
+
+读取的图像:i_greenhouse
+读取的图片张数:2
+start compute the 1 pairs matches
+the detect valid keypoints number 323
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 321
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6389912169982117
+start compute the 2 pairs matches
+the detect valid keypoints number 323
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 313
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7210350232214977
+start compute the 3 pairs matches
+the detect valid keypoints number 323
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 336
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5831298518879464
+start compute the 4 pairs matches
+the detect valid keypoints number 323
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 323
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6072709668549839
+start compute the 5 pairs matches
+the detect valid keypoints number 323
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 317
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5344774465953861
+提取描述符平均耗时:17.65972771644592
+计算描述符距离平均耗时:0.07488226890563965
+
+
+读取的图像:i_pinard
+读取的图片张数:3
+start compute the 1 pairs matches
+the detect valid keypoints number 366
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 389
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8770892053013759
+start compute the 2 pairs matches
+the detect valid keypoints number 366
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8498096492168155
+start compute the 3 pairs matches
+the detect valid keypoints number 366
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8845271805196273
+start compute the 4 pairs matches
+the detect valid keypoints number 366
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 379
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.92758199471729
+start compute the 5 pairs matches
+the detect valid keypoints number 366
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 369
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.896469559350332
+提取描述符平均耗时:21.329276418685915
+计算描述符距离平均耗时:0.09548735618591309
+
+
+读取的图像:i_partyfood
+读取的图片张数:4
+start compute the 1 pairs matches
+the detect valid keypoints number 392
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 392
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9571456419051444
+start compute the 2 pairs matches
+the detect valid keypoints number 392
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 404
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9397551829722788
+start compute the 3 pairs matches
+the detect valid keypoints number 392
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 402
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9082155319248884
+start compute the 4 pairs matches
+the detect valid keypoints number 392
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 404
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9054452326701359
+start compute the 5 pairs matches
+the detect valid keypoints number 392
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 398
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8534707247610877
+提取描述符平均耗时:24.014977073669435
+计算描述符距离平均耗时:0.11032776832580567
+
+
+读取的图像:i_table
+读取的图片张数:5
+start compute the 1 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 343
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8023255820654774
+start compute the 2 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 332
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7166011396473889
+start compute the 3 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 367
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7064366736415297
+start compute the 4 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 328
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.729827127134576
+start compute the 5 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 369
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9570714872392558
+提取描述符平均耗时:20.36738224029541
+计算描述符距离平均耗时:0.08645329475402833
+
+
+读取的图像:i_leuven
+读取的图片张数:6
+start compute the 1 pairs matches
+the detect valid keypoints number 289
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 299
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9350891654027242
+start compute the 2 pairs matches
+the detect valid keypoints number 289
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 312
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8859547457600108
+start compute the 3 pairs matches
+the detect valid keypoints number 289
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 326
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8236749150762555
+start compute the 4 pairs matches
+the detect valid keypoints number 289
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 330
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6689185140791682
+start compute the 5 pairs matches
+the detect valid keypoints number 289
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 345
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.20893165780826117
+提取描述符平均耗时:16.36461706161499
+计算描述符距离平均耗时:0.06724529266357422
+
+
+读取的图像:i_pool
+读取的图片张数:7
+start compute the 1 pairs matches
+the detect valid keypoints number 342
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 196
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.040993788819875775
+start compute the 2 pairs matches
+the detect valid keypoints number 342
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 145
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.01158645276292335
+start compute the 3 pairs matches
+the detect valid keypoints number 342
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 193
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.03737373737373737
+start compute the 4 pairs matches
+the detect valid keypoints number 342
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 162
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.02207792207792208
+start compute the 5 pairs matches
+the detect valid keypoints number 342
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 149
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.03474509803921569
+提取描述符平均耗时:13.2251305103302
+计算描述符距离平均耗时:0.04326314926147461
+
+
+读取的图像:i_yellowtent
+读取的图片张数:8
+start compute the 1 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 374
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9233365782080416
+start compute the 2 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 354
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7714309331904801
+start compute the 3 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 348
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5552326432474544
+start compute the 4 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 374
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6939062376738342
+start compute the 5 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5340734881830757
+提取描述符平均耗时:21.210635328292845
+计算描述符距离平均耗时:0.09483366012573242
+
+
+读取的图像:i_fruits
+读取的图片张数:9
+start compute the 1 pairs matches
+the detect valid keypoints number 354
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 337
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.96915404950733
+start compute the 2 pairs matches
+the detect valid keypoints number 354
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 331
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9579379040619265
+start compute the 3 pairs matches
+the detect valid keypoints number 354
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 344
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9680288532102383
+start compute the 4 pairs matches
+the detect valid keypoints number 354
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 347
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9271999236228324
+start compute the 5 pairs matches
+the detect valid keypoints number 354
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 337
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9550623952976829
+提取描述符平均耗时:19.59950966835022
+计算描述符距离平均耗时:0.08591361045837402
+
+
+读取的图像:i_tools
+读取的图片张数:10
+start compute the 1 pairs matches
+the detect valid keypoints number 318
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 355
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4640181530875346
+start compute the 2 pairs matches
+the detect valid keypoints number 318
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 382
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.3786839776640536
+start compute the 3 pairs matches
+the detect valid keypoints number 318
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 379
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.15697458632335154
+start compute the 4 pairs matches
+the detect valid keypoints number 318
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 327
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.2125610394408889
+start compute the 5 pairs matches
+the detect valid keypoints number 318
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 354
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.021683022499713572
+提取描述符平均耗时:19.568601274490355
+计算描述符距离平均耗时:0.08119912147521972
+
+
+读取的图像:i_chestnuts
+读取的图片张数:11
+start compute the 1 pairs matches
+the detect valid keypoints number 356
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 339
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.739180210289605
+start compute the 2 pairs matches
+the detect valid keypoints number 356
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 325
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.743974211178779
+start compute the 3 pairs matches
+the detect valid keypoints number 356
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 336
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6827648869532935
+start compute the 4 pairs matches
+the detect valid keypoints number 356
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5980220625916908
+start compute the 5 pairs matches
+the detect valid keypoints number 356
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4697966214052008
+提取描述符平均耗时:19.3895055770874
+计算描述符距离平均耗时:0.08647918701171875
+
+
+读取的图像:i_melon
+读取的图片张数:12
+start compute the 1 pairs matches
+the detect valid keypoints number 389
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 386
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9030454263351717
+start compute the 2 pairs matches
+the detect valid keypoints number 389
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 393
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8115175802007064
+start compute the 3 pairs matches
+the detect valid keypoints number 389
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 397
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.32752462373520674
+start compute the 4 pairs matches
+the detect valid keypoints number 389
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 380
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8128901937550841
+start compute the 5 pairs matches
+the detect valid keypoints number 389
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 380
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7494979674978148
+提取描述符平均耗时:23.121756982803344
+计算描述符距离平均耗时:0.10572285652160644
+
+
+读取的图像:i_crownday
+读取的图片张数:13
+start compute the 1 pairs matches
+the detect valid keypoints number 369
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 380
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6091411562718806
+start compute the 2 pairs matches
+the detect valid keypoints number 369
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 383
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.771715863751602
+start compute the 3 pairs matches
+the detect valid keypoints number 369
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 389
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8782554121534271
+start compute the 4 pairs matches
+the detect valid keypoints number 369
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 373
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8464314262435685
+start compute the 5 pairs matches
+the detect valid keypoints number 369
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 385
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6784974282196465
+提取描述符平均耗时:22.749113273620605
+计算描述符距离平均耗时:0.09932188987731934
+
+
+读取的图像:i_troulos
+读取的图片张数:14
+start compute the 1 pairs matches
+the detect valid keypoints number 422
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 289
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.760209819653093
+start compute the 2 pairs matches
+the detect valid keypoints number 422
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 394
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.009682544734984692
+start compute the 3 pairs matches
+the detect valid keypoints number 422
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 404
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7808887082888337
+start compute the 4 pairs matches
+the detect valid keypoints number 422
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 358
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.3875501184466155
+start compute the 5 pairs matches
+the detect valid keypoints number 422
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 427
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5450148177453464
+提取描述符平均耗时:23.861666917800903
+计算描述符距离平均耗时:0.11099982261657715
+
+
+读取的图像:i_lionnight
+读取的图片张数:15
+start compute the 1 pairs matches
+the detect valid keypoints number 253
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 245
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.12344024269156412
+start compute the 2 pairs matches
+the detect valid keypoints number 253
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 268
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.105364222337207
+start compute the 3 pairs matches
+the detect valid keypoints number 253
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 265
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.08813582251447945
+start compute the 4 pairs matches
+the detect valid keypoints number 253
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 255
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.0688253413248396
+start compute the 5 pairs matches
+the detect valid keypoints number 253
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 259
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.1313368915006532
+提取描述符平均耗时:12.604436588287353
+计算描述符距离平均耗时:0.04800548553466797
+
+
+读取的图像:i_dome
+读取的图片张数:16
+start compute the 1 pairs matches
+the detect valid keypoints number 343
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 343
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8667780229984292
+start compute the 2 pairs matches
+the detect valid keypoints number 343
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 320
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.24762077048866055
+start compute the 3 pairs matches
+the detect valid keypoints number 343
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 323
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.31486598484627104
+start compute the 4 pairs matches
+the detect valid keypoints number 343
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 335
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.27278700784892734
+start compute the 5 pairs matches
+the detect valid keypoints number 343
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 320
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.37019333631944423
+提取描述符平均耗时:19.293576097488405
+计算描述符距离平均耗时:0.08092079162597657
+
+
+读取的图像:i_nuts
+读取的图片张数:17
+start compute the 1 pairs matches
+the detect valid keypoints number 370
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8268605110780587
+start compute the 2 pairs matches
+the detect valid keypoints number 370
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 396
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5090016063300677
+start compute the 3 pairs matches
+the detect valid keypoints number 370
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 415
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.29613131446446433
+start compute the 4 pairs matches
+the detect valid keypoints number 370
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 405
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.21011563168925923
+start compute the 5 pairs matches
+the detect valid keypoints number 370
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 385
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.15235716347739794
+提取描述符平均耗时:22.129452085494997
+计算描述符距离平均耗时:0.10321164131164551
+
+
+读取的图像:i_contruction
+读取的图片张数:18
+start compute the 1 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 367
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9623743793375389
+start compute the 2 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 361
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9661401692446387
+start compute the 3 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 379
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9163884599770729
+start compute the 4 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 375
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.45307188441575263
+start compute the 5 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 379
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4230127041633109
+提取描述符平均耗时:24.298854923248292
+计算描述符距离平均耗时:0.09891281127929688
+
+
+读取的图像:i_lionday
+读取的图片张数:19
+start compute the 1 pairs matches
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 367
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.18980789062686385
+start compute the 2 pairs matches
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 396
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5339706629439012
+start compute the 3 pairs matches
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 373
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.12945449166556075
+start compute the 4 pairs matches
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 352
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.24742031660539004
+start compute the 5 pairs matches
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 385
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4672830141353111
+提取描述符平均耗时:21.34302978515625
+计算描述符距离平均耗时:0.09573087692260743
+
+
+读取的图像:i_greentea
+读取的图片张数:20
+start compute the 1 pairs matches
+the detect valid keypoints number 329
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 333
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9442683287463429
+start compute the 2 pairs matches
+the detect valid keypoints number 329
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 345
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9250331420792542
+start compute the 3 pairs matches
+the detect valid keypoints number 329
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 332
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9361631245088828
+start compute the 4 pairs matches
+the detect valid keypoints number 329
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 354
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9496597424182649
+start compute the 5 pairs matches
+the detect valid keypoints number 329
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 376
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9035077241736778
+提取描述符平均耗时:19.69124026298523
+计算描述符距离平均耗时:0.08184213638305664
+
+
+读取的图像:i_ajuntament
+读取的图片张数:21
+start compute the 1 pairs matches
+the detect valid keypoints number 330
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 346
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.854886073193619
+start compute the 2 pairs matches
+the detect valid keypoints number 330
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 266
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.3385990698978568
+start compute the 3 pairs matches
+the detect valid keypoints number 330
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 205
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.254730465783182
+start compute the 4 pairs matches
+the detect valid keypoints number 330
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 161
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.30583456571034207
+start compute the 5 pairs matches
+the detect valid keypoints number 330
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 196
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.2498366678328141
+提取描述符平均耗时:14.902360916137695
+计算描述符距离平均耗时:0.05732641220092773
+
+
+读取的图像:i_londonbridge
+读取的图片张数:22
+start compute the 1 pairs matches
+the detect valid keypoints number 278
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 319
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.023989430883641895
+start compute the 2 pairs matches
+the detect valid keypoints number 278
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 320
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4709689981295243
+start compute the 3 pairs matches
+the detect valid keypoints number 278
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 328
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.19489321925152406
+start compute the 4 pairs matches
+the detect valid keypoints number 278
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 335
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.0008064516129032258
+start compute the 5 pairs matches
+the detect valid keypoints number 278
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.2484348602110034
+提取描述符平均耗时:17.154332447052003
+计算描述符距离平均耗时:0.06624298095703125
+
+
+读取的图像:i_parking
+读取的图片张数:23
+start compute the 1 pairs matches
+the detect valid keypoints number 345
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 348
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7356689972880213
+start compute the 2 pairs matches
+the detect valid keypoints number 345
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 355
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7522156406390035
+start compute the 3 pairs matches
+the detect valid keypoints number 345
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 324
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4473396731471154
+start compute the 4 pairs matches
+the detect valid keypoints number 345
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 327
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4875996977593565
+start compute the 5 pairs matches
+the detect valid keypoints number 345
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 333
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5954556784565223
+提取描述符平均耗时:19.313685846328735
+计算描述符距离平均耗时:0.08296289443969726
+
+
+读取的图像:i_pencils
+读取的图片张数:24
+start compute the 1 pairs matches
+the detect valid keypoints number 355
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 341
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5058725610685771
+start compute the 2 pairs matches
+the detect valid keypoints number 355
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 348
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.0
+start compute the 3 pairs matches
+the detect valid keypoints number 355
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 364
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.0
+start compute the 4 pairs matches
+the detect valid keypoints number 355
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 341
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.2947117465430779
+start compute the 5 pairs matches
+the detect valid keypoints number 355
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 332
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.28246371266517506
+提取描述符平均耗时:20.898972511291504
+计算描述符距离平均耗时:0.08716297149658203
+
+
+读取的图像:i_school
+读取的图片张数:25
+start compute the 1 pairs matches
+the detect valid keypoints number 329
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 312
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6722810827763578
+start compute the 2 pairs matches
+the detect valid keypoints number 329
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 314
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.722475109249389
+start compute the 3 pairs matches
+the detect valid keypoints number 329
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 326
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.3861966382649463
+start compute the 4 pairs matches
+the detect valid keypoints number 329
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 311
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6750970210369109
+start compute the 5 pairs matches
+the detect valid keypoints number 329
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 320
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.2791496175032642
+提取描述符平均耗时:17.234507274627685
+计算描述符距离平均耗时:0.07439155578613281
+
+
+读取的图像:i_zion
+读取的图片张数:26
+start compute the 1 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 368
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.901206012667725
+start compute the 2 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 338
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6464180575114165
+start compute the 3 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 355
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.531216063256935
+start compute the 4 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 366
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4601278228951696
+start compute the 5 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 404
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.20039758306804287
+提取描述符平均耗时:20.998714017868043
+计算描述符距离平均耗时:0.09133772850036621
+
+
+读取的图像:i_veggies
+读取的图片张数:27
+start compute the 1 pairs matches
+the detect valid keypoints number 391
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 399
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9203581874997447
+start compute the 2 pairs matches
+the detect valid keypoints number 391
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 409
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6252861971859764
+start compute the 3 pairs matches
+the detect valid keypoints number 391
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 420
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7096345586356417
+start compute the 4 pairs matches
+the detect valid keypoints number 391
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 422
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.3277229160204221
+start compute the 5 pairs matches
+the detect valid keypoints number 391
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 421
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.22579411359906668
+提取描述符平均耗时:23.884366846084596
+计算描述符距离平均耗时:0.11438999176025391
+
+
+读取的图像:i_ktirio
+读取的图片张数:28
+start compute the 1 pairs matches
+the detect valid keypoints number 347
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 358
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9442487211444959
+start compute the 2 pairs matches
+the detect valid keypoints number 347
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 338
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5216449739898896
+start compute the 3 pairs matches
+the detect valid keypoints number 347
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4049478485633704
+start compute the 4 pairs matches
+the detect valid keypoints number 347
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 333
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4371055019283226
+start compute the 5 pairs matches
+the detect valid keypoints number 347
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 359
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.1809645510091891
+提取描述符平均耗时:19.58262825012207
+计算描述符距离平均耗时:0.08589248657226563
+
+
+读取的图像:i_bridger
+读取的图片张数:29
+start compute the 1 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 328
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8701028172617031
+start compute the 2 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 330
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8898390148315247
+start compute the 3 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 308
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.717407229414682
+start compute the 4 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 296
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.42068592043714786
+start compute the 5 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 123
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.019230769230769232
+提取描述符平均耗时:17.92367081642151
+计算描述符距离平均耗时:0.07082819938659668
+
+
+读取的图像:i_indiana
+读取的图片张数:30
+start compute the 1 pairs matches
+the detect valid keypoints number 357
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7345139838930139
+start compute the 2 pairs matches
+the detect valid keypoints number 357
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 363
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7627573967278216
+start compute the 3 pairs matches
+the detect valid keypoints number 357
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 363
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5127504358838704
+start compute the 4 pairs matches
+the detect valid keypoints number 357
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 357
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5428621353137809
+start compute the 5 pairs matches
+the detect valid keypoints number 357
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 349
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4814546797781894
+提取描述符平均耗时:21.20881881713867
+计算描述符距离平均耗时:0.09057912826538086
+
+
+读取的图像:i_toy
+读取的图片张数:31
+start compute the 1 pairs matches
+the detect valid keypoints number 326
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 334
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9368602209806054
+start compute the 2 pairs matches
+the detect valid keypoints number 326
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 317
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9236460641330035
+start compute the 3 pairs matches
+the detect valid keypoints number 326
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 318
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9154671828486063
+start compute the 4 pairs matches
+the detect valid keypoints number 326
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 306
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.787730087779577
+start compute the 5 pairs matches
+the detect valid keypoints number 326
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 315
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6383554578125736
+提取描述符平均耗时:17.04795136451721
+计算描述符距离平均耗时:0.07477173805236817
+
+
+读取的图像:i_books
+读取的图片张数:32
+start compute the 1 pairs matches
+the detect valid keypoints number 362
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 399
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8900737427690977
+start compute the 2 pairs matches
+the detect valid keypoints number 362
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 324
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8324264557316154
+start compute the 3 pairs matches
+the detect valid keypoints number 362
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9085729348122964
+start compute the 4 pairs matches
+the detect valid keypoints number 362
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 358
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9054836559804237
+start compute the 5 pairs matches
+the detect valid keypoints number 362
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 372
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9348241631497615
+提取描述符平均耗时:20.844718408584594
+计算描述符距离平均耗时:0.09322614669799804
+
+
+读取的图像:i_resort
+读取的图片张数:33
+start compute the 1 pairs matches
+the detect valid keypoints number 342
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 331
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8547305179175106
+start compute the 2 pairs matches
+the detect valid keypoints number 342
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 337
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9580311901519757
+start compute the 3 pairs matches
+the detect valid keypoints number 342
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 305
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.938979311951242
+start compute the 4 pairs matches
+the detect valid keypoints number 342
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 358
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7467342978033509
+start compute the 5 pairs matches
+the detect valid keypoints number 342
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 337
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8365110996639309
+提取描述符平均耗时:19.716645622253417
+计算描述符距离平均耗时:0.08213520050048828
+
+
+读取的图像:i_objects
+读取的图片张数:34
+start compute the 1 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 343
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8023255820654774
+start compute the 2 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 332
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7166011396473889
+start compute the 3 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 367
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7064366736415297
+start compute the 4 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 328
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.729827127134576
+start compute the 5 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 369
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9570714872392558
+提取描述符平均耗时:20.180915784835815
+计算描述符距离平均耗时:0.087158203125
+
+
+读取的图像:i_village
+读取的图片张数:35
+start compute the 1 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4575488845320219
+start compute the 2 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.420057915004016
+start compute the 3 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5872837476156678
+start compute the 4 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6738154811841872
+start compute the 5 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 352
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4657071805825521
+提取描述符平均耗时:20.44728031158447
+计算描述符距离平均耗时:0.09313888549804687
+
+
+读取的图像:i_kions
+读取的图片张数:36
+start compute the 1 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 346
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.3004643964555167
+start compute the 2 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 379
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.39885457438634153
+start compute the 3 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 403
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.20756376585511532
+start compute the 4 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 401
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.18098923104299136
+start compute the 5 pairs matches
+the detect valid keypoints number 371
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4032754253358591
+提取描述符平均耗时:21.801469802856445
+计算描述符距离平均耗时:0.0986743450164795
+
+
+读取的图像:i_kurhaus
+读取的图片张数:37
+start compute the 1 pairs matches
+the detect valid keypoints number 349
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 334
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9453874073951559
+start compute the 2 pairs matches
+the detect valid keypoints number 349
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 336
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9182678878428858
+start compute the 3 pairs matches
+the detect valid keypoints number 349
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 327
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9197608445752989
+start compute the 4 pairs matches
+the detect valid keypoints number 349
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 342
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8737254621492068
+start compute the 5 pairs matches
+the detect valid keypoints number 349
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 335
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8177770043300806
+提取描述符平均耗时:19.967256546020508
+计算描述符距离平均耗时:0.08316149711608886
+
+
+读取的图像:i_fog
+读取的图片张数:38
+start compute the 1 pairs matches
+the detect valid keypoints number 254
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 256
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7299540735319797
+start compute the 2 pairs matches
+the detect valid keypoints number 254
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 247
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6327889101176969
+start compute the 3 pairs matches
+the detect valid keypoints number 254
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 269
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.46940735986307236
+start compute the 4 pairs matches
+the detect valid keypoints number 254
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 219
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.29664947919258267
+start compute the 5 pairs matches
+the detect valid keypoints number 254
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 184
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.36957950176117876
+提取描述符平均耗时:12.109227561950684
+计算描述符距离平均耗时:0.04416651725769043
+
+
+读取的图像:i_autannes
+读取的图片张数:39
+start compute the 1 pairs matches
+the detect valid keypoints number 387
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 397
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.702853406123126
+start compute the 2 pairs matches
+the detect valid keypoints number 387
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 387
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.36777776604287854
+start compute the 3 pairs matches
+the detect valid keypoints number 387
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 339
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.10026750582912328
+start compute the 4 pairs matches
+the detect valid keypoints number 387
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 339
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.3063141980674659
+start compute the 5 pairs matches
+the detect valid keypoints number 387
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 379
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6482669638503931
+提取描述符平均耗时:22.822024202346803
+计算描述符距离平均耗时:0.10045933723449707
+
+
+读取的图像:i_bologna
+读取的图片张数:40
+start compute the 1 pairs matches
+the detect valid keypoints number 186
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 373
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8374618183318503
+start compute the 2 pairs matches
+the detect valid keypoints number 186
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 363
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6494046200968714
+start compute the 3 pairs matches
+the detect valid keypoints number 186
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 363
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6114000374156642
+start compute the 4 pairs matches
+the detect valid keypoints number 186
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 374
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6119612633270242
+start compute the 5 pairs matches
+the detect valid keypoints number 186
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 338
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5602823233945469
+提取描述符平均耗时:14.682974815368652
+计算描述符距离平均耗时:0.05042543411254883
+
+
+读取的图像:i_porta
+读取的图片张数:41
+start compute the 1 pairs matches
+the detect valid keypoints number 335
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 326
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6375230440435962
+start compute the 2 pairs matches
+the detect valid keypoints number 335
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 306
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6777049748466379
+start compute the 3 pairs matches
+the detect valid keypoints number 335
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 339
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.3153638197667179
+start compute the 4 pairs matches
+the detect valid keypoints number 335
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 356
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.17628219688552757
+start compute the 5 pairs matches
+the detect valid keypoints number 335
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 404
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.28269011846125836
+提取描述符平均耗时:18.52841019630432
+计算描述符距离平均耗时:0.08292288780212402
+
+
+读取的图像:i_nescafe
+读取的图片张数:42
+start compute the 1 pairs matches
+the detect valid keypoints number 370
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 358
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8683221734374451
+start compute the 2 pairs matches
+the detect valid keypoints number 370
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 359
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9130664067206925
+start compute the 3 pairs matches
+the detect valid keypoints number 370
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 356
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9145334233278161
+start compute the 4 pairs matches
+the detect valid keypoints number 370
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 376
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9102268972887579
+start compute the 5 pairs matches
+the detect valid keypoints number 370
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 312
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7646386114984496
+提取描述符平均耗时:20.896506834030152
+计算描述符距离平均耗时:0.09225616455078126
+
+
+读取的图像:i_santuario
+读取的图片张数:43
+start compute the 1 pairs matches
+the detect valid keypoints number 374
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 359
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5426064658544918
+start compute the 2 pairs matches
+the detect valid keypoints number 374
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 360
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4885411069958232
+start compute the 3 pairs matches
+the detect valid keypoints number 374
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 359
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.14384134919209363
+start compute the 4 pairs matches
+the detect valid keypoints number 374
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 358
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7394462478687618
+start compute the 5 pairs matches
+the detect valid keypoints number 374
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 376
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5853630461507026
+提取描述符平均耗时:21.46208062171936
+计算描述符距离平均耗时:0.09517908096313477
+
+
+读取的图像:i_crownnight
+读取的图片张数:44
+start compute the 1 pairs matches
+the detect valid keypoints number 366
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 368
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7454980853671295
+start compute the 2 pairs matches
+the detect valid keypoints number 366
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 364
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6670479717615017
+start compute the 3 pairs matches
+the detect valid keypoints number 366
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 380
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6526408309005798
+start compute the 4 pairs matches
+the detect valid keypoints number 366
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 366
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5258094216213469
+start compute the 5 pairs matches
+the detect valid keypoints number 366
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 438
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.01111111111111111
+提取描述符平均耗时:23.120681381225587
+计算描述符距离平均耗时:0.09859747886657715
+
+
+读取的图像:i_salon
+读取的图片张数:45
+start compute the 1 pairs matches
+the detect valid keypoints number 359
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 364
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.956097210135183
+start compute the 2 pairs matches
+the detect valid keypoints number 359
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 349
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8740977976992592
+start compute the 3 pairs matches
+the detect valid keypoints number 359
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 330
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5967213265977933
+start compute the 4 pairs matches
+the detect valid keypoints number 359
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 354
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9312880081512935
+start compute the 5 pairs matches
+the detect valid keypoints number 359
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 347
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8972726866596274
+提取描述符平均耗时:20.414007139205932
+计算描述符距离平均耗时:0.0896493911743164
+
+
+读取的图像:i_whitebuilding
+读取的图片张数:46
+start compute the 1 pairs matches
+the detect valid keypoints number 367
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 356
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8705751251371194
+start compute the 2 pairs matches
+the detect valid keypoints number 367
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 358
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.827834839038994
+start compute the 3 pairs matches
+the detect valid keypoints number 367
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 349
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6204357841614938
+start compute the 4 pairs matches
+the detect valid keypoints number 367
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 378
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7069906462360016
+start compute the 5 pairs matches
+the detect valid keypoints number 367
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 380
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7257460129139327
+提取描述符平均耗时:23.39831657409668
+计算描述符距离平均耗时:0.09495506286621094
+
+
+读取的图像:i_gonnenberg
+读取的图片张数:47
+start compute the 1 pairs matches
+the detect valid keypoints number 348
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 358
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.898798721779765
+start compute the 2 pairs matches
+the detect valid keypoints number 348
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 347
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9005962318831793
+start compute the 3 pairs matches
+the detect valid keypoints number 348
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 336
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8664960115271819
+start compute the 4 pairs matches
+the detect valid keypoints number 348
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 355
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8534837696072388
+start compute the 5 pairs matches
+the detect valid keypoints number 348
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 355
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8606643918655958
+提取描述符平均耗时:19.66769857406616
+计算描述符距离平均耗时:0.0864518165588379
+
+
+读取的图像:i_castle
+读取的图片张数:48
+start compute the 1 pairs matches
+the detect valid keypoints number 301
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 328
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6009813842344788
+start compute the 2 pairs matches
+the detect valid keypoints number 301
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 321
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7768142188883798
+start compute the 3 pairs matches
+the detect valid keypoints number 301
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 297
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6004920193675733
+start compute the 4 pairs matches
+the detect valid keypoints number 301
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 356
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.547714959049933
+start compute the 5 pairs matches
+the detect valid keypoints number 301
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 373
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6180385706931117
+提取描述符平均耗时:16.998106813430788
+计算描述符距离平均耗时:0.07243499755859376
+
+
+读取的图像:i_steps
+读取的图片张数:49
+start compute the 1 pairs matches
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 373
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8221984984877742
+start compute the 2 pairs matches
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 362
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8955455425354768
+start compute the 3 pairs matches
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8600026179513717
+start compute the 4 pairs matches
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 330
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.2031842614458223
+start compute the 5 pairs matches
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 347
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5389417910482799
+提取描述符平均耗时:19.867020750045775
+计算描述符距离平均耗时:0.08730463981628418
+
+
+读取的图像:i_dc
+读取的图片张数:50
+start compute the 1 pairs matches
+the detect valid keypoints number 349
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 341
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5934359079282541
+start compute the 2 pairs matches
+the detect valid keypoints number 349
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 334
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.55094193199966
+start compute the 3 pairs matches
+the detect valid keypoints number 349
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 334
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.3426308164017226
+start compute the 4 pairs matches
+the detect valid keypoints number 349
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 334
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.19122752435333235
+start compute the 5 pairs matches
+the detect valid keypoints number 349
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 335
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.3677838527052567
+提取描述符平均耗时:25.34228434562683
+计算描述符距离平均耗时:0.08328356742858886
+
+
+读取的图像:i_fenis
+读取的图片张数:51
+start compute the 1 pairs matches
+the detect valid keypoints number 291
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 284
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8430650200348486
+start compute the 2 pairs matches
+the detect valid keypoints number 291
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 288
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5159741094181913
+start compute the 3 pairs matches
+the detect valid keypoints number 291
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 269
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.09608168006605505
+start compute the 4 pairs matches
+the detect valid keypoints number 291
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 275
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.08114478114478114
+start compute the 5 pairs matches
+the detect valid keypoints number 291
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 256
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.16503556539937814
+提取描述符平均耗时:14.4823748588562
+计算描述符距离平均耗时:0.05788331031799317
+
+
+读取的图像:i_brooklyn
+读取的图片张数:52
+start compute the 1 pairs matches
+the detect valid keypoints number 326
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 304
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5027765241238971
+start compute the 2 pairs matches
+the detect valid keypoints number 326
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 320
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.04003447701140613
+start compute the 3 pairs matches
+the detect valid keypoints number 326
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 301
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.10912718614620427
+start compute the 4 pairs matches
+the detect valid keypoints number 326
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 306
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.009408872514509607
+start compute the 5 pairs matches
+the detect valid keypoints number 326
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 317
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.0040008868284764475
+提取描述符平均耗时:17.977653217315673
+计算描述符距离平均耗时:0.07186369895935059
+
+
+读取的图像:i_smurf
+读取的图片张数:53
+start compute the 1 pairs matches
+the detect valid keypoints number 306
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 290
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9273975988056734
+start compute the 2 pairs matches
+the detect valid keypoints number 306
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 279
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8856124485156947
+start compute the 3 pairs matches
+the detect valid keypoints number 306
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 275
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9089849982679854
+start compute the 4 pairs matches
+the detect valid keypoints number 306
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 270
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8881515566220329
+start compute the 5 pairs matches
+the detect valid keypoints number 306
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 299
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8879790366651179
+提取描述符平均耗时:15.497806358337403
+计算描述符距离平均耗时:0.06261692047119141
+
+
+读取的图像:i_ski
+读取的图片张数:54
+start compute the 1 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 347
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8692702150106695
+start compute the 2 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7219702789331777
+start compute the 3 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 361
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6940315517340945
+start compute the 4 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 346
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5980408616718853
+start compute the 5 pairs matches
+the detect valid keypoints number 353
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5636979919477176
+提取描述符平均耗时:20.030404090881348
+计算描述符距离平均耗时:0.08750615119934083
+
+
+读取的图像:i_miniature
+读取的图片张数:55
+start compute the 1 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 378
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9340049097959219
+start compute the 2 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 363
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.702929011774214
+start compute the 3 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 362
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.45930420514157166
+start compute the 4 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 376
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.20561964446639758
+start compute the 5 pairs matches
+the detect valid keypoints number 351
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 343
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7337026059382815
+提取描述符平均耗时:20.3860924243927
+计算描述符距离平均耗时:0.09098811149597168
+
+
+读取的图像:i_nijmegen
+读取的图片张数:56
+start compute the 1 pairs matches
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 335
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7026562300355685
+start compute the 2 pairs matches
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 347
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8098146965673166
+start compute the 3 pairs matches
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 328
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.48751646476209554
+start compute the 4 pairs matches
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 334
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6943303879260363
+start compute the 5 pairs matches
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 350
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7570818546024519
+提取描述符平均耗时:20.073092794418336
+计算描述符距离平均耗时:0.08419475555419922
+
+
+读取的图像:i_boutique
+读取的图片张数:57
+start compute the 1 pairs matches
+the detect valid keypoints number 281
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 273
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9142494275033737
+start compute the 2 pairs matches
+the detect valid keypoints number 281
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 290
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7565672100299804
+start compute the 3 pairs matches
+the detect valid keypoints number 281
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 281
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7938047934851792
+start compute the 4 pairs matches
+the detect valid keypoints number 281
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 316
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.2060572986404569
+start compute the 5 pairs matches
+the detect valid keypoints number 281
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+the detect valid keypoints number 299
+模型参数位置:../utils/parameters/model_parameters/densenet169/ill_128_autoencoder_cnn.pth
+The Average Precision of a pair images:0.24705220163322242
+提取描述符平均耗时:15.095660734176636
+计算描述符距离平均耗时:0.06026978492736816
+
+
+所有数据的平均精度为:0.5979924905837204
+总共耗时:5720.229239463806

@@ -1,0 +1,2057 @@
+delete ./data/h5_patch
+delete ./data/results
+init spend time 3.825671911239624
+读取的图像:i_duda
+读取的图片张数:1
+start compute the 1 pairs matches
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 361
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.95431955780341
+start compute the 2 pairs matches
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 364
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9168007740941297
+start compute the 3 pairs matches
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 370
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8959816369810135
+start compute the 4 pairs matches
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 376
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8636320765723998
+start compute the 5 pairs matches
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 397
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8813782466740905
+提取描述符平均耗时:20.13239369392395
+计算描述符距离平均耗时:0.12526626586914064
+
+
+读取的图像:i_greenhouse
+读取的图片张数:2
+start compute the 1 pairs matches
+the detect valid keypoints number 323
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 321
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8668741768920083
+start compute the 2 pairs matches
+the detect valid keypoints number 323
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 313
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8714870155026733
+start compute the 3 pairs matches
+the detect valid keypoints number 323
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 336
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8237728562634417
+start compute the 4 pairs matches
+the detect valid keypoints number 323
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 323
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8683486859037448
+start compute the 5 pairs matches
+the detect valid keypoints number 323
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 317
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8447461529029766
+提取描述符平均耗时:11.127261924743653
+计算描述符距离平均耗时:0.08648538589477539
+
+
+读取的图像:i_pinard
+读取的图片张数:3
+start compute the 1 pairs matches
+the detect valid keypoints number 366
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 389
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9113934553515289
+start compute the 2 pairs matches
+the detect valid keypoints number 366
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9030876170252305
+start compute the 3 pairs matches
+the detect valid keypoints number 366
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.923771718734508
+start compute the 4 pairs matches
+the detect valid keypoints number 366
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 379
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9314784104703986
+start compute the 5 pairs matches
+the detect valid keypoints number 366
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 369
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9192061969250078
+提取描述符平均耗时:12.828166007995605
+计算描述符距离平均耗时:0.1094080924987793
+
+
+读取的图像:i_partyfood
+读取的图片张数:4
+start compute the 1 pairs matches
+the detect valid keypoints number 392
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 392
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9470115887051012
+start compute the 2 pairs matches
+the detect valid keypoints number 392
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 404
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.943407294919558
+start compute the 3 pairs matches
+the detect valid keypoints number 392
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 402
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9224201334000297
+start compute the 4 pairs matches
+the detect valid keypoints number 392
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 404
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9179741121501945
+start compute the 5 pairs matches
+the detect valid keypoints number 392
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 398
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8968224317161038
+提取描述符平均耗时:19.113394927978515
+计算描述符距离平均耗时:0.3620093822479248
+
+
+读取的图像:i_table
+读取的图片张数:5
+start compute the 1 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 343
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.855313418382392
+start compute the 2 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 332
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7977822106759807
+start compute the 3 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 367
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7518193934093286
+start compute the 4 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 328
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8691922477377092
+start compute the 5 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 369
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9677423980234313
+提取描述符平均耗时:11.362933874130249
+计算描述符距离平均耗时:0.10060772895812989
+
+
+读取的图像:i_leuven
+读取的图片张数:6
+start compute the 1 pairs matches
+the detect valid keypoints number 289
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 299
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9476190011806446
+start compute the 2 pairs matches
+the detect valid keypoints number 289
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 312
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9264755232231743
+start compute the 3 pairs matches
+the detect valid keypoints number 289
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 326
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9167031191535511
+start compute the 4 pairs matches
+the detect valid keypoints number 289
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 330
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8664396415291832
+start compute the 5 pairs matches
+the detect valid keypoints number 289
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 345
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4825451961167198
+提取描述符平均耗时:10.661190366744995
+计算描述符距离平均耗时:0.07770161628723145
+
+
+读取的图像:i_pool
+读取的图片张数:7
+start compute the 1 pairs matches
+the detect valid keypoints number 342
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 196
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.2583613209714025
+start compute the 2 pairs matches
+the detect valid keypoints number 342
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 145
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.12060823354683002
+start compute the 3 pairs matches
+the detect valid keypoints number 342
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 193
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.11182430687074649
+start compute the 4 pairs matches
+the detect valid keypoints number 342
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 162
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.12857142857142856
+start compute the 5 pairs matches
+the detect valid keypoints number 342
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 149
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.09640293040293041
+提取描述符平均耗时:17.790784120559692
+计算描述符距离平均耗时:0.055075645446777344
+
+
+读取的图像:i_yellowtent
+读取的图片张数:8
+start compute the 1 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 374
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9429544224673739
+start compute the 2 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 354
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8647800960431744
+start compute the 3 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 348
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7013892463726927
+start compute the 4 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 374
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8417838767019294
+start compute the 5 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7059044908829983
+提取描述符平均耗时:13.601390266418457
+计算描述符距离平均耗时:0.10977282524108886
+
+
+读取的图像:i_fruits
+读取的图片张数:9
+start compute the 1 pairs matches
+the detect valid keypoints number 354
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 337
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9691780821917808
+start compute the 2 pairs matches
+the detect valid keypoints number 354
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 331
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9672050845533993
+start compute the 3 pairs matches
+the detect valid keypoints number 354
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 344
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9652946430013056
+start compute the 4 pairs matches
+the detect valid keypoints number 354
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 347
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.936847516092641
+start compute the 5 pairs matches
+the detect valid keypoints number 354
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 337
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9565504215161831
+提取描述符平均耗时:12.587329483032226
+计算描述符距离平均耗时:0.0994804859161377
+
+
+读取的图像:i_tools
+读取的图片张数:10
+start compute the 1 pairs matches
+the detect valid keypoints number 318
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 355
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5267781295549405
+start compute the 2 pairs matches
+the detect valid keypoints number 318
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 382
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4518492346153605
+start compute the 3 pairs matches
+the detect valid keypoints number 318
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 379
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.16125598959619308
+start compute the 4 pairs matches
+the detect valid keypoints number 318
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 327
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.22616958150617117
+start compute the 5 pairs matches
+the detect valid keypoints number 318
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 354
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.027687911826853196
+提取描述符平均耗时:12.647816276550293
+计算描述符距离平均耗时:0.09291234016418456
+
+
+读取的图像:i_chestnuts
+读取的图片张数:11
+start compute the 1 pairs matches
+the detect valid keypoints number 356
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 339
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8636209323625634
+start compute the 2 pairs matches
+the detect valid keypoints number 356
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 325
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8623019486673322
+start compute the 3 pairs matches
+the detect valid keypoints number 356
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 336
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.849049639776011
+start compute the 4 pairs matches
+the detect valid keypoints number 356
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8009384272327196
+start compute the 5 pairs matches
+the detect valid keypoints number 356
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.722021434225981
+提取描述符平均耗时:12.947225904464721
+计算描述符距离平均耗时:0.09931983947753906
+
+
+读取的图像:i_melon
+读取的图片张数:12
+start compute the 1 pairs matches
+the detect valid keypoints number 389
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 386
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9106919481146092
+start compute the 2 pairs matches
+the detect valid keypoints number 389
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 393
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8616372665356893
+start compute the 3 pairs matches
+the detect valid keypoints number 389
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 397
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5702988317215322
+start compute the 4 pairs matches
+the detect valid keypoints number 389
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 380
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8824536865331707
+start compute the 5 pairs matches
+the detect valid keypoints number 389
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 380
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8323102658863845
+提取描述符平均耗时:14.471216773986816
+计算描述符距离平均耗时:0.12146916389465331
+
+
+读取的图像:i_crownday
+读取的图片张数:13
+start compute the 1 pairs matches
+the detect valid keypoints number 369
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 380
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.763812937829386
+start compute the 2 pairs matches
+the detect valid keypoints number 369
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 383
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8588559873842481
+start compute the 3 pairs matches
+the detect valid keypoints number 369
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 389
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9129845823617648
+start compute the 4 pairs matches
+the detect valid keypoints number 369
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 373
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9005421227759576
+start compute the 5 pairs matches
+the detect valid keypoints number 369
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 385
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8289505684952313
+提取描述符平均耗时:14.647423553466798
+计算描述符距离平均耗时:0.11524710655212403
+
+
+读取的图像:i_troulos
+读取的图片张数:14
+start compute the 1 pairs matches
+the detect valid keypoints number 422
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 289
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7890246896015773
+start compute the 2 pairs matches
+the detect valid keypoints number 422
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 394
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.01585618777936168
+start compute the 3 pairs matches
+the detect valid keypoints number 422
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 404
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8632547694010203
+start compute the 4 pairs matches
+the detect valid keypoints number 422
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 358
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6005887933809277
+start compute the 5 pairs matches
+the detect valid keypoints number 422
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 427
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6354543283376008
+提取描述符平均耗时:14.726057767868042
+计算描述符距离平均耗时:0.1269956111907959
+
+
+读取的图像:i_lionnight
+读取的图片张数:15
+start compute the 1 pairs matches
+the detect valid keypoints number 253
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 245
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.20778130371555026
+start compute the 2 pairs matches
+the detect valid keypoints number 253
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 268
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.2220202161268292
+start compute the 3 pairs matches
+the detect valid keypoints number 253
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 265
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.28592078242437147
+start compute the 4 pairs matches
+the detect valid keypoints number 253
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 255
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.19888967948945463
+start compute the 5 pairs matches
+the detect valid keypoints number 253
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 259
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.2924698899958664
+提取描述符平均耗时:9.305798053741455
+计算描述符距离平均耗时:0.0551396369934082
+
+
+读取的图像:i_dome
+读取的图片张数:16
+start compute the 1 pairs matches
+the detect valid keypoints number 343
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 343
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9187734664844358
+start compute the 2 pairs matches
+the detect valid keypoints number 343
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 320
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5221050182472236
+start compute the 3 pairs matches
+the detect valid keypoints number 343
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 323
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.641840018609009
+start compute the 4 pairs matches
+the detect valid keypoints number 343
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 335
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5690751121246892
+start compute the 5 pairs matches
+the detect valid keypoints number 343
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 320
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7003312249287543
+提取描述符平均耗时:13.084401702880859
+计算描述符距离平均耗时:0.09168987274169922
+
+
+读取的图像:i_nuts
+读取的图片张数:17
+start compute the 1 pairs matches
+the detect valid keypoints number 370
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.86980834569806
+start compute the 2 pairs matches
+the detect valid keypoints number 370
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 396
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7499007034330202
+start compute the 3 pairs matches
+the detect valid keypoints number 370
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 415
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5803248917049134
+start compute the 4 pairs matches
+the detect valid keypoints number 370
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 405
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4997924613791408
+start compute the 5 pairs matches
+the detect valid keypoints number 370
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 385
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.36716065177770074
+提取描述符平均耗时:13.913958215713501
+计算描述符距离平均耗时:0.11657590866088867
+
+
+读取的图像:i_contruction
+读取的图片张数:18
+start compute the 1 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 367
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9693940181352988
+start compute the 2 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 361
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9580279378600629
+start compute the 3 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 379
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9599111031589131
+start compute the 4 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 375
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8427326144991462
+start compute the 5 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 379
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7496806377436371
+提取描述符平均耗时:15.961482286453247
+计算描述符距离平均耗时:0.11335434913635253
+
+
+读取的图像:i_lionday
+读取的图片张数:19
+start compute the 1 pairs matches
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 367
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.32491183305935256
+start compute the 2 pairs matches
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 396
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.64423886016325
+start compute the 3 pairs matches
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 373
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.18212689223250494
+start compute the 4 pairs matches
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 352
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.357047107740061
+start compute the 5 pairs matches
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 385
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.55320777206162
+提取描述符平均耗时:13.521633768081665
+计算描述符距离平均耗时:0.10958104133605957
+
+
+读取的图像:i_greentea
+读取的图片张数:20
+start compute the 1 pairs matches
+the detect valid keypoints number 329
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 333
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9551404838520026
+start compute the 2 pairs matches
+the detect valid keypoints number 329
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 345
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9333531757711881
+start compute the 3 pairs matches
+the detect valid keypoints number 329
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 332
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9331239402134219
+start compute the 4 pairs matches
+the detect valid keypoints number 329
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 354
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9509029573808047
+start compute the 5 pairs matches
+the detect valid keypoints number 329
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 376
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9074953189636384
+提取描述符平均耗时:12.428838300704957
+计算描述符距离平均耗时:0.09374299049377441
+
+
+读取的图像:i_ajuntament
+读取的图片张数:21
+start compute the 1 pairs matches
+the detect valid keypoints number 330
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 346
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9106707274025854
+start compute the 2 pairs matches
+the detect valid keypoints number 330
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 266
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5951394708364405
+start compute the 3 pairs matches
+the detect valid keypoints number 330
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 205
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.38052874586972296
+start compute the 4 pairs matches
+the detect valid keypoints number 330
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 161
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4582231370871817
+start compute the 5 pairs matches
+the detect valid keypoints number 330
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 196
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.41010433347609626
+提取描述符平均耗时:10.521615314483643
+计算描述符距离平均耗时:0.06514067649841308
+
+
+读取的图像:i_londonbridge
+读取的图片张数:22
+start compute the 1 pairs matches
+the detect valid keypoints number 278
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 319
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.025678889270708136
+start compute the 2 pairs matches
+the detect valid keypoints number 278
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 320
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.52315820542784
+start compute the 3 pairs matches
+the detect valid keypoints number 278
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 328
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.18504247968608123
+start compute the 4 pairs matches
+the detect valid keypoints number 278
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 335
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.0018928571428571427
+start compute the 5 pairs matches
+the detect valid keypoints number 278
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.818871741650383
+提取描述符平均耗时:12.016382789611816
+计算描述符距离平均耗时:0.07777771949768067
+
+
+读取的图像:i_parking
+读取的图片张数:23
+start compute the 1 pairs matches
+the detect valid keypoints number 345
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 348
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9257550579490912
+start compute the 2 pairs matches
+the detect valid keypoints number 345
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 355
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8248760219917117
+start compute the 3 pairs matches
+the detect valid keypoints number 345
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 324
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6802455579683544
+start compute the 4 pairs matches
+the detect valid keypoints number 345
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 327
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7312791575083379
+start compute the 5 pairs matches
+the detect valid keypoints number 345
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 333
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7790857790195735
+提取描述符平均耗时:12.386728620529174
+计算描述符距离平均耗时:0.09609446525573731
+
+
+读取的图像:i_pencils
+读取的图片张数:24
+start compute the 1 pairs matches
+the detect valid keypoints number 355
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 341
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6365634675575408
+start compute the 2 pairs matches
+the detect valid keypoints number 355
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 348
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.0
+start compute the 3 pairs matches
+the detect valid keypoints number 355
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 364
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.0015384615384615387
+start compute the 4 pairs matches
+the detect valid keypoints number 355
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 341
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.3619825139107106
+start compute the 5 pairs matches
+the detect valid keypoints number 355
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 332
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.255839424777796
+提取描述符平均耗时:14.246571826934815
+计算描述符距离平均耗时:0.10039176940917968
+
+
+读取的图像:i_school
+读取的图片张数:25
+start compute the 1 pairs matches
+the detect valid keypoints number 329
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 312
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8338858440481804
+start compute the 2 pairs matches
+the detect valid keypoints number 329
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 314
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8645000278146392
+start compute the 3 pairs matches
+the detect valid keypoints number 329
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 326
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6747982313995655
+start compute the 4 pairs matches
+the detect valid keypoints number 329
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 311
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.818867198755859
+start compute the 5 pairs matches
+the detect valid keypoints number 329
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 320
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4977601766530663
+提取描述符平均耗时:11.572618293762208
+计算描述符距离平均耗时:0.08642144203186035
+
+
+读取的图像:i_zion
+读取的图片张数:26
+start compute the 1 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 368
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9410561648296392
+start compute the 2 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 338
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.862849501054672
+start compute the 3 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 355
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8232509654657133
+start compute the 4 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 366
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7532005451394606
+start compute the 5 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 404
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5089070107900198
+提取描述符平均耗时:13.807849597930907
+计算描述符距离平均耗时:0.10715265274047851
+
+
+读取的图像:i_veggies
+读取的图片张数:27
+start compute the 1 pairs matches
+the detect valid keypoints number 391
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 399
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9270148894997335
+start compute the 2 pairs matches
+the detect valid keypoints number 391
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 409
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7834773204396512
+start compute the 3 pairs matches
+the detect valid keypoints number 391
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 420
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8481219244718337
+start compute the 4 pairs matches
+the detect valid keypoints number 391
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 422
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4826020011514118
+start compute the 5 pairs matches
+the detect valid keypoints number 391
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 421
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.42740267550464855
+提取描述符平均耗时:15.009172344207764
+计算描述符距离平均耗时:0.13137879371643066
+
+
+读取的图像:i_ktirio
+读取的图片张数:28
+start compute the 1 pairs matches
+the detect valid keypoints number 347
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 358
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9490198607484598
+start compute the 2 pairs matches
+the detect valid keypoints number 347
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 338
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6161150479771749
+start compute the 3 pairs matches
+the detect valid keypoints number 347
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6367429195738369
+start compute the 4 pairs matches
+the detect valid keypoints number 347
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 333
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5466484370071154
+start compute the 5 pairs matches
+the detect valid keypoints number 347
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 359
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.29852193613776495
+提取描述符平均耗时:12.339643669128417
+计算描述符距离平均耗时:0.09839282035827637
+
+
+读取的图像:i_bridger
+读取的图片张数:29
+start compute the 1 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 328
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9025231406159302
+start compute the 2 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 330
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9358289364095651
+start compute the 3 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 308
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.88562313958093
+start compute the 4 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 296
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7621187975130799
+start compute the 5 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 123
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.35833333333333334
+提取描述符平均耗时:12.563398599624634
+计算描述符距离平均耗时:0.08189167976379394
+
+
+读取的图像:i_indiana
+读取的图片张数:30
+start compute the 1 pairs matches
+the detect valid keypoints number 357
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9138136953832655
+start compute the 2 pairs matches
+the detect valid keypoints number 357
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 363
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8412696111743707
+start compute the 3 pairs matches
+the detect valid keypoints number 357
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 363
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8124715226587732
+start compute the 4 pairs matches
+the detect valid keypoints number 357
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 357
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8547877624803287
+start compute the 5 pairs matches
+the detect valid keypoints number 357
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 349
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8263205971192321
+提取描述符平均耗时:13.732489156723023
+计算描述符距离平均耗时:0.10387129783630371
+
+
+读取的图像:i_toy
+读取的图片张数:31
+start compute the 1 pairs matches
+the detect valid keypoints number 326
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 334
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9314654222236164
+start compute the 2 pairs matches
+the detect valid keypoints number 326
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 317
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9328631365995737
+start compute the 3 pairs matches
+the detect valid keypoints number 326
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 318
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9501155606796283
+start compute the 4 pairs matches
+the detect valid keypoints number 326
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 306
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9128396067226939
+start compute the 5 pairs matches
+the detect valid keypoints number 326
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 315
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8789539591162318
+提取描述符平均耗时:11.614277124404907
+计算描述符距离平均耗时:0.08555731773376465
+
+
+读取的图像:i_books
+读取的图片张数:32
+start compute the 1 pairs matches
+the detect valid keypoints number 362
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 399
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9093256936790659
+start compute the 2 pairs matches
+the detect valid keypoints number 362
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 324
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9044193610234478
+start compute the 3 pairs matches
+the detect valid keypoints number 362
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9192403457353273
+start compute the 4 pairs matches
+the detect valid keypoints number 362
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 358
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9043093924321831
+start compute the 5 pairs matches
+the detect valid keypoints number 362
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 372
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9351793128981187
+提取描述符平均耗时:13.379333972930908
+计算描述符距离平均耗时:0.10638599395751953
+
+
+读取的图像:i_resort
+读取的图片张数:33
+start compute the 1 pairs matches
+the detect valid keypoints number 342
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 331
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.925520025230829
+start compute the 2 pairs matches
+the detect valid keypoints number 342
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 337
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9587156582932445
+start compute the 3 pairs matches
+the detect valid keypoints number 342
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 305
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9544036231616896
+start compute the 4 pairs matches
+the detect valid keypoints number 342
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 358
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8709196918241976
+start compute the 5 pairs matches
+the detect valid keypoints number 342
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 337
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8817737493451676
+提取描述符平均耗时:12.740971660614013
+计算描述符距离平均耗时:0.09332065582275391
+
+
+读取的图像:i_objects
+读取的图片张数:34
+start compute the 1 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 343
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.855313418382392
+start compute the 2 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 332
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7977822106759807
+start compute the 3 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 367
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7518193934093286
+start compute the 4 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 328
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8691922477377092
+start compute the 5 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 369
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9677423980234313
+提取描述符平均耗时:13.36931529045105
+计算描述符距离平均耗时:0.09912443161010742
+
+
+读取的图像:i_village
+读取的图片张数:35
+start compute the 1 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7067947483194172
+start compute the 2 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7312253552232679
+start compute the 3 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7955436450632283
+start compute the 4 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8821555700989852
+start compute the 5 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 352
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7053459608015462
+提取描述符平均耗时:13.202428722381592
+计算描述符距离平均耗时:0.10588531494140625
+
+
+读取的图像:i_kions
+读取的图片张数:36
+start compute the 1 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 346
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5050977289837026
+start compute the 2 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 379
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6412665049527682
+start compute the 3 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 403
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5467834623490179
+start compute the 4 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 401
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5825170353253929
+start compute the 5 pairs matches
+the detect valid keypoints number 371
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6563521467002615
+提取描述符平均耗时:13.672804307937621
+计算描述符距离平均耗时:0.11236910820007324
+
+
+读取的图像:i_kurhaus
+读取的图片张数:37
+start compute the 1 pairs matches
+the detect valid keypoints number 349
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 334
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9332831929178073
+start compute the 2 pairs matches
+the detect valid keypoints number 349
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 336
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9194962144382468
+start compute the 3 pairs matches
+the detect valid keypoints number 349
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 327
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9225981942181103
+start compute the 4 pairs matches
+the detect valid keypoints number 349
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 342
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9244284659068573
+start compute the 5 pairs matches
+the detect valid keypoints number 349
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 335
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9169223709593369
+提取描述符平均耗时:13.198833322525024
+计算描述符距离平均耗时:0.09634790420532227
+
+
+读取的图像:i_fog
+读取的图片张数:38
+start compute the 1 pairs matches
+the detect valid keypoints number 254
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 256
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.848355993393252
+start compute the 2 pairs matches
+the detect valid keypoints number 254
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 247
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7524102666052066
+start compute the 3 pairs matches
+the detect valid keypoints number 254
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 269
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.647839189788983
+start compute the 4 pairs matches
+the detect valid keypoints number 254
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 219
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6225040576742222
+start compute the 5 pairs matches
+the detect valid keypoints number 254
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 184
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6149060541570348
+提取描述符平均耗时:8.740294456481934
+计算描述符距离平均耗时:0.05101895332336426
+
+
+读取的图像:i_autannes
+读取的图片张数:39
+start compute the 1 pairs matches
+the detect valid keypoints number 387
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 397
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7241071341706955
+start compute the 2 pairs matches
+the detect valid keypoints number 387
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 387
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.48881039595325304
+start compute the 3 pairs matches
+the detect valid keypoints number 387
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 339
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.2503618510379075
+start compute the 4 pairs matches
+the detect valid keypoints number 387
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 339
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5058596691249612
+start compute the 5 pairs matches
+the detect valid keypoints number 387
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 379
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7229594017677361
+提取描述符平均耗时:14.673795318603515
+计算描述符距离平均耗时:0.11454601287841797
+
+
+读取的图像:i_bologna
+读取的图片张数:40
+start compute the 1 pairs matches
+the detect valid keypoints number 186
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 373
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.910025816971824
+start compute the 2 pairs matches
+the detect valid keypoints number 186
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 363
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8898070176198924
+start compute the 3 pairs matches
+the detect valid keypoints number 186
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 363
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8673386224968528
+start compute the 4 pairs matches
+the detect valid keypoints number 186
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 374
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8831845399371065
+start compute the 5 pairs matches
+the detect valid keypoints number 186
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 338
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8768246608528334
+提取描述符平均耗时:10.17274808883667
+计算描述符距离平均耗时:0.059485435485839844
+
+
+读取的图像:i_porta
+读取的图片张数:41
+start compute the 1 pairs matches
+the detect valid keypoints number 335
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 326
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6984386495001652
+start compute the 2 pairs matches
+the detect valid keypoints number 335
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 306
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7986381166218973
+start compute the 3 pairs matches
+the detect valid keypoints number 335
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 339
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.49350555910826854
+start compute the 4 pairs matches
+the detect valid keypoints number 335
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 356
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5779971117326274
+start compute the 5 pairs matches
+the detect valid keypoints number 335
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 404
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.48334171902841905
+提取描述符平均耗时:12.304524326324463
+计算描述符距离平均耗时:0.09497318267822266
+
+
+读取的图像:i_nescafe
+读取的图片张数:42
+start compute the 1 pairs matches
+the detect valid keypoints number 370
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 358
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8839085132684814
+start compute the 2 pairs matches
+the detect valid keypoints number 370
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 359
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.921148727144194
+start compute the 3 pairs matches
+the detect valid keypoints number 370
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 356
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9197897318210998
+start compute the 4 pairs matches
+the detect valid keypoints number 370
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 376
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9295390806170614
+start compute the 5 pairs matches
+the detect valid keypoints number 370
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 312
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8777337253713445
+提取描述符平均耗时:13.604826879501342
+计算描述符距离平均耗时:0.10523977279663085
+
+
+读取的图像:i_santuario
+读取的图片张数:43
+start compute the 1 pairs matches
+the detect valid keypoints number 374
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 359
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5928460142411556
+start compute the 2 pairs matches
+the detect valid keypoints number 374
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 360
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5606632853094026
+start compute the 3 pairs matches
+the detect valid keypoints number 374
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 359
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.1834418675438125
+start compute the 4 pairs matches
+the detect valid keypoints number 374
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 358
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8304286007281705
+start compute the 5 pairs matches
+the detect valid keypoints number 374
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 376
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.680782725679683
+提取描述符平均耗时:13.769890785217285
+计算描述符距离平均耗时:0.10908675193786621
+
+
+读取的图像:i_crownnight
+读取的图片张数:44
+start compute the 1 pairs matches
+the detect valid keypoints number 366
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 368
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8252364573679296
+start compute the 2 pairs matches
+the detect valid keypoints number 366
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 364
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7661225750883611
+start compute the 3 pairs matches
+the detect valid keypoints number 366
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 380
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7657141684744461
+start compute the 4 pairs matches
+the detect valid keypoints number 366
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 366
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7103574062539613
+start compute the 5 pairs matches
+the detect valid keypoints number 366
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 438
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.016666666666666666
+提取描述符平均耗时:15.23059983253479
+计算描述符距离平均耗时:0.11372146606445313
+
+
+读取的图像:i_salon
+读取的图片张数:45
+start compute the 1 pairs matches
+the detect valid keypoints number 359
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 364
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9642313914523015
+start compute the 2 pairs matches
+the detect valid keypoints number 359
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 349
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9480431178421089
+start compute the 3 pairs matches
+the detect valid keypoints number 359
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 330
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8339567322179786
+start compute the 4 pairs matches
+the detect valid keypoints number 359
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 354
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9447523505082395
+start compute the 5 pairs matches
+the detect valid keypoints number 359
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 347
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9151672151872708
+提取描述符平均耗时:13.42918128967285
+计算描述符距离平均耗时:0.10135493278503419
+
+
+读取的图像:i_whitebuilding
+读取的图片张数:46
+start compute the 1 pairs matches
+the detect valid keypoints number 367
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 356
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8939992609716887
+start compute the 2 pairs matches
+the detect valid keypoints number 367
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 358
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8774913981129042
+start compute the 3 pairs matches
+the detect valid keypoints number 367
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 349
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7216058375716281
+start compute the 4 pairs matches
+the detect valid keypoints number 367
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 378
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.729900795501121
+start compute the 5 pairs matches
+the detect valid keypoints number 367
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 380
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8157843921483373
+提取描述符平均耗时:16.606755208969116
+计算描述符距离平均耗时:0.10798854827880859
+
+
+读取的图像:i_gonnenberg
+读取的图片张数:47
+start compute the 1 pairs matches
+the detect valid keypoints number 348
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 358
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9060673612681867
+start compute the 2 pairs matches
+the detect valid keypoints number 348
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 347
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8971618334978209
+start compute the 3 pairs matches
+the detect valid keypoints number 348
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 336
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9254865619084456
+start compute the 4 pairs matches
+the detect valid keypoints number 348
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 355
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8646879185904546
+start compute the 5 pairs matches
+the detect valid keypoints number 348
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 355
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8877046686090173
+提取描述符平均耗时:12.966241025924683
+计算描述符距离平均耗时:0.09894342422485351
+
+
+读取的图像:i_castle
+读取的图片张数:48
+start compute the 1 pairs matches
+the detect valid keypoints number 301
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 328
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7501539631255305
+start compute the 2 pairs matches
+the detect valid keypoints number 301
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 321
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8790008899330957
+start compute the 3 pairs matches
+the detect valid keypoints number 301
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 297
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8204093406184858
+start compute the 4 pairs matches
+the detect valid keypoints number 301
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 356
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.723687125076905
+start compute the 5 pairs matches
+the detect valid keypoints number 301
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 373
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7549435084498803
+提取描述符平均耗时:11.60803508758545
+计算描述符距离平均耗时:0.08290576934814453
+
+
+读取的图像:i_steps
+读取的图片张数:49
+start compute the 1 pairs matches
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 373
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8533848720177457
+start compute the 2 pairs matches
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 362
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9102184254482741
+start compute the 3 pairs matches
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.912930523968862
+start compute the 4 pairs matches
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 330
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7160248113756162
+start compute the 5 pairs matches
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 347
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8516775312895585
+提取描述符平均耗时:12.863278913497926
+计算描述符距离平均耗时:0.10189223289489746
+
+
+读取的图像:i_dc
+读取的图片张数:50
+start compute the 1 pairs matches
+the detect valid keypoints number 349
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 341
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8412309034401648
+start compute the 2 pairs matches
+the detect valid keypoints number 349
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 334
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8113592047114639
+start compute the 3 pairs matches
+the detect valid keypoints number 349
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 334
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6658387099940316
+start compute the 4 pairs matches
+the detect valid keypoints number 349
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 334
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.6575221137376113
+start compute the 5 pairs matches
+the detect valid keypoints number 349
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 335
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.653756817439751
+提取描述符平均耗时:18.48656349182129
+计算描述符距离平均耗时:0.09478220939636231
+
+
+读取的图像:i_fenis
+读取的图片张数:51
+start compute the 1 pairs matches
+the detect valid keypoints number 291
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 284
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.882292707854728
+start compute the 2 pairs matches
+the detect valid keypoints number 291
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 288
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7214210548050067
+start compute the 3 pairs matches
+the detect valid keypoints number 291
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 269
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.20808587638988038
+start compute the 4 pairs matches
+the detect valid keypoints number 291
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 275
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.24452070054221986
+start compute the 5 pairs matches
+the detect valid keypoints number 291
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 256
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4398261705101328
+提取描述符平均耗时:10.265417051315307
+计算描述符距离平均耗时:0.06655120849609375
+
+
+读取的图像:i_brooklyn
+读取的图片张数:52
+start compute the 1 pairs matches
+the detect valid keypoints number 326
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 304
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8178631900816193
+start compute the 2 pairs matches
+the detect valid keypoints number 326
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 320
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.04074347028711943
+start compute the 3 pairs matches
+the detect valid keypoints number 326
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 301
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.3573914933254596
+start compute the 4 pairs matches
+the detect valid keypoints number 326
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 306
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.01484954591538054
+start compute the 5 pairs matches
+the detect valid keypoints number 326
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 317
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.0026489766463317324
+提取描述符平均耗时:12.556963443756104
+计算描述符距离平均耗时:0.08285350799560547
+
+
+读取的图像:i_smurf
+读取的图片张数:53
+start compute the 1 pairs matches
+the detect valid keypoints number 306
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 290
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9722946533440653
+start compute the 2 pairs matches
+the detect valid keypoints number 306
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 279
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9370776881757038
+start compute the 3 pairs matches
+the detect valid keypoints number 306
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 275
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.925743092266506
+start compute the 4 pairs matches
+the detect valid keypoints number 306
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 270
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9391092325028023
+start compute the 5 pairs matches
+the detect valid keypoints number 306
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 299
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9341307122808665
+提取描述符平均耗时:10.721483135223389
+计算描述符距离平均耗时:0.07182374000549316
+
+
+读取的图像:i_ski
+读取的图片张数:54
+start compute the 1 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 347
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.894883225541432
+start compute the 2 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7965998230891707
+start compute the 3 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 361
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8103057394020692
+start compute the 4 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 346
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7951600206877953
+start compute the 5 pairs matches
+the detect valid keypoints number 353
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.723803806197591
+提取描述符平均耗时:12.98296594619751
+计算描述符距离平均耗时:0.10159392356872558
+
+
+读取的图像:i_miniature
+读取的图片张数:55
+start compute the 1 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 378
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9581968323976111
+start compute the 2 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 363
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8937122710996832
+start compute the 3 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 362
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7881914361035829
+start compute the 4 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 376
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.3339615781490093
+start compute the 5 pairs matches
+the detect valid keypoints number 351
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 343
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9206659579720189
+提取描述符平均耗时:13.08748288154602
+计算描述符距离平均耗时:0.10357990264892578
+
+
+读取的图像:i_nijmegen
+读取的图片张数:56
+start compute the 1 pairs matches
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 335
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.763845865396984
+start compute the 2 pairs matches
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 347
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.834722354686132
+start compute the 3 pairs matches
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 328
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5998445483761221
+start compute the 4 pairs matches
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 334
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.7733122168040374
+start compute the 5 pairs matches
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 350
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8051632239353715
+提取描述符平均耗时:13.384154510498046
+计算描述符距离平均耗时:0.09679012298583985
+
+
+读取的图像:i_boutique
+读取的图片张数:57
+start compute the 1 pairs matches
+the detect valid keypoints number 281
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 273
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.9253328441460222
+start compute the 2 pairs matches
+the detect valid keypoints number 281
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 290
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.8447969675701401
+start compute the 3 pairs matches
+the detect valid keypoints number 281
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 281
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.896741436961177
+start compute the 4 pairs matches
+the detect valid keypoints number 281
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 316
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.4907708973067515
+start compute the 5 pairs matches
+the detect valid keypoints number 281
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+the detect valid keypoints number 299
+../utils/parameters/model_parameters/densenet169/ill_1024_autoencoder_cnn.pth
+The Average Precision of a pair images:0.5200476688949478
+提取描述符平均耗时:10.584713029861451
+计算描述符距离平均耗时:0.0694650650024414
+
+
+所有数据的平均精度为:0.7208874641407591
+总共耗时:3875.090630054474

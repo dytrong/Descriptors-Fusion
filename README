@@ -1,0 +1,11 @@
+####项目主要包括"数据降维"和"数据融合"两部分内容
+
+<1> 数据降维
+
+    主要是对预训练卷积描述符降维,提取AlexNet,ResNet101,以及DenseNet169中间卷积特征作为图像特征点描述符.
+    预训练描述符维度高达十几万维,我们采用Auto-Encoder对这一类描述符降维. 然后,用Auto-Encoder分别和PCA,Random Project
+    降维方法作了对比,将预训练卷积描述符降维到128,256,512,1024,2048,4096维, Auto-Encoder都取得了最好的效果.
+
+    降维代码在utils文件夹中, 执行bash train_autoencoder_cnn.sh训练auto-encoder模型
+
+    dimension_reduce_method.py 各种降维方法

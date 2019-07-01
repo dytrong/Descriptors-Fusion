@@ -1,0 +1,2719 @@
+delete ./data/h5_patch
+delete ./data/results
+init spend time 4.009934186935425
+读取的图像:v_gardens
+读取的图片张数:1
+start compute the 1 pairs matches
+the detect valid keypoints number 380
+加载Auto Encoder......
+加载Auto Encoder共耗时:30.785707235336304
+the detect valid keypoints number 363
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4986748695373535
+The Average Precision of a pair images:0.6090557480435974
+start compute the 2 pairs matches
+the detect valid keypoints number 380
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.48395776748657227
+the detect valid keypoints number 363
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5064167976379395
+The Average Precision of a pair images:0.18038971237579116
+start compute the 3 pairs matches
+the detect valid keypoints number 380
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44237351417541504
+the detect valid keypoints number 367
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4425969123840332
+The Average Precision of a pair images:0.8231108058428076
+start compute the 4 pairs matches
+the detect valid keypoints number 380
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45974111557006836
+the detect valid keypoints number 391
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44460344314575195
+The Average Precision of a pair images:0.28148302928430124
+start compute the 5 pairs matches
+the detect valid keypoints number 380
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4431765079498291
+the detect valid keypoints number 405
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44261884689331055
+The Average Precision of a pair images:0.07747563266642682
+提取描述符平均耗时:20.97445774078369
+计算描述符距离平均耗时:0.1187973976135254
+
+
+读取的图像:v_machines
+读取的图片张数:2
+start compute the 1 pairs matches
+the detect valid keypoints number 368
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44322800636291504
+the detect valid keypoints number 358
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5212616920471191
+The Average Precision of a pair images:0.6444421168063597
+start compute the 2 pairs matches
+the detect valid keypoints number 368
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4533510208129883
+the detect valid keypoints number 355
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5062716007232666
+The Average Precision of a pair images:0.19991391519211965
+start compute the 3 pairs matches
+the detect valid keypoints number 368
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45003557205200195
+the detect valid keypoints number 394
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44196343421936035
+The Average Precision of a pair images:0.47178437844136367
+start compute the 4 pairs matches
+the detect valid keypoints number 368
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44443225860595703
+the detect valid keypoints number 376
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44231438636779785
+The Average Precision of a pair images:0.09631398124089025
+start compute the 5 pairs matches
+the detect valid keypoints number 368
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4435389041900635
+the detect valid keypoints number 390
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4416661262512207
+The Average Precision of a pair images:0.5418002451584247
+提取描述符平均耗时:13.962484407424927
+计算描述符距离平均耗时:0.0993260383605957
+
+
+读取的图像:v_bird
+读取的图片张数:3
+start compute the 1 pairs matches
+the detect valid keypoints number 295
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5321004390716553
+the detect valid keypoints number 322
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5417768955230713
+The Average Precision of a pair images:0.290578104312608
+start compute the 2 pairs matches
+the detect valid keypoints number 295
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4439220428466797
+the detect valid keypoints number 364
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5049169063568115
+The Average Precision of a pair images:0.39921636279425493
+start compute the 3 pairs matches
+the detect valid keypoints number 295
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.503338098526001
+the detect valid keypoints number 355
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5234336853027344
+The Average Precision of a pair images:0.4974718833590322
+start compute the 4 pairs matches
+the detect valid keypoints number 295
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5188050270080566
+the detect valid keypoints number 363
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.46205902099609375
+The Average Precision of a pair images:0.47258256560542244
+start compute the 5 pairs matches
+the detect valid keypoints number 295
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.49267053604125977
+the detect valid keypoints number 344
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5070028305053711
+The Average Precision of a pair images:0.09234356217680444
+提取描述符平均耗时:12.362069845199585
+计算描述符距离平均耗时:0.07552862167358398
+
+
+读取的图像:v_busstop
+读取的图片张数:4
+start compute the 1 pairs matches
+the detect valid keypoints number 367
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5081534385681152
+the detect valid keypoints number 365
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44271016120910645
+The Average Precision of a pair images:0.8814015940779145
+start compute the 2 pairs matches
+the detect valid keypoints number 367
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44298601150512695
+the detect valid keypoints number 369
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4425539970397949
+The Average Precision of a pair images:0.7789805602524749
+start compute the 3 pairs matches
+the detect valid keypoints number 367
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4418802261352539
+the detect valid keypoints number 372
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5052268505096436
+The Average Precision of a pair images:0.7365370546205516
+start compute the 4 pairs matches
+the detect valid keypoints number 367
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4425017833709717
+the detect valid keypoints number 367
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44234371185302734
+The Average Precision of a pair images:0.6206246439154206
+start compute the 5 pairs matches
+the detect valid keypoints number 367
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44892334938049316
+the detect valid keypoints number 370
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5111525058746338
+The Average Precision of a pair images:0.7719940303981506
+提取描述符平均耗时:14.619773817062377
+计算描述符距离平均耗时:0.09692535400390626
+
+
+读取的图像:v_pomegranate
+读取的图片张数:5
+start compute the 1 pairs matches
+the detect valid keypoints number 341
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5040256977081299
+the detect valid keypoints number 348
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5181200504302979
+The Average Precision of a pair images:0.8252545666288335
+start compute the 2 pairs matches
+the detect valid keypoints number 341
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4422156810760498
+the detect valid keypoints number 350
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5087175369262695
+The Average Precision of a pair images:0.5820186281003539
+start compute the 3 pairs matches
+the detect valid keypoints number 341
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5100066661834717
+the detect valid keypoints number 345
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5028843879699707
+The Average Precision of a pair images:0.6026827773128365
+start compute the 4 pairs matches
+the detect valid keypoints number 341
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.505108118057251
+the detect valid keypoints number 297
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5051333904266357
+The Average Precision of a pair images:0.6979126197241808
+start compute the 5 pairs matches
+the detect valid keypoints number 341
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5278303623199463
+the detect valid keypoints number 203
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5046701431274414
+The Average Precision of a pair images:0.7438218899394926
+提取描述符平均耗时:12.609302186965943
+计算描述符距离平均耗时:0.07656693458557129
+
+
+读取的图像:v_feast
+读取的图片张数:6
+start compute the 1 pairs matches
+the detect valid keypoints number 359
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4414525032043457
+the detect valid keypoints number 325
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5036764144897461
+The Average Precision of a pair images:0.4905866220247825
+start compute the 2 pairs matches
+the detect valid keypoints number 359
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45418620109558105
+the detect valid keypoints number 351
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5246970653533936
+The Average Precision of a pair images:0.6891435896271411
+start compute the 3 pairs matches
+the detect valid keypoints number 359
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.443206787109375
+the detect valid keypoints number 357
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4564213752746582
+The Average Precision of a pair images:0.2872727057352332
+start compute the 4 pairs matches
+the detect valid keypoints number 359
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.502413272857666
+the detect valid keypoints number 368
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5126903057098389
+The Average Precision of a pair images:0.824885083846203
+start compute the 5 pairs matches
+the detect valid keypoints number 359
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5184326171875
+the detect valid keypoints number 375
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5042879581451416
+The Average Precision of a pair images:0.6359330520462227
+提取描述符平均耗时:13.97572193145752
+计算描述符距离平均耗时:0.09141778945922852
+
+
+读取的图像:v_churchill
+读取的图片张数:7
+start compute the 1 pairs matches
+the detect valid keypoints number 387
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.502967119216919
+the detect valid keypoints number 394
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44489216804504395
+The Average Precision of a pair images:0.6391420876663846
+start compute the 2 pairs matches
+the detect valid keypoints number 387
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44496631622314453
+the detect valid keypoints number 400
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45282459259033203
+The Average Precision of a pair images:0.39227443532103456
+start compute the 3 pairs matches
+the detect valid keypoints number 387
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5022876262664795
+the detect valid keypoints number 404
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4424128532409668
+The Average Precision of a pair images:0.38759534328683704
+start compute the 4 pairs matches
+the detect valid keypoints number 387
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4438748359680176
+the detect valid keypoints number 411
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44153857231140137
+The Average Precision of a pair images:0.8889157731460282
+start compute the 5 pairs matches
+the detect valid keypoints number 387
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4425492286682129
+the detect valid keypoints number 417
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44236159324645996
+The Average Precision of a pair images:0.10223724779738554
+提取描述符平均耗时:15.184692192077637
+计算描述符距离平均耗时:0.11069769859313965
+
+
+读取的图像:v_circus
+读取的图片张数:8
+start compute the 1 pairs matches
+the detect valid keypoints number 342
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4452033042907715
+the detect valid keypoints number 336
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5348882675170898
+The Average Precision of a pair images:0.501937384283433
+start compute the 2 pairs matches
+the detect valid keypoints number 342
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5051393508911133
+the detect valid keypoints number 335
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5105783939361572
+The Average Precision of a pair images:0.45956025387393784
+start compute the 3 pairs matches
+the detect valid keypoints number 342
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5174996852874756
+the detect valid keypoints number 352
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5030150413513184
+The Average Precision of a pair images:0.3187689023911441
+start compute the 4 pairs matches
+the detect valid keypoints number 342
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5057353973388672
+the detect valid keypoints number 348
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5199069976806641
+The Average Precision of a pair images:0.46343514689508536
+start compute the 5 pairs matches
+the detect valid keypoints number 342
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5194492340087891
+the detect valid keypoints number 339
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5076568126678467
+The Average Precision of a pair images:0.3108951715971751
+提取描述符平均耗时:13.18873462677002
+计算描述符距离平均耗时:0.0839935302734375
+
+
+读取的图像:v_artisans
+读取的图片张数:9
+start compute the 1 pairs matches
+the detect valid keypoints number 351
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5363378524780273
+the detect valid keypoints number 364
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45868444442749023
+The Average Precision of a pair images:0.11112417377509846
+start compute the 2 pairs matches
+the detect valid keypoints number 351
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4538383483886719
+the detect valid keypoints number 360
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4441056251525879
+The Average Precision of a pair images:0.24742999185429365
+start compute the 3 pairs matches
+the detect valid keypoints number 351
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5037593841552734
+the detect valid keypoints number 311
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5262408256530762
+The Average Precision of a pair images:0.6761663180810803
+start compute the 4 pairs matches
+the detect valid keypoints number 351
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.506594181060791
+the detect valid keypoints number 329
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5067586898803711
+The Average Precision of a pair images:0.09995996650408415
+start compute the 5 pairs matches
+the detect valid keypoints number 351
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5107853412628174
+the detect valid keypoints number 315
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5040018558502197
+The Average Precision of a pair images:0.1086488022048595
+提取描述符平均耗时:13.16755166053772
+计算描述符距离平均耗时:0.08479628562927247
+
+
+读取的图像:v_sunseason
+读取的图片张数:10
+start compute the 1 pairs matches
+the detect valid keypoints number 298
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5062687397003174
+the detect valid keypoints number 299
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.48963165283203125
+The Average Precision of a pair images:0.9743112839794561
+start compute the 2 pairs matches
+the detect valid keypoints number 298
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5044445991516113
+the detect valid keypoints number 297
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45973753929138184
+The Average Precision of a pair images:0.7784098206050343
+start compute the 3 pairs matches
+the detect valid keypoints number 298
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5191209316253662
+the detect valid keypoints number 284
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4936819076538086
+The Average Precision of a pair images:0.31122360353665945
+start compute the 4 pairs matches
+the detect valid keypoints number 298
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4451155662536621
+the detect valid keypoints number 285
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.508366584777832
+The Average Precision of a pair images:0.3775830637565436
+start compute the 5 pairs matches
+the detect valid keypoints number 298
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44399166107177734
+the detect valid keypoints number 302
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5141844749450684
+The Average Precision of a pair images:0.1075417223108772
+提取描述符平均耗时:12.147041034698486
+计算描述符距离平均耗时:0.06443257331848144
+
+
+读取的图像:v_laptop
+读取的图片张数:11
+start compute the 1 pairs matches
+the detect valid keypoints number 406
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44199514389038086
+the detect valid keypoints number 405
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44795942306518555
+The Average Precision of a pair images:0.7325457173938988
+start compute the 2 pairs matches
+the detect valid keypoints number 406
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4531981945037842
+the detect valid keypoints number 404
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4422426223754883
+The Average Precision of a pair images:0.010072404959822602
+start compute the 3 pairs matches
+the detect valid keypoints number 406
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4429152011871338
+the detect valid keypoints number 387
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4551827907562256
+The Average Precision of a pair images:0.0010674429888403686
+start compute the 4 pairs matches
+the detect valid keypoints number 406
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4431440830230713
+the detect valid keypoints number 385
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44730639457702637
+The Average Precision of a pair images:0.0010330578512396695
+start compute the 5 pairs matches
+the detect valid keypoints number 406
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44196271896362305
+the detect valid keypoints number 412
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4463462829589844
+The Average Precision of a pair images:0.0004649000464900046
+提取描述符平均耗时:15.267606163024903
+计算描述符距离平均耗时:0.11363182067871094
+
+
+读取的图像:v_wounded
+读取的图片张数:12
+start compute the 1 pairs matches
+the detect valid keypoints number 255
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44209837913513184
+the detect valid keypoints number 364
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4427070617675781
+The Average Precision of a pair images:0.6319418676561533
+start compute the 2 pairs matches
+the detect valid keypoints number 255
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.505180835723877
+the detect valid keypoints number 299
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5183217525482178
+The Average Precision of a pair images:0.10526315789473684
+start compute the 3 pairs matches
+the detect valid keypoints number 255
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5052103996276855
+the detect valid keypoints number 405
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.507159948348999
+The Average Precision of a pair images:0.0
+start compute the 4 pairs matches
+the detect valid keypoints number 255
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5111720561981201
+the detect valid keypoints number 367
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4426250457763672
+The Average Precision of a pair images:0.015384615384615385
+start compute the 5 pairs matches
+the detect valid keypoints number 255
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5036399364471436
+the detect valid keypoints number 382
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5052647590637207
+The Average Precision of a pair images:0.25396825396825395
+提取描述符平均耗时:11.81914300918579
+计算描述符距离平均耗时:0.06651372909545898
+
+
+读取的图像:v_wall
+读取的图片张数:13
+start compute the 1 pairs matches
+the detect valid keypoints number 356
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5140454769134521
+the detect valid keypoints number 346
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5265889167785645
+The Average Precision of a pair images:0.8736170169744788
+start compute the 2 pairs matches
+the detect valid keypoints number 356
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5040521621704102
+the detect valid keypoints number 315
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5030028820037842
+The Average Precision of a pair images:0.7612658621377515
+start compute the 3 pairs matches
+the detect valid keypoints number 356
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5133512020111084
+the detect valid keypoints number 331
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4420449733734131
+The Average Precision of a pair images:0.8917583342515195
+start compute the 4 pairs matches
+the detect valid keypoints number 356
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5062026977539062
+the detect valid keypoints number 360
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4424247741699219
+The Average Precision of a pair images:0.6587223387171244
+start compute the 5 pairs matches
+the detect valid keypoints number 356
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4448812007904053
+the detect valid keypoints number 311
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5040364265441895
+The Average Precision of a pair images:0.5635215533678293
+提取描述符平均耗时:12.797496557235718
+计算描述符距离平均耗时:0.08628764152526855
+
+
+读取的图像:v_soldiers
+读取的图片张数:14
+start compute the 1 pairs matches
+the detect valid keypoints number 377
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4508957862854004
+the detect valid keypoints number 357
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.457796573638916
+The Average Precision of a pair images:0.8239399687808611
+start compute the 2 pairs matches
+the detect valid keypoints number 377
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44302964210510254
+the detect valid keypoints number 387
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4754295349121094
+The Average Precision of a pair images:0.5852305774251507
+start compute the 3 pairs matches
+the detect valid keypoints number 377
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4579195976257324
+the detect valid keypoints number 400
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4767568111419678
+The Average Precision of a pair images:0.41112829348299906
+start compute the 4 pairs matches
+the detect valid keypoints number 377
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4423384666442871
+the detect valid keypoints number 396
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4554314613342285
+The Average Precision of a pair images:0.25739042706997395
+start compute the 5 pairs matches
+the detect valid keypoints number 377
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44279956817626953
+the detect valid keypoints number 398
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4423530101776123
+The Average Precision of a pair images:0.35302288366625983
+提取描述符平均耗时:14.160436630249023
+计算描述符距离平均耗时:0.10368132591247559
+
+
+读取的图像:v_calder
+读取的图片张数:15
+start compute the 1 pairs matches
+the detect valid keypoints number 362
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4524669647216797
+the detect valid keypoints number 372
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4412972927093506
+The Average Precision of a pair images:0.35515379230865074
+start compute the 2 pairs matches
+the detect valid keypoints number 362
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.504615068435669
+the detect valid keypoints number 360
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4426393508911133
+The Average Precision of a pair images:0.8738122388603495
+start compute the 3 pairs matches
+the detect valid keypoints number 362
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44235754013061523
+the detect valid keypoints number 392
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44342565536499023
+The Average Precision of a pair images:0.0916702821567277
+start compute the 4 pairs matches
+the detect valid keypoints number 362
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4924769401550293
+the detect valid keypoints number 389
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4831657409667969
+The Average Precision of a pair images:0.11532571182222807
+start compute the 5 pairs matches
+the detect valid keypoints number 362
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44245338439941406
+the detect valid keypoints number 373
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4424099922180176
+The Average Precision of a pair images:0.0026258151839547187
+提取描述符平均耗时:13.848791599273682
+计算描述符距离平均耗时:0.09675331115722656
+
+
+读取的图像:v_graffiti
+读取的图片张数:16
+start compute the 1 pairs matches
+the detect valid keypoints number 335
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5224487781524658
+the detect valid keypoints number 337
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44163036346435547
+The Average Precision of a pair images:0.6322756358675586
+start compute the 2 pairs matches
+the detect valid keypoints number 335
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4429922103881836
+the detect valid keypoints number 347
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4420168399810791
+The Average Precision of a pair images:0.30207435459129656
+start compute the 3 pairs matches
+the detect valid keypoints number 335
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5214240550994873
+the detect valid keypoints number 336
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44176363945007324
+The Average Precision of a pair images:0.009148371008836125
+start compute the 4 pairs matches
+the detect valid keypoints number 335
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5052182674407959
+the detect valid keypoints number 315
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5431735515594482
+The Average Precision of a pair images:0.12360759007409829
+start compute the 5 pairs matches
+the detect valid keypoints number 335
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.521540641784668
+the detect valid keypoints number 290
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.533766508102417
+The Average Precision of a pair images:0.0014577259475218656
+提取描述符平均耗时:12.116460132598878
+计算描述符距离平均耗时:0.07861571311950684
+
+
+读取的图像:v_colors
+读取的图片张数:17
+start compute the 1 pairs matches
+the detect valid keypoints number 251
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5009441375732422
+the detect valid keypoints number 330
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.502467155456543
+The Average Precision of a pair images:0.6253667311449215
+start compute the 2 pairs matches
+the detect valid keypoints number 251
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5258514881134033
+the detect valid keypoints number 311
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5043764114379883
+The Average Precision of a pair images:0.4113789293749982
+start compute the 3 pairs matches
+the detect valid keypoints number 251
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5064876079559326
+the detect valid keypoints number 306
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5050661563873291
+The Average Precision of a pair images:0.04869281045751634
+start compute the 4 pairs matches
+the detect valid keypoints number 251
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5236637592315674
+the detect valid keypoints number 324
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5357010364532471
+The Average Precision of a pair images:0.018665109141299617
+start compute the 5 pairs matches
+the detect valid keypoints number 251
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5039818286895752
+the detect valid keypoints number 290
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5374500751495361
+The Average Precision of a pair images:0.009090909090909092
+提取描述符平均耗时:11.04722032546997
+计算描述符距离平均耗时:0.05742216110229492
+
+
+读取的图像:v_cartooncity
+读取的图片张数:18
+start compute the 1 pairs matches
+the detect valid keypoints number 283
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5221445560455322
+the detect valid keypoints number 299
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4901573657989502
+The Average Precision of a pair images:0.8139609245750696
+start compute the 2 pairs matches
+the detect valid keypoints number 283
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4908144474029541
+the detect valid keypoints number 314
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.46110105514526367
+The Average Precision of a pair images:0.26233191907999004
+start compute the 3 pairs matches
+the detect valid keypoints number 283
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4914870262145996
+the detect valid keypoints number 305
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44196629524230957
+The Average Precision of a pair images:0.9222747291029684
+start compute the 4 pairs matches
+the detect valid keypoints number 283
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5042428970336914
+the detect valid keypoints number 320
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5042381286621094
+The Average Precision of a pair images:0.39095560130781504
+start compute the 5 pairs matches
+the detect valid keypoints number 283
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5038027763366699
+the detect valid keypoints number 320
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5125517845153809
+The Average Precision of a pair images:0.2864141687392845
+提取描述符平均耗时:11.403574466705322
+计算描述符距离平均耗时:0.06465258598327636
+
+
+读取的图像:v_underground
+读取的图片张数:19
+start compute the 1 pairs matches
+the detect valid keypoints number 173
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.455981969833374
+the detect valid keypoints number 164
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4481370449066162
+The Average Precision of a pair images:0.9783106966996948
+start compute the 2 pairs matches
+the detect valid keypoints number 173
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4488494396209717
+the detect valid keypoints number 256
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.504425048828125
+The Average Precision of a pair images:0.5951332705085818
+start compute the 3 pairs matches
+the detect valid keypoints number 173
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5496094226837158
+the detect valid keypoints number 295
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5113043785095215
+The Average Precision of a pair images:0.4096492952723782
+start compute the 4 pairs matches
+the detect valid keypoints number 173
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4429934024810791
+the detect valid keypoints number 325
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5017480850219727
+The Average Precision of a pair images:0.07997909947084314
+start compute the 5 pairs matches
+the detect valid keypoints number 173
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45403194427490234
+the detect valid keypoints number 353
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44231700897216797
+The Average Precision of a pair images:0.02978723404255319
+提取描述符平均耗时:9.40605788230896
+计算描述符距离平均耗时:0.03686518669128418
+
+
+读取的图像:v_eastsouth
+读取的图片张数:20
+start compute the 1 pairs matches
+the detect valid keypoints number 296
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44283151626586914
+the detect valid keypoints number 298
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5378236770629883
+The Average Precision of a pair images:0.8893882538097517
+start compute the 2 pairs matches
+the detect valid keypoints number 296
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5040693283081055
+the detect valid keypoints number 294
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4896121025085449
+The Average Precision of a pair images:0.000529100529100529
+start compute the 3 pairs matches
+the detect valid keypoints number 296
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5039582252502441
+the detect valid keypoints number 294
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4907829761505127
+The Average Precision of a pair images:0.00045289855072463763
+start compute the 4 pairs matches
+the detect valid keypoints number 296
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5046875476837158
+the detect valid keypoints number 335
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5044331550598145
+The Average Precision of a pair images:0.0
+start compute the 5 pairs matches
+the detect valid keypoints number 296
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.483123779296875
+the detect valid keypoints number 333
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44158506393432617
+The Average Precision of a pair images:0.0
+提取描述符平均耗时:11.117862462997437
+计算描述符距离平均耗时:0.06662931442260742
+
+
+读取的图像:v_blueprint
+读取的图片张数:21
+start compute the 1 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5142183303833008
+the detect valid keypoints number 359
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44235730171203613
+The Average Precision of a pair images:0.7847891424485507
+start compute the 2 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5057814121246338
+the detect valid keypoints number 354
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45531415939331055
+The Average Precision of a pair images:0.6152167885027685
+start compute the 3 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5067117214202881
+the detect valid keypoints number 340
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5287911891937256
+The Average Precision of a pair images:0.5797348552713103
+start compute the 4 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5081510543823242
+the detect valid keypoints number 373
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44812679290771484
+The Average Precision of a pair images:0.19723979571077355
+start compute the 5 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4424316883087158
+the detect valid keypoints number 368
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5029468536376953
+The Average Precision of a pair images:0.19480902487230334
+提取描述符平均耗时:13.222120094299317
+计算描述符距离平均耗时:0.08664283752441407
+
+
+读取的图像:v_dirtywall
+读取的图片张数:22
+start compute the 1 pairs matches
+the detect valid keypoints number 349
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5093295574188232
+the detect valid keypoints number 324
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5165235996246338
+The Average Precision of a pair images:0.9294158801417322
+start compute the 2 pairs matches
+the detect valid keypoints number 349
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44225072860717773
+the detect valid keypoints number 325
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4417574405670166
+The Average Precision of a pair images:0.9450803214602943
+start compute the 3 pairs matches
+the detect valid keypoints number 349
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5087418556213379
+the detect valid keypoints number 352
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44403672218322754
+The Average Precision of a pair images:0.8099944625429546
+start compute the 4 pairs matches
+the detect valid keypoints number 349
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4543893337249756
+the detect valid keypoints number 337
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.515261173248291
+The Average Precision of a pair images:0.7567519134714591
+start compute the 5 pairs matches
+the detect valid keypoints number 349
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5058770179748535
+the detect valid keypoints number 344
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5047330856323242
+The Average Precision of a pair images:0.2815433057280883
+提取描述符平均耗时:13.116745042800904
+计算描述符距离平均耗时:0.08396191596984863
+
+
+读取的图像:v_samples
+读取的图片张数:23
+start compute the 1 pairs matches
+the detect valid keypoints number 373
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4427163600921631
+the detect valid keypoints number 393
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4432332515716553
+The Average Precision of a pair images:0.32335828020058954
+start compute the 2 pairs matches
+the detect valid keypoints number 373
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44275856018066406
+the detect valid keypoints number 397
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4412686824798584
+The Average Precision of a pair images:0.5038788565340114
+start compute the 3 pairs matches
+the detect valid keypoints number 373
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44174647331237793
+the detect valid keypoints number 388
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4427773952484131
+The Average Precision of a pair images:0.18679391551045085
+start compute the 4 pairs matches
+the detect valid keypoints number 373
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4679734706878662
+the detect valid keypoints number 389
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44205379486083984
+The Average Precision of a pair images:0.3490218165486493
+start compute the 5 pairs matches
+the detect valid keypoints number 373
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4656863212585449
+the detect valid keypoints number 394
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.441741943359375
+The Average Precision of a pair images:0.14115166711710278
+提取描述符平均耗时:15.295162534713745
+计算描述符距离平均耗时:0.10509490966796875
+
+
+读取的图像:v_beyus
+读取的图片张数:24
+start compute the 1 pairs matches
+the detect valid keypoints number 372
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4445464611053467
+the detect valid keypoints number 366
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44193243980407715
+The Average Precision of a pair images:0.1179910112153405
+start compute the 2 pairs matches
+the detect valid keypoints number 372
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44504785537719727
+the detect valid keypoints number 401
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4618258476257324
+The Average Precision of a pair images:0.023515424597872096
+start compute the 3 pairs matches
+the detect valid keypoints number 372
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.441805362701416
+the detect valid keypoints number 402
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4432487487792969
+The Average Precision of a pair images:0.24248534175347977
+start compute the 4 pairs matches
+the detect valid keypoints number 372
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4545571804046631
+the detect valid keypoints number 342
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5022351741790771
+The Average Precision of a pair images:0.04579786908275004
+start compute the 5 pairs matches
+the detect valid keypoints number 372
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44295167922973633
+the detect valid keypoints number 424
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.48877882957458496
+The Average Precision of a pair images:0.09203246948052711
+提取描述符平均耗时:14.10631594657898
+计算描述符距离平均耗时:0.10301728248596191
+
+
+读取的图像:v_man
+读取的图片张数:25
+start compute the 1 pairs matches
+the detect valid keypoints number 342
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5071430206298828
+the detect valid keypoints number 350
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5078597068786621
+The Average Precision of a pair images:0.8219309408984398
+start compute the 2 pairs matches
+the detect valid keypoints number 342
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5064947605133057
+the detect valid keypoints number 391
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4603421688079834
+The Average Precision of a pair images:0.4507508398117911
+start compute the 3 pairs matches
+the detect valid keypoints number 342
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5276834964752197
+the detect valid keypoints number 361
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4432704448699951
+The Average Precision of a pair images:0.24250425614720378
+start compute the 4 pairs matches
+the detect valid keypoints number 342
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5075240135192871
+the detect valid keypoints number 347
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44365859031677246
+The Average Precision of a pair images:0.8236704421885088
+start compute the 5 pairs matches
+the detect valid keypoints number 342
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5095334053039551
+the detect valid keypoints number 360
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4538149833679199
+The Average Precision of a pair images:0.7313698617918852
+提取描述符平均耗时:13.552799463272095
+计算描述符距离平均耗时:0.08978781700134278
+
+
+读取的图像:v_astronautis
+读取的图片张数:26
+start compute the 1 pairs matches
+the detect valid keypoints number 289
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5254776477813721
+the detect valid keypoints number 346
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44159722328186035
+The Average Precision of a pair images:0.6167694513662162
+start compute the 2 pairs matches
+the detect valid keypoints number 289
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5050046443939209
+the detect valid keypoints number 390
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44322633743286133
+The Average Precision of a pair images:0.35781331921583204
+start compute the 3 pairs matches
+the detect valid keypoints number 289
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5260846614837646
+the detect valid keypoints number 330
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4887509346008301
+The Average Precision of a pair images:0.6177118585795147
+start compute the 4 pairs matches
+the detect valid keypoints number 289
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44324541091918945
+the detect valid keypoints number 357
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4584212303161621
+The Average Precision of a pair images:0.2524583114037568
+start compute the 5 pairs matches
+the detect valid keypoints number 289
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5259668827056885
+the detect valid keypoints number 422
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4457831382751465
+The Average Precision of a pair images:0.4471821876556898
+提取描述符平均耗时:13.045516204833984
+计算描述符距离平均耗时:0.07674455642700195
+
+
+读取的图像:v_fest
+读取的图片张数:27
+start compute the 1 pairs matches
+the detect valid keypoints number 321
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.47533297538757324
+the detect valid keypoints number 310
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4435453414916992
+The Average Precision of a pair images:0.9173727065415875
+start compute the 2 pairs matches
+the detect valid keypoints number 321
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4416084289550781
+the detect valid keypoints number 310
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4439980983734131
+The Average Precision of a pair images:0.46152748890472406
+start compute the 3 pairs matches
+the detect valid keypoints number 321
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.46515512466430664
+the detect valid keypoints number 344
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4553539752960205
+The Average Precision of a pair images:0.8436232445558418
+start compute the 4 pairs matches
+the detect valid keypoints number 321
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4474213123321533
+the detect valid keypoints number 339
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.462921142578125
+The Average Precision of a pair images:0.6479939208954134
+start compute the 5 pairs matches
+the detect valid keypoints number 321
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4643857479095459
+the detect valid keypoints number 309
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4861795902252197
+The Average Precision of a pair images:0.3625150516977257
+提取描述符平均耗时:12.39174451828003
+计算描述符距离平均耗时:0.07502632141113282
+
+
+读取的图像:v_london
+读取的图片张数:28
+start compute the 1 pairs matches
+the detect valid keypoints number 323
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5103240013122559
+the detect valid keypoints number 323
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44249415397644043
+The Average Precision of a pair images:0.9493173372786066
+start compute the 2 pairs matches
+the detect valid keypoints number 323
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5054924488067627
+the detect valid keypoints number 326
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5069818496704102
+The Average Precision of a pair images:0.9643518036110013
+start compute the 3 pairs matches
+the detect valid keypoints number 323
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5068643093109131
+the detect valid keypoints number 366
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.46071481704711914
+The Average Precision of a pair images:0.8091294832902084
+start compute the 4 pairs matches
+the detect valid keypoints number 323
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5047945976257324
+the detect valid keypoints number 352
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5067727565765381
+The Average Precision of a pair images:0.96229487126023
+start compute the 5 pairs matches
+the detect valid keypoints number 323
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5090672969818115
+the detect valid keypoints number 344
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5073041915893555
+The Average Precision of a pair images:0.9417905013291039
+提取描述符平均耗时:13.43710412979126
+计算描述符距离平均耗时:0.08015732765197754
+
+
+读取的图像:v_tabletop
+读取的图片张数:29
+start compute the 1 pairs matches
+the detect valid keypoints number 311
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4427962303161621
+the detect valid keypoints number 332
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44278788566589355
+The Average Precision of a pair images:0.819272640123421
+start compute the 2 pairs matches
+the detect valid keypoints number 311
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5313053131103516
+the detect valid keypoints number 340
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5072264671325684
+The Average Precision of a pair images:0.02893209133213822
+start compute the 3 pairs matches
+the detect valid keypoints number 311
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5046422481536865
+the detect valid keypoints number 344
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5128738880157471
+The Average Precision of a pair images:0.18805068076904588
+start compute the 4 pairs matches
+the detect valid keypoints number 311
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5439491271972656
+the detect valid keypoints number 346
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5041601657867432
+The Average Precision of a pair images:0.12349462815834354
+start compute the 5 pairs matches
+the detect valid keypoints number 311
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4429209232330322
+the detect valid keypoints number 343
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.47710275650024414
+The Average Precision of a pair images:0.23077021123255298
+提取描述符平均耗时:12.22720160484314
+计算描述符距离平均耗时:0.0771547794342041
+
+
+读取的图像:v_bark
+读取的图片张数:30
+start compute the 1 pairs matches
+the detect valid keypoints number 336
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5038673877716064
+the detect valid keypoints number 360
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44272756576538086
+The Average Precision of a pair images:0.0010193679918450561
+start compute the 2 pairs matches
+the detect valid keypoints number 336
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5029706954956055
+the detect valid keypoints number 356
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4583256244659424
+The Average Precision of a pair images:0.0
+start compute the 3 pairs matches
+the detect valid keypoints number 336
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5082259178161621
+the detect valid keypoints number 333
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4637622833251953
+The Average Precision of a pair images:0.0
+start compute the 4 pairs matches
+the detect valid keypoints number 336
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5043396949768066
+the detect valid keypoints number 316
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45061421394348145
+The Average Precision of a pair images:0.0
+start compute the 5 pairs matches
+the detect valid keypoints number 336
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5046594142913818
+the detect valid keypoints number 343
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4424252510070801
+The Average Precision of a pair images:0.0
+提取描述符平均耗时:12.392414665222168
+计算描述符距离平均耗时:0.08237500190734863
+
+
+读取的图像:v_strand
+读取的图片张数:31
+start compute the 1 pairs matches
+the detect valid keypoints number 343
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5036382675170898
+the detect valid keypoints number 344
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5048472881317139
+The Average Precision of a pair images:0.9600389975454626
+start compute the 2 pairs matches
+the detect valid keypoints number 343
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5035033226013184
+the detect valid keypoints number 355
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4416310787200928
+The Average Precision of a pair images:0.6551514232276716
+start compute the 3 pairs matches
+the detect valid keypoints number 343
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.564356803894043
+the detect valid keypoints number 367
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5040562152862549
+The Average Precision of a pair images:0.863455069865128
+start compute the 4 pairs matches
+the detect valid keypoints number 343
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44296932220458984
+the detect valid keypoints number 385
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4520120620727539
+The Average Precision of a pair images:0.8619088186194079
+start compute the 5 pairs matches
+the detect valid keypoints number 343
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5060842037200928
+the detect valid keypoints number 359
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4423830509185791
+The Average Precision of a pair images:0.37520545112353054
+提取描述符平均耗时:13.47072205543518
+计算描述符距离平均耗时:0.08914833068847657
+
+
+读取的图像:v_bricks
+读取的图片张数:32
+start compute the 1 pairs matches
+the detect valid keypoints number 333
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.506619930267334
+the detect valid keypoints number 342
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5085344314575195
+The Average Precision of a pair images:0.9612520350771543
+start compute the 2 pairs matches
+the detect valid keypoints number 333
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5065503120422363
+the detect valid keypoints number 318
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.507904052734375
+The Average Precision of a pair images:0.9492054110775936
+start compute the 3 pairs matches
+the detect valid keypoints number 333
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5206513404846191
+the detect valid keypoints number 333
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44596362113952637
+The Average Precision of a pair images:0.8323570232013843
+start compute the 4 pairs matches
+the detect valid keypoints number 333
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.503690242767334
+the detect valid keypoints number 326
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5054950714111328
+The Average Precision of a pair images:0.6332199214203795
+start compute the 5 pairs matches
+the detect valid keypoints number 333
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45618748664855957
+the detect valid keypoints number 325
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4419431686401367
+The Average Precision of a pair images:0.21563174055212217
+提取描述符平均耗时:12.542654228210449
+计算描述符距离平均耗时:0.07943568229675294
+
+
+读取的图像:v_talent
+读取的图片张数:33
+start compute the 1 pairs matches
+the detect valid keypoints number 318
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44355034828186035
+the detect valid keypoints number 317
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4418303966522217
+The Average Precision of a pair images:0.07496140910956495
+start compute the 2 pairs matches
+the detect valid keypoints number 318
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4855537414550781
+the detect valid keypoints number 326
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4899430274963379
+The Average Precision of a pair images:0.15503546297426035
+start compute the 3 pairs matches
+the detect valid keypoints number 318
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.46379971504211426
+the detect valid keypoints number 341
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.49170851707458496
+The Average Precision of a pair images:0.03622514723030641
+start compute the 4 pairs matches
+the detect valid keypoints number 318
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.49314236640930176
+the detect valid keypoints number 360
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5043210983276367
+The Average Precision of a pair images:0.09540619198153444
+start compute the 5 pairs matches
+the detect valid keypoints number 318
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5054874420166016
+the detect valid keypoints number 310
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5195026397705078
+The Average Precision of a pair images:0.30537203764152704
+提取描述符平均耗时:12.948014259338379
+计算描述符距离平均耗时:0.07596588134765625
+
+
+读取的图像:v_woman
+读取的图片张数:34
+start compute the 1 pairs matches
+the detect valid keypoints number 272
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5033619403839111
+the detect valid keypoints number 332
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5066895484924316
+The Average Precision of a pair images:0.7308619348412081
+start compute the 2 pairs matches
+the detect valid keypoints number 272
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.442004919052124
+the detect valid keypoints number 279
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5235857963562012
+The Average Precision of a pair images:0.7669555060184532
+start compute the 3 pairs matches
+the detect valid keypoints number 272
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.48996925354003906
+the detect valid keypoints number 333
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4906148910522461
+The Average Precision of a pair images:0.6664430361374838
+start compute the 4 pairs matches
+the detect valid keypoints number 272
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5071554183959961
+the detect valid keypoints number 292
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.521265983581543
+The Average Precision of a pair images:0.770495253949593
+start compute the 5 pairs matches
+the detect valid keypoints number 272
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.491757869720459
+the detect valid keypoints number 348
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5017352104187012
+The Average Precision of a pair images:0.66265729494555
+提取描述符平均耗时:10.992458581924438
+计算描述符距离平均耗时:0.0639763355255127
+
+
+读取的图像:v_birdwoman
+读取的图片张数:35
+start compute the 1 pairs matches
+the detect valid keypoints number 349
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4982950687408447
+the detect valid keypoints number 353
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4584321975708008
+The Average Precision of a pair images:0.007407407407407408
+start compute the 2 pairs matches
+the detect valid keypoints number 349
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5040559768676758
+the detect valid keypoints number 358
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4443788528442383
+The Average Precision of a pair images:0.0072465270578478125
+start compute the 3 pairs matches
+the detect valid keypoints number 349
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4419739246368408
+the detect valid keypoints number 372
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4414703845977783
+The Average Precision of a pair images:0.11803603980673104
+start compute the 4 pairs matches
+the detect valid keypoints number 349
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5062124729156494
+the detect valid keypoints number 361
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4680757522583008
+The Average Precision of a pair images:0.6662101323295249
+start compute the 5 pairs matches
+the detect valid keypoints number 349
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5225999355316162
+the detect valid keypoints number 353
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4777371883392334
+The Average Precision of a pair images:0.06826622799836175
+提取描述符平均耗时:13.315348577499389
+计算描述符距离平均耗时:0.08983335494995118
+
+
+读取的图像:v_tempera
+读取的图片张数:36
+start compute the 1 pairs matches
+the detect valid keypoints number 356
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.503741979598999
+the detect valid keypoints number 386
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4512197971343994
+The Average Precision of a pair images:0.377022724005559
+start compute the 2 pairs matches
+the detect valid keypoints number 356
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5025036334991455
+the detect valid keypoints number 372
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5060253143310547
+The Average Precision of a pair images:0.5467605501683965
+start compute the 3 pairs matches
+the detect valid keypoints number 356
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5076830387115479
+the detect valid keypoints number 404
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44209957122802734
+The Average Precision of a pair images:0.23474261587311918
+start compute the 4 pairs matches
+the detect valid keypoints number 356
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4413747787475586
+the detect valid keypoints number 388
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44124460220336914
+The Average Precision of a pair images:0.19056273553212427
+start compute the 5 pairs matches
+the detect valid keypoints number 356
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4431910514831543
+the detect valid keypoints number 392
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44198155403137207
+The Average Precision of a pair images:0.043973844374763024
+提取描述符平均耗时:14.067365312576294
+计算描述符距离平均耗时:0.09923243522644043
+
+
+读取的图像:v_courses
+读取的图片张数:37
+start compute the 1 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5260734558105469
+the detect valid keypoints number 337
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.523932933807373
+The Average Precision of a pair images:0.8999788645327655
+start compute the 2 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5051493644714355
+the detect valid keypoints number 345
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.506742000579834
+The Average Precision of a pair images:0.6514094098595066
+start compute the 3 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4413411617279053
+the detect valid keypoints number 330
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5217595100402832
+The Average Precision of a pair images:0.8083602875250191
+start compute the 4 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4419107437133789
+the detect valid keypoints number 313
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4669222831726074
+The Average Precision of a pair images:0.3062411989749463
+start compute the 5 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5052485466003418
+the detect valid keypoints number 323
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5410866737365723
+The Average Precision of a pair images:0.18097119434932213
+提取描述符平均耗时:12.735657453536987
+计算描述符距离平均耗时:0.0794299602508545
+
+
+读取的图像:v_war
+读取的图片张数:38
+start compute the 1 pairs matches
+the detect valid keypoints number 308
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5055804252624512
+the detect valid keypoints number 332
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.513286828994751
+The Average Precision of a pair images:0.47877307898827914
+start compute the 2 pairs matches
+the detect valid keypoints number 308
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5110962390899658
+the detect valid keypoints number 338
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4428074359893799
+The Average Precision of a pair images:0.32685442479423366
+start compute the 3 pairs matches
+the detect valid keypoints number 308
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5315430164337158
+the detect valid keypoints number 308
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44744253158569336
+The Average Precision of a pair images:0.6929586598128271
+start compute the 4 pairs matches
+the detect valid keypoints number 308
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5266625881195068
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5028719902038574
+The Average Precision of a pair images:0.5869093547615044
+start compute the 5 pairs matches
+the detect valid keypoints number 308
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5034692287445068
+the detect valid keypoints number 308
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5027215480804443
+The Average Precision of a pair images:0.25449999491023645
+提取描述符平均耗时:11.70284366607666
+计算描述符距离平均耗时:0.07205667495727539
+
+
+读取的图像:v_wapping
+读取的图片张数:39
+start compute the 1 pairs matches
+the detect valid keypoints number 256
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.519172191619873
+the detect valid keypoints number 315
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5058689117431641
+The Average Precision of a pair images:0.30785578726999274
+start compute the 2 pairs matches
+the detect valid keypoints number 256
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4920322895050049
+the detect valid keypoints number 197
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4898190498352051
+The Average Precision of a pair images:0.25
+start compute the 3 pairs matches
+the detect valid keypoints number 256
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.49086785316467285
+the detect valid keypoints number 255
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4824104309082031
+The Average Precision of a pair images:0.2658843176076864
+start compute the 4 pairs matches
+the detect valid keypoints number 256
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44175267219543457
+the detect valid keypoints number 269
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5071988105773926
+The Average Precision of a pair images:0.4623316498316498
+start compute the 5 pairs matches
+the detect valid keypoints number 256
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.528634786605835
+the detect valid keypoints number 305
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5224075317382812
+The Average Precision of a pair images:0
+提取描述符平均耗时:10.674746704101562
+计算描述符距离平均耗时:0.0511716365814209
+
+
+读取的图像:v_dogman
+读取的图片张数:40
+start compute the 1 pairs matches
+the detect valid keypoints number 402
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44161486625671387
+the detect valid keypoints number 377
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44345712661743164
+The Average Precision of a pair images:0.7829199850850891
+start compute the 2 pairs matches
+the detect valid keypoints number 402
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.47621750831604004
+the detect valid keypoints number 381
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44267964363098145
+The Average Precision of a pair images:0.8595920154490906
+start compute the 3 pairs matches
+the detect valid keypoints number 402
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44287800788879395
+the detect valid keypoints number 370
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.452211856842041
+The Average Precision of a pair images:0.18307843641502405
+start compute the 4 pairs matches
+the detect valid keypoints number 402
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4417538642883301
+the detect valid keypoints number 352
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5624558925628662
+The Average Precision of a pair images:0.6139010615511096
+start compute the 5 pairs matches
+the detect valid keypoints number 402
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44304680824279785
+the detect valid keypoints number 362
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4413268566131592
+The Average Precision of a pair images:0.07161983817387285
+提取描述符平均耗时:14.023930597305299
+计算描述符距离平均耗时:0.10476617813110352
+
+
+读取的图像:v_yard
+读取的图片张数:41
+start compute the 1 pairs matches
+the detect valid keypoints number 297
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5060179233551025
+the detect valid keypoints number 285
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5037264823913574
+The Average Precision of a pair images:0.866811056918824
+start compute the 2 pairs matches
+the detect valid keypoints number 297
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5143263339996338
+the detect valid keypoints number 365
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4417099952697754
+The Average Precision of a pair images:0.30361798324987826
+start compute the 3 pairs matches
+the detect valid keypoints number 297
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5057551860809326
+the detect valid keypoints number 207
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5047369003295898
+The Average Precision of a pair images:0.640864562927165
+start compute the 4 pairs matches
+the detect valid keypoints number 297
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5072581768035889
+the detect valid keypoints number 268
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4431886672973633
+The Average Precision of a pair images:0.21490748180738584
+start compute the 5 pairs matches
+the detect valid keypoints number 297
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5029881000518799
+the detect valid keypoints number 370
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4429285526275635
+The Average Precision of a pair images:0.07787732589955539
+提取描述符平均耗时:11.507776260375977
+计算描述符距离平均耗时:0.06521258354187012
+
+
+读取的图像:v_boat
+读取的图片张数:42
+start compute the 1 pairs matches
+the detect valid keypoints number 368
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45380306243896484
+the detect valid keypoints number 356
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44202351570129395
+The Average Precision of a pair images:0.5973698663728986
+start compute the 2 pairs matches
+the detect valid keypoints number 368
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5065217018127441
+the detect valid keypoints number 365
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5235607624053955
+The Average Precision of a pair images:0.002304147465437788
+start compute the 3 pairs matches
+the detect valid keypoints number 368
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5059537887573242
+the detect valid keypoints number 360
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4580724239349365
+The Average Precision of a pair images:0.003205128205128205
+start compute the 4 pairs matches
+the detect valid keypoints number 368
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4466695785522461
+the detect valid keypoints number 369
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4577598571777344
+The Average Precision of a pair images:0.0
+start compute the 5 pairs matches
+the detect valid keypoints number 368
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4423999786376953
+the detect valid keypoints number 371
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44301891326904297
+The Average Precision of a pair images:0.0
+提取描述符平均耗时:13.60881266593933
+计算描述符距离平均耗时:0.09452528953552246
+
+
+读取的图像:v_home
+读取的图片张数:43
+start compute the 1 pairs matches
+the detect valid keypoints number 324
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5147616863250732
+the detect valid keypoints number 336
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5055282115936279
+The Average Precision of a pair images:0.4432273717364099
+start compute the 2 pairs matches
+the detect valid keypoints number 324
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5043849945068359
+the detect valid keypoints number 362
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44165658950805664
+The Average Precision of a pair images:0.22142312236050482
+start compute the 3 pairs matches
+the detect valid keypoints number 324
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5166459083557129
+the detect valid keypoints number 350
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5114259719848633
+The Average Precision of a pair images:0.39864937321579375
+start compute the 4 pairs matches
+the detect valid keypoints number 324
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44310903549194336
+the detect valid keypoints number 325
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5059216022491455
+The Average Precision of a pair images:0.16263617873490613
+start compute the 5 pairs matches
+the detect valid keypoints number 324
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5057647228240967
+the detect valid keypoints number 329
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5064091682434082
+The Average Precision of a pair images:0.0025850340136054422
+提取描述符平均耗时:12.803609800338744
+计算描述符距离平均耗时:0.0792738914489746
+
+
+读取的图像:v_charing
+读取的图片张数:44
+start compute the 1 pairs matches
+the detect valid keypoints number 257
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5054376125335693
+the detect valid keypoints number 275
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5061655044555664
+The Average Precision of a pair images:0.0
+start compute the 2 pairs matches
+the detect valid keypoints number 257
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5172257423400879
+the detect valid keypoints number 259
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.511059045791626
+The Average Precision of a pair images:0.0
+start compute the 3 pairs matches
+the detect valid keypoints number 257
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5080089569091797
+the detect valid keypoints number 243
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5296432971954346
+The Average Precision of a pair images:0.0
+start compute the 4 pairs matches
+the detect valid keypoints number 257
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5413224697113037
+the detect valid keypoints number 372
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5037424564361572
+The Average Precision of a pair images:0
+start compute the 5 pairs matches
+the detect valid keypoints number 257
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5064051151275635
+the detect valid keypoints number 386
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5066807270050049
+The Average Precision of a pair images:0
+提取描述符平均耗时:11.062644481658936
+计算描述符距离平均耗时:0.05793018341064453
+
+
+读取的图像:v_vitro
+读取的图片张数:45
+start compute the 1 pairs matches
+the detect valid keypoints number 283
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44875597953796387
+the detect valid keypoints number 330
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5039100646972656
+The Average Precision of a pair images:0.764086319641236
+start compute the 2 pairs matches
+the detect valid keypoints number 283
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5322227478027344
+the detect valid keypoints number 330
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5239832401275635
+The Average Precision of a pair images:0.5576140417310128
+start compute the 3 pairs matches
+the detect valid keypoints number 283
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5414834022521973
+the detect valid keypoints number 341
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5344398021697998
+The Average Precision of a pair images:0.41244977954127854
+start compute the 4 pairs matches
+the detect valid keypoints number 283
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5328702926635742
+the detect valid keypoints number 311
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5045948028564453
+The Average Precision of a pair images:0.7471134540812946
+start compute the 5 pairs matches
+the detect valid keypoints number 283
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5065815448760986
+the detect valid keypoints number 314
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5057895183563232
+The Average Precision of a pair images:0.6900215797617041
+提取描述符平均耗时:11.788788461685181
+计算描述符距离平均耗时:0.06772446632385254
+
+
+读取的图像:v_coffeehouse
+读取的图片张数:46
+start compute the 1 pairs matches
+the detect valid keypoints number 326
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5278534889221191
+the detect valid keypoints number 318
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45626235008239746
+The Average Precision of a pair images:0.5574947501858349
+start compute the 2 pairs matches
+the detect valid keypoints number 326
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5107064247131348
+the detect valid keypoints number 313
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5099043846130371
+The Average Precision of a pair images:0.6880278089376999
+start compute the 3 pairs matches
+the detect valid keypoints number 326
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5034019947052002
+the detect valid keypoints number 322
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5193326473236084
+The Average Precision of a pair images:0.44785003445334876
+start compute the 4 pairs matches
+the detect valid keypoints number 326
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.505551815032959
+the detect valid keypoints number 326
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.506000280380249
+The Average Precision of a pair images:0.5241144480803025
+start compute the 5 pairs matches
+the detect valid keypoints number 326
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5055174827575684
+the detect valid keypoints number 314
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5043642520904541
+The Average Precision of a pair images:0.4463526338999661
+提取描述符平均耗时:12.874471044540405
+计算描述符距离平均耗时:0.07541189193725586
+
+
+读取的图像:v_bip
+读取的图片张数:47
+start compute the 1 pairs matches
+the detect valid keypoints number 281
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5293991565704346
+the detect valid keypoints number 312
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4996452331542969
+The Average Precision of a pair images:0.6010074395985318
+start compute the 2 pairs matches
+the detect valid keypoints number 281
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5222399234771729
+the detect valid keypoints number 310
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5076086521148682
+The Average Precision of a pair images:0.2737307143938884
+start compute the 3 pairs matches
+the detect valid keypoints number 281
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5311439037322998
+the detect valid keypoints number 306
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4426283836364746
+The Average Precision of a pair images:0.4163564006506165
+start compute the 4 pairs matches
+the detect valid keypoints number 281
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4657740592956543
+the detect valid keypoints number 355
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5065159797668457
+The Average Precision of a pair images:0.005036630036630036
+start compute the 5 pairs matches
+the detect valid keypoints number 281
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5310876369476318
+the detect valid keypoints number 336
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5158300399780273
+The Average Precision of a pair images:0.004679951690821256
+提取描述符平均耗时:11.244867849349976
+计算描述符距离平均耗时:0.06636104583740235
+
+
+读取的图像:v_adam
+读取的图片张数:48
+start compute the 1 pairs matches
+the detect valid keypoints number 273
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5142397880554199
+the detect valid keypoints number 344
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5476527214050293
+The Average Precision of a pair images:0.6747448962240898
+start compute the 2 pairs matches
+the detect valid keypoints number 273
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.49096131324768066
+the detect valid keypoints number 279
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4809441566467285
+The Average Precision of a pair images:0.5150681542048953
+start compute the 3 pairs matches
+the detect valid keypoints number 273
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4421236515045166
+the detect valid keypoints number 230
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44265317916870117
+The Average Precision of a pair images:0.13678430120867993
+start compute the 4 pairs matches
+the detect valid keypoints number 273
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5345959663391113
+the detect valid keypoints number 267
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4429304599761963
+The Average Precision of a pair images:0.4157961172285227
+start compute the 5 pairs matches
+the detect valid keypoints number 273
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44374752044677734
+the detect valid keypoints number 242
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5059604644775391
+The Average Precision of a pair images:0.3648821150970582
+提取描述符平均耗时:9.890021228790284
+计算描述符距离平均耗时:0.05406651496887207
+
+
+读取的图像:v_grace
+读取的图片张数:49
+start compute the 1 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4578423500061035
+the detect valid keypoints number 337
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4420967102050781
+The Average Precision of a pair images:0.8970011085268482
+start compute the 2 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4630293846130371
+the detect valid keypoints number 339
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4624478816986084
+The Average Precision of a pair images:0.7551588950216506
+start compute the 3 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5081586837768555
+the detect valid keypoints number 324
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4429900646209717
+The Average Precision of a pair images:0.5753786291611042
+start compute the 4 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5054876804351807
+the detect valid keypoints number 332
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4510195255279541
+The Average Precision of a pair images:0.4444998206743502
+start compute the 5 pairs matches
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44177889823913574
+the detect valid keypoints number 314
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4427759647369385
+The Average Precision of a pair images:0.05676084719730419
+提取描述符平均耗时:13.012322187423706
+计算描述符距离平均耗时:0.07908067703247071
+
+
+读取的图像:v_abstract
+读取的图片张数:50
+start compute the 1 pairs matches
+the detect valid keypoints number 329
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44247937202453613
+the detect valid keypoints number 302
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44274306297302246
+The Average Precision of a pair images:0.7424647383983265
+start compute the 2 pairs matches
+the detect valid keypoints number 329
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44428300857543945
+the detect valid keypoints number 351
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4429912567138672
+The Average Precision of a pair images:0.6017333880471882
+start compute the 3 pairs matches
+the detect valid keypoints number 329
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45841360092163086
+the detect valid keypoints number 358
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4780087471008301
+The Average Precision of a pair images:0.19514959367345378
+start compute the 4 pairs matches
+the detect valid keypoints number 329
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4437215328216553
+the detect valid keypoints number 335
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4426310062408447
+The Average Precision of a pair images:0.3168351756193767
+start compute the 5 pairs matches
+the detect valid keypoints number 329
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.442188024520874
+the detect valid keypoints number 338
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44289708137512207
+The Average Precision of a pair images:0.07447734580065765
+提取描述符平均耗时:12.754707384109498
+计算描述符距离平均耗时:0.07935075759887696
+
+
+读取的图像:v_weapons
+读取的图片张数:51
+start compute the 1 pairs matches
+the detect valid keypoints number 246
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5051412582397461
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5055110454559326
+The Average Precision of a pair images:0.8000223446691637
+start compute the 2 pairs matches
+the detect valid keypoints number 246
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5085673332214355
+the detect valid keypoints number 324
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.442227840423584
+The Average Precision of a pair images:0.685350549582589
+start compute the 3 pairs matches
+the detect valid keypoints number 246
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5041599273681641
+the detect valid keypoints number 372
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.505373477935791
+The Average Precision of a pair images:0.5775639407014381
+start compute the 4 pairs matches
+the detect valid keypoints number 246
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5232007503509521
+the detect valid keypoints number 265
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.505913496017456
+The Average Precision of a pair images:0.5905358946671035
+start compute the 5 pairs matches
+the detect valid keypoints number 246
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5044221878051758
+the detect valid keypoints number 256
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5051584243774414
+The Average Precision of a pair images:0.4655306319203597
+提取描述符平均耗时:10.893975400924683
+计算描述符距离平均耗时:0.056789207458496097
+
+
+读取的图像:v_posters
+读取的图片张数:52
+start compute the 1 pairs matches
+the detect valid keypoints number 302
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4623420238494873
+the detect valid keypoints number 330
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44412803649902344
+The Average Precision of a pair images:0.0007936507936507937
+start compute the 2 pairs matches
+the detect valid keypoints number 302
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5039873123168945
+the detect valid keypoints number 325
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4419820308685303
+The Average Precision of a pair images:0.0324285160641091
+start compute the 3 pairs matches
+the detect valid keypoints number 302
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5137360095977783
+the detect valid keypoints number 318
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5052266120910645
+The Average Precision of a pair images:0.007582812029870854
+start compute the 4 pairs matches
+the detect valid keypoints number 302
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44395995140075684
+the detect valid keypoints number 311
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5028321743011475
+The Average Precision of a pair images:0.034615576552580185
+start compute the 5 pairs matches
+the detect valid keypoints number 302
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.46021509170532227
+the detect valid keypoints number 341
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.48963451385498047
+The Average Precision of a pair images:0.04410386664981017
+提取描述符平均耗时:12.601653623580933
+计算描述符距离平均耗时:0.07030081748962402
+
+
+读取的图像:v_there
+读取的图片张数:53
+start compute the 1 pairs matches
+the detect valid keypoints number 392
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5020861625671387
+the detect valid keypoints number 382
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44999003410339355
+The Average Precision of a pair images:0.6088207158414092
+start compute the 2 pairs matches
+the detect valid keypoints number 392
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44262099266052246
+the detect valid keypoints number 332
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5039260387420654
+The Average Precision of a pair images:0.0031596192853799348
+start compute the 3 pairs matches
+the detect valid keypoints number 392
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45310163497924805
+the detect valid keypoints number 328
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.504706859588623
+The Average Precision of a pair images:0.0
+start compute the 4 pairs matches
+the detect valid keypoints number 392
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4415111541748047
+the detect valid keypoints number 350
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5118670463562012
+The Average Precision of a pair images:0.0
+start compute the 5 pairs matches
+the detect valid keypoints number 392
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4420163631439209
+the detect valid keypoints number 350
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4455418586730957
+The Average Precision of a pair images:0.0
+提取描述符平均耗时:14.229119539260864
+计算描述符距离平均耗时:0.09658865928649903
+
+
+读取的图像:v_wormhole
+读取的图片张数:54
+start compute the 1 pairs matches
+the detect valid keypoints number 299
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4445779323577881
+the detect valid keypoints number 325
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5089683532714844
+The Average Precision of a pair images:0.6653585835022766
+start compute the 2 pairs matches
+the detect valid keypoints number 299
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5026106834411621
+the detect valid keypoints number 286
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.507204532623291
+The Average Precision of a pair images:0.7860369242144947
+start compute the 3 pairs matches
+the detect valid keypoints number 299
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5045809745788574
+the detect valid keypoints number 309
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5109376907348633
+The Average Precision of a pair images:0.8323777197691646
+start compute the 4 pairs matches
+the detect valid keypoints number 299
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5035717487335205
+the detect valid keypoints number 355
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5046229362487793
+The Average Precision of a pair images:0.6677806336515741
+start compute the 5 pairs matches
+the detect valid keypoints number 299
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4410438537597656
+the detect valid keypoints number 378
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45465517044067383
+The Average Precision of a pair images:0.04717037857399088
+提取描述符平均耗时:11.917676067352295
+计算描述符距离平均耗时:0.0722419261932373
+
+
+读取的图像:v_apprentices
+读取的图片张数:55
+start compute the 1 pairs matches
+the detect valid keypoints number 339
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4413938522338867
+the detect valid keypoints number 335
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5047733783721924
+The Average Precision of a pair images:0.9797350735946389
+start compute the 2 pairs matches
+the detect valid keypoints number 339
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5171506404876709
+the detect valid keypoints number 334
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44166040420532227
+The Average Precision of a pair images:0.9028798907475666
+start compute the 3 pairs matches
+the detect valid keypoints number 339
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4418621063232422
+the detect valid keypoints number 366
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44249868392944336
+The Average Precision of a pair images:0.7256800567686175
+start compute the 4 pairs matches
+the detect valid keypoints number 339
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4427464008331299
+the detect valid keypoints number 331
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5047085285186768
+The Average Precision of a pair images:0.5344012396243882
+start compute the 5 pairs matches
+the detect valid keypoints number 339
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5057506561279297
+the detect valid keypoints number 344
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5249955654144287
+The Average Precision of a pair images:0.3872241549587985
+提取描述符平均耗时:13.112236404418946
+计算描述符距离平均耗时:0.0837440013885498
+
+
+读取的图像:v_azzola
+读取的图片张数:56
+start compute the 1 pairs matches
+the detect valid keypoints number 324
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44199466705322266
+the detect valid keypoints number 330
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44342613220214844
+The Average Precision of a pair images:0.7281903487223864
+start compute the 2 pairs matches
+the detect valid keypoints number 324
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5139744281768799
+the detect valid keypoints number 340
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5056002140045166
+The Average Precision of a pair images:0.33171341243258284
+start compute the 3 pairs matches
+the detect valid keypoints number 324
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5062127113342285
+the detect valid keypoints number 330
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5066168308258057
+The Average Precision of a pair images:0.7881390311596381
+start compute the 4 pairs matches
+the detect valid keypoints number 324
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5090770721435547
+the detect valid keypoints number 346
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44200921058654785
+The Average Precision of a pair images:0.17795871429760657
+start compute the 5 pairs matches
+the detect valid keypoints number 324
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44293212890625
+the detect valid keypoints number 354
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.46683692932128906
+The Average Precision of a pair images:0.08630033245409383
+提取描述符平均耗时:12.701139402389526
+计算描述符距离平均耗时:0.08294200897216797
+
+
+读取的图像:v_maskedman
+读取的图片张数:57
+start compute the 1 pairs matches
+the detect valid keypoints number 234
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5332462787628174
+the detect valid keypoints number 361
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4431602954864502
+The Average Precision of a pair images:0.6823294285036304
+start compute the 2 pairs matches
+the detect valid keypoints number 234
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5269896984100342
+the detect valid keypoints number 328
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5049765110015869
+The Average Precision of a pair images:0.496182468962318
+start compute the 3 pairs matches
+the detect valid keypoints number 234
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5590407848358154
+the detect valid keypoints number 306
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5305922031402588
+The Average Precision of a pair images:0.49347151777629933
+start compute the 4 pairs matches
+the detect valid keypoints number 234
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5022866725921631
+the detect valid keypoints number 275
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4416522979736328
+The Average Precision of a pair images:0.7076907217332943
+start compute the 5 pairs matches
+the detect valid keypoints number 234
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5277140140533447
+the detect valid keypoints number 356
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4635152816772461
+The Average Precision of a pair images:0
+提取描述符平均耗时:10.526982593536378
+计算描述符距离平均耗时:0.05635247230529785
+
+
+读取的图像:v_bees
+读取的图片张数:58
+start compute the 1 pairs matches
+the detect valid keypoints number 377
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4415297508239746
+the detect valid keypoints number 387
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4421348571777344
+The Average Precision of a pair images:0.965744012160306
+start compute the 2 pairs matches
+the detect valid keypoints number 377
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4548788070678711
+the detect valid keypoints number 383
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44226980209350586
+The Average Precision of a pair images:0.9676086850235719
+start compute the 3 pairs matches
+the detect valid keypoints number 377
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4432535171508789
+the detect valid keypoints number 365
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.48776984214782715
+The Average Precision of a pair images:0.9166188400500235
+start compute the 4 pairs matches
+the detect valid keypoints number 377
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44239234924316406
+the detect valid keypoints number 405
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4437880516052246
+The Average Precision of a pair images:0.7680491092706504
+start compute the 5 pairs matches
+the detect valid keypoints number 377
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4516184329986572
+the detect valid keypoints number 332
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5088281631469727
+The Average Precision of a pair images:0.704373014371611
+提取描述符平均耗时:13.809228229522706
+计算描述符距离平均耗时:0.10191068649291993
+
+
+读取的图像:v_yuri
+读取的图片张数:59
+start compute the 1 pairs matches
+the detect valid keypoints number 394
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.45042943954467773
+the detect valid keypoints number 374
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44356560707092285
+The Average Precision of a pair images:0.860543023394019
+start compute the 2 pairs matches
+the detect valid keypoints number 394
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4418020248413086
+the detect valid keypoints number 390
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.44240808486938477
+The Average Precision of a pair images:0.5807174515267082
+start compute the 3 pairs matches
+the detect valid keypoints number 394
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4415426254272461
+the detect valid keypoints number 414
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4417400360107422
+The Average Precision of a pair images:0.10057739471438813
+start compute the 4 pairs matches
+the detect valid keypoints number 394
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.466228723526001
+the detect valid keypoints number 355
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.455794095993042
+The Average Precision of a pair images:0.31199172870348457
+start compute the 5 pairs matches
+the detect valid keypoints number 394
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.5054080486297607
+the detect valid keypoints number 348
+加载Auto Encoder......
+加载Auto Encoder共耗时:0.4428129196166992
+The Average Precision of a pair images:0.04862149254849081
+提取描述符平均耗时:15.262967681884765
+计算描述符距离平均耗时:0.1056645393371582
+
+
+所有数据的平均精度为:0.42643923473221773
+总共耗时:3878.9109473228455
