@@ -8,10 +8,10 @@ from sklearn import preprocessing
 ######Input tensor1(m,n),tensor2(k,n)
 ######Output tensor matrix(m,k)
 def euclidean_distance(des1,des2):
-    pdist=torch.nn.PairwiseDistance(2)
-    dis_matrix=torch.zeros((len(des1),len(des2))).cuda()
+    pdist = torch.nn.PairwiseDistance(2)
+    dis_matrix = torch.zeros((len(des1),len(des2))).cuda()
     for i in range(len(des1)):
-        dis_matrix[i]=pdist(des1[i].reshape(1,-1),des2)
+        dis_matrix[i] = pdist(des1[i].reshape(1,-1),des2)
     return dis_matrix.cpu().numpy()
 
 def euclidean_distance_numpy(des1, des2):
