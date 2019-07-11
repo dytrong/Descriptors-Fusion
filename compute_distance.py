@@ -17,7 +17,7 @@ def euclidean_distance(des1,des2):
 def euclidean_distance_numpy(des1, des2):
     dis_matrix = np.zeros((len(des1),len(des2)))
     for i in range(len(des1)):
-        dis_matrix[i] = np.linalg.norm(des1[i].reshape(1,-1) - des2) 
+        dis_matrix[i] = np.linalg.norm(des1[i].reshape(1,-1) - des2, axis=1) 
     print(dis_matrix)
     return dis_matrix
 
